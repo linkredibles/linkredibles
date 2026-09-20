@@ -1,0 +1,9 @@
+{
+    "slug": "umami",
+    "name": "Umami",
+    "description": "A privacy-focused analytics platform that can be self-hosted without cookies or surveillance.",
+    "github": "https://github.com/umami-software/umami",
+    "categories": ["web", "self-hosted"],
+    "tags": ["analytics", "privacy", "web"],
+    "featured": false
+  }

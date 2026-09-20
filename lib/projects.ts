@@ -2,14 +2,16 @@ import fs from "fs";
 import path from "path";
 
 export type Project = {
-  slug: string;
-  name: string;
-  description: string;
-  github: string;
-  categories: string[];
-  tags: string[];
-  featured: boolean;
-  githubData?: {
+    slug: string;
+    name: string;
+    description: string;
+    why?: string;
+    website?: string;
+    github: string;
+    categories: string[];
+    tags: string[];
+    featured: boolean;
+    githubData?: {
     stars: number;
     forks: number;
     language: string | null;

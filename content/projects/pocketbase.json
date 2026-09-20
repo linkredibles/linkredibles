@@ -1,0 +1,9 @@
+{
+    "slug": "pocketbase",
+    "name": "PocketBase",
+    "description": "An open-source backend packed into a single executable, with a database, authentication, file storage, and an admin dashboard.",
+    "github": "https://github.com/pocketbase/pocketbase",
+    "categories": ["developer-tools", "self-hosted"],
+    "tags": ["backend", "database", "go"],
+    "featured": false
+  }

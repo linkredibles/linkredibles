@@ -1,0 +1,9 @@
+{
+    "slug": "actual-budget",
+    "name": "Actual Budget",
+    "description": "A local-first personal finance app focused on giving you control over your financial data.",
+    "github": "https://github.com/actualbudget/actual",
+    "categories": ["productivity", "self-hosted"],
+    "tags": ["finance", "budgeting", "local-first"],
+    "featured": false
+  }

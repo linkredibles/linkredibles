@@ -1,0 +1,9 @@
+{
+    "slug": "continue",
+    "name": "Continue",
+    "description": "An open-source coding agent available across the terminal, IDEs, and development workflows.",
+    "github": "https://github.com/continuedev/continue",
+    "categories": ["ai", "developer-tools"],
+    "tags": ["ai", "coding", "agent"],
+    "featured": false
+  }

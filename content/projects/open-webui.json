@@ -2,6 +2,8 @@
     "slug": "open-webui",
     "name": "Open WebUI",
     "description": "A self-hosted AI interface designed to work with local and cloud-based LLMs.",
+    "why": "A polished way to bring local and self-hosted AI models into a familiar chat experience.",
+    "website": "https://openwebui.com",
     "github": "https://github.com/open-webui/open-webui",
     "categories": ["ai", "self-hosted"],
     "tags": ["llm", "self-hosted", "ai"],

@@ -1,0 +1,9 @@
+{
+    "slug": "appwrite",
+    "name": "Appwrite",
+    "description": "An open-source backend platform providing APIs and services for building web, mobile, and server-side applications.",
+    "github": "https://github.com/appwrite/appwrite",
+    "categories": ["developer-tools", "web"],
+    "tags": ["backend", "api", "cloud"],
+    "featured": false
+  }

@@ -1,0 +1,9 @@
+{
+    "slug": "dub",
+    "name": "Dub",
+    "description": "An open-source link attribution platform for short links, conversion tracking, and affiliate programs.",
+    "github": "https://github.com/dubinc/dub",
+    "categories": ["web", "developer-tools"],
+    "tags": ["links", "analytics", "nextjs"],
+    "featured": false
+  }

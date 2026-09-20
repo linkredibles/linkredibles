@@ -1,0 +1,9 @@
+{
+    "slug": "langflow",
+    "name": "Langflow",
+    "description": "A visual platform for building and deploying AI-powered agents and workflows.",
+    "github": "https://github.com/langflow-ai/langflow",
+    "categories": ["ai", "developer-tools"],
+    "tags": ["ai", "agents", "workflows"],
+    "featured": false
+  }

@@ -1,0 +1,11 @@
+{
+    "slug": "appflowy",
+    "name": "AppFlowy",
+    "description": "An open-source workspace for notes, tasks, databases, and knowledge management.",
+    "why": "A thoughtful alternative to all-in-one productivity platforms, with your data under your control.",
+    "website": "https://appflowy.com",
+    "github": "https://github.com/AppFlowy-IO/AppFlowy",
+    "categories": ["productivity", "self-hosted"],
+    "tags": ["productivity", "notes", "workspace"],
+    "featured": true
+  }

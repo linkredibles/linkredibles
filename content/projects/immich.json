@@ -1,0 +1,9 @@
+{
+    "slug": "immich",
+    "name": "Immich",
+    "description": "A high-performance self-hosted solution for backing up, viewing, managing, and sharing photos and videos.",
+    "github": "https://github.com/immich-app/immich",
+    "categories": ["self-hosted"],
+    "tags": ["photos", "video", "self-hosted"],
+    "featured": false
+  }

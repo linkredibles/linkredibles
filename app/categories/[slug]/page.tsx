@@ -1,4 +1,5 @@
 import Link from "next/link";
+
 import { notFound } from "next/navigation";
 
 import { getCategories } from "@/lib/categories";
@@ -38,24 +39,17 @@ export default async function CategoryPage({
 
   return (
     <main className="min-h-screen bg-white text-zinc-950">
-      <nav className="mx-auto flex max-w-5xl items-center justify-between px-6 py-6">
-        <Link
-          href="/"
-          className="text-xl font-semibold tracking-tight"
-        >
-          linkredibles
-        </Link>
+      <section className="mx-auto max-w-5xl px-6 pb-24 pt-16">
+        <div className="flex justify-end">
+          <Link
+            href="/categories"
+            className="text-sm text-zinc-600 transition hover:text-zinc-950"
+          >
+            ← Back to categories
+          </Link>
+        </div>
 
-        <Link
-          href="/categories"
-          className="text-sm text-zinc-600 transition hover:text-zinc-950"
-        >
-          ← Back to categories
-        </Link>
-      </nav>
-
-      <section className="mx-auto max-w-5xl px-6 pb-24 pt-20">
-        <div className="max-w-3xl">
+        <div className="mt-12 max-w-3xl">
           <p className="text-sm font-medium uppercase tracking-[0.18em] text-zinc-400">
             Category
           </p>

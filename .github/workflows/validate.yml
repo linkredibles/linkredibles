@@ -1,0 +1,41 @@
+name: Validate content
+
+on:
+  pull_request:
+    paths:
+      - "content/**"
+      - "scripts/validate-content.ts"
+      - "package.json"
+      - "package-lock.json"
+      - ".github/workflows/validate.yml"
+
+  push:
+    branches:
+      - main
+    paths:
+      - "content/**"
+      - "scripts/validate-content.ts"
+      - "package.json"
+      - "package-lock.json"
+      - ".github/workflows/validate.yml"
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Validate content
+        run: npm run validate
+

@@ -2,6 +2,8 @@
     "slug": "hoppscotch",
     "name": "Hoppscotch",
     "description": "A fast, open-source API development ecosystem for testing and working with APIs.",
+    "why": "A fast, browser-friendly alternative for developers who want an open-source way to work with APIs.",
+    "website": "https://hoppscotch.com",
     "github": "https://github.com/hoppscotch/hoppscotch",
     "categories": ["developer-tools"],
     "tags": ["api", "developer-tools", "testing"],

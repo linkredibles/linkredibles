@@ -1,0 +1,9 @@
+{
+    "slug": "penpot",
+    "name": "Penpot",
+    "description": "An open-source design and prototyping platform built for collaborative product design.",
+    "github": "https://github.com/penpot/penpot",
+    "categories": ["design"],
+    "tags": ["design", "prototyping", "collaboration"],
+    "featured": false
+  }

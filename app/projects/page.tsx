@@ -1,4 +1,5 @@
 import Link from "next/link";
+
 import { getProjects } from "@/lib/projects";
 
 export default async function ProjectsPage() {
@@ -6,24 +7,19 @@ export default async function ProjectsPage() {
 
   return (
     <main className="min-h-screen bg-white text-zinc-950">
-      <nav className="mx-auto flex max-w-6xl items-center justify-between px-6 py-6">
-        <Link
-          href="/"
-          className="text-xl font-semibold tracking-tight"
-        >
-          linkredibles
-        </Link>
+      <section className="mx-auto max-w-6xl px-6 pb-24 pt-12">
+        <div className="flex items-center justify-between">
+          <div />
 
-        <Link
-          href="/#discover"
-          className="text-sm text-zinc-600 transition hover:text-zinc-950"
-        >
-          ← Back to discover
-        </Link>
-      </nav>
+          <Link
+            href="/#discover"
+            className="text-sm text-zinc-600 transition hover:text-zinc-950"
+          >
+            ← Back to discover
+          </Link>
+        </div>
 
-      <section className="mx-auto max-w-6xl px-6 pb-24 pt-20">
-        <div className="max-w-3xl">
+        <div className="mt-16 max-w-3xl">
           <p className="text-sm font-medium uppercase tracking-[0.18em] text-zinc-500">
             Open-source library
           </p>

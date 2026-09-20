@@ -1,0 +1,9 @@
+{
+    "slug": "plane",
+    "name": "Plane",
+    "description": "An open-source project management platform for teams that want a flexible alternative to proprietary tools.",
+    "github": "https://github.com/makeplane/plane",
+    "categories": ["productivity", "self-hosted"],
+    "tags": ["project-management", "tasks", "teams"],
+    "featured": false
+  }
