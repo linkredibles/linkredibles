@@ -1,3 +1,4 @@
+import Link from "next/link";
 import { getProjects } from "@/lib/projects";
 
 export default async function ProjectsPage() {
@@ -6,19 +7,19 @@ export default async function ProjectsPage() {
   return (
     <main className="min-h-screen bg-white text-zinc-950">
       <nav className="mx-auto flex max-w-6xl items-center justify-between px-6 py-6">
-        <a
+        <Link
           href="/"
           className="text-xl font-semibold tracking-tight"
         >
           linkredibles
-        </a>
+        </Link>
 
-        <a
+        <Link
           href="/#discover"
           className="text-sm text-zinc-600 transition hover:text-zinc-950"
         >
           ← Back to discover
-        </a>
+        </Link>
       </nav>
 
       <section className="mx-auto max-w-6xl px-6 pb-24 pt-20">
@@ -63,12 +64,12 @@ export default async function ProjectsPage() {
                   className="group flex h-full flex-col rounded-2xl border border-zinc-200 p-6 transition hover:-translate-y-1 hover:border-zinc-300 hover:shadow-lg"
                 >
                   <div className="flex items-center justify-between">
-                    <a
+                    <Link
                       href={`/categories/${project.categories[0]}`}
                       className="rounded-full bg-zinc-100 px-3 py-1 text-xs font-medium capitalize text-zinc-600 transition hover:bg-zinc-200"
                     >
                       {project.categories[0]?.replace("-", " ")}
-                    </a>
+                    </Link>
 
                     {project.featured && (
                       <span className="text-xs font-medium text-zinc-400">
@@ -78,12 +79,12 @@ export default async function ProjectsPage() {
                   </div>
 
                   <h3 className="mt-6 text-xl font-semibold tracking-tight">
-                    <a
+                    <Link
                       href={`/project/${project.slug}`}
                       className="transition hover:text-zinc-600"
                     >
                       {project.name}
-                    </a>
+                    </Link>
                   </h3>
 
                   <p className="mt-3 flex-1 text-sm leading-6 text-zinc-600">
@@ -147,4 +148,3 @@ export default async function ProjectsPage() {
     </main>
   );
 }
-

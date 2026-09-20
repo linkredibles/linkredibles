@@ -1,3 +1,4 @@
+import Link from "next/link";
 import { getCategories } from "@/lib/categories";
 
 export default function CategoriesPage() {
@@ -6,19 +7,19 @@ export default function CategoriesPage() {
   return (
     <main className="min-h-screen bg-white text-zinc-950">
       <nav className="mx-auto flex max-w-5xl items-center justify-between px-6 py-6">
-        <a
+        <Link
           href="/"
           className="text-xl font-semibold tracking-tight"
         >
           linkredibles
-        </a>
+        </Link>
 
-        <a
+        <Link
           href="/#discover"
           className="text-sm text-zinc-600 transition hover:text-zinc-950"
         >
           ← Back to discover
-        </a>
+        </Link>
       </nav>
 
       <section className="mx-auto max-w-5xl px-6 pb-24 pt-20">
@@ -38,7 +39,7 @@ export default function CategoriesPage() {
 
         <div className="mt-16 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
           {categories.map((category) => (
-            <a
+            <Link
               key={category.slug}
               href={`/categories/${category.slug}`}
               className="group rounded-2xl border border-zinc-200 p-6 transition hover:border-zinc-300 hover:shadow-sm"
@@ -54,7 +55,7 @@ export default function CategoriesPage() {
               <span className="mt-6 inline-block text-sm font-medium text-zinc-500 transition group-hover:text-zinc-950">
                 Explore category →
               </span>
-            </a>
+            </Link>
           ))}
         </div>
       </section>

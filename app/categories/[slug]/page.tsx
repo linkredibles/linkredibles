@@ -1,4 +1,6 @@
+import Link from "next/link";
 import { notFound } from "next/navigation";
+
 import { getCategories } from "@/lib/categories";
 import { getProjects } from "@/lib/projects";
 
@@ -37,19 +39,19 @@ export default async function CategoryPage({
   return (
     <main className="min-h-screen bg-white text-zinc-950">
       <nav className="mx-auto flex max-w-5xl items-center justify-between px-6 py-6">
-        <a
+        <Link
           href="/"
           className="text-xl font-semibold tracking-tight"
         >
           linkredibles
-        </a>
+        </Link>
 
-        <a
+        <Link
           href="/categories"
           className="text-sm text-zinc-600 transition hover:text-zinc-950"
         >
           ← Back to categories
-        </a>
+        </Link>
       </nav>
 
       <section className="mx-auto max-w-5xl px-6 pb-24 pt-20">
@@ -86,9 +88,8 @@ export default async function CategoryPage({
           ) : (
             <div className="mt-8 grid gap-6 sm:grid-cols-2">
               {categoryProjects.map((project) => (
-                <a
+                <article
                   key={project.slug}
-                  href={`/project/${project.slug}`}
                   className="group rounded-2xl border border-zinc-200 p-6 transition hover:border-zinc-300 hover:shadow-sm"
                 >
                   <div className="flex flex-wrap items-center gap-2">
@@ -99,8 +100,13 @@ export default async function CategoryPage({
                     )}
                   </div>
 
-                  <h3 className="mt-5 text-xl font-semibold tracking-tight transition group-hover:text-zinc-600">
-                    {project.name}
+                  <h3 className="mt-5 text-xl font-semibold tracking-tight">
+                    <Link
+                      href={`/project/${project.slug}`}
+                      className="transition group-hover:text-zinc-600"
+                    >
+                      {project.name}
+                    </Link>
                   </h3>
 
                   <p className="mt-3 leading-7 text-zinc-600">
@@ -125,15 +131,14 @@ export default async function CategoryPage({
                     </span>
 
                     <span>
-                      {project.githubData?.forks.toLocaleString() ?? "—"}{" "}
-                      forks
+                      {project.githubData?.forks.toLocaleString() ?? "—"} forks
                     </span>
 
                     {project.githubData?.language && (
                       <span>{project.githubData.language}</span>
                     )}
                   </div>
-                </a>
+                </article>
               ))}
             </div>
           )}
@@ -148,4 +153,3 @@ export default async function CategoryPage({
     </main>
   );
 }
-

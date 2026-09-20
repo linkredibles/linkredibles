@@ -1,3 +1,4 @@
+import Link from "next/link";
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
 
@@ -10,13 +11,13 @@ type ProjectPageProps = {
 };
 
 export async function generateStaticParams() {
-    const projects = await getProjects();
-  
-    return projects.map((project) => ({
-      slug: project.slug,
-    }));
-  }
-  
+  const projects = await getProjects();
+
+  return projects.map((project) => ({
+    slug: project.slug,
+  }));
+}
+
 export async function generateMetadata({
   params,
 }: ProjectPageProps): Promise<Metadata> {
@@ -63,31 +64,32 @@ export default async function ProjectPage({
   return (
     <main className="min-h-screen bg-white text-zinc-950">
       <nav className="mx-auto flex max-w-5xl items-center justify-between px-6 py-6">
-        <a
+        <Link
           href="/"
           className="text-xl font-semibold tracking-tight"
         >
           linkredibles
-        </a>
+        </Link>
 
-        <a
+        <Link
           href="/#discover"
           className="text-sm text-zinc-600 transition hover:text-zinc-950"
         >
           ← Back to discover
-        </a>
+        </Link>
       </nav>
 
       <section className="mx-auto max-w-5xl px-6 pb-24 pt-20">
         <div className="max-w-3xl">
           <div className="flex flex-wrap items-center gap-3">
             {project.categories.map((category) => (
-              <span
+              <Link
                 key={category}
-                className="rounded-full bg-zinc-100 px-3 py-1 text-xs font-medium capitalize text-zinc-600"
+                href={`/categories/${category}`}
+                className="rounded-full bg-zinc-100 px-3 py-1 text-xs font-medium capitalize text-zinc-600 transition hover:bg-zinc-200"
               >
                 {category.replace("-", " ")}
-              </span>
+              </Link>
             ))}
 
             {project.featured && (
@@ -135,6 +137,7 @@ export default async function ProjectPage({
               <p className="text-xs uppercase tracking-wider text-zinc-400">
                 Stars
               </p>
+
               <p className="mt-2 text-xl font-semibold">
                 {project.githubData?.stars.toLocaleString() ?? "—"}
               </p>
@@ -144,6 +147,7 @@ export default async function ProjectPage({
               <p className="text-xs uppercase tracking-wider text-zinc-400">
                 Forks
               </p>
+
               <p className="mt-2 text-xl font-semibold">
                 {project.githubData?.forks.toLocaleString() ?? "—"}
               </p>
@@ -153,6 +157,7 @@ export default async function ProjectPage({
               <p className="text-xs uppercase tracking-wider text-zinc-400">
                 Language
               </p>
+
               <p className="mt-2 text-xl font-semibold">
                 {project.githubData?.language ?? "—"}
               </p>
@@ -162,6 +167,7 @@ export default async function ProjectPage({
               <p className="text-xs uppercase tracking-wider text-zinc-400">
                 Updated
               </p>
+
               <p className="mt-2 text-xl font-semibold">
                 {project.githubData?.updatedAt
                   ? formatUpdatedDate(project.githubData.updatedAt)
@@ -173,6 +179,7 @@ export default async function ProjectPage({
               <p className="text-xs uppercase tracking-wider text-zinc-400">
                 License
               </p>
+
               <p className="mt-2 text-xl font-semibold">
                 {project.githubData?.license ?? "—"}
               </p>
@@ -203,4 +210,3 @@ export default async function ProjectPage({
     </main>
   );
 }
-

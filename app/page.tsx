@@ -1,3 +1,4 @@
+import Link from "next/link";
 import { getProjects } from "@/lib/projects";
 import { getCategories } from "@/lib/categories";
 
@@ -10,7 +11,7 @@ export default async function Home() {
       (new Date(date).getTime() - Date.now()) /
         (1000 * 60 * 60 * 24)
     );
-  
+
     return new Intl.RelativeTimeFormat("en", {
       numeric: "auto",
     }).format(days, "day");
@@ -20,34 +21,34 @@ export default async function Home() {
     <main className="min-h-screen bg-white text-zinc-950">
       {/* Navigation */}
       <nav className="mx-auto flex max-w-6xl items-center justify-between px-6 py-6">
-        <a
+        <Link
           href="/"
           className="text-xl font-semibold tracking-tight"
         >
           linkredibles
-        </a>
+        </Link>
 
         <div className="flex items-center gap-6 text-sm text-zinc-600">
-          <a
+          <Link
             href="#discover"
             className="transition hover:text-zinc-950"
           >
             Discover
-          </a>
+          </Link>
 
-          <a
+          <Link
             href="#categories"
             className="transition hover:text-zinc-950"
           >
             Categories
-          </a>
+          </Link>
 
-          <a
+          <Link
             href="#about"
             className="transition hover:text-zinc-950"
           >
             About
-          </a>
+          </Link>
         </div>
       </nav>
 
@@ -69,19 +70,19 @@ export default async function Home() {
           </p>
 
           <div className="mt-9 flex flex-wrap gap-4">
-            <a
+            <Link
               href="#discover"
               className="rounded-full bg-zinc-950 px-6 py-3 text-sm font-medium text-white transition hover:bg-zinc-800"
             >
               Explore projects
-            </a>
+            </Link>
 
-            <a
+            <Link
               href="#about"
               className="rounded-full border border-zinc-300 px-6 py-3 text-sm font-medium text-zinc-700 transition hover:border-zinc-400 hover:text-zinc-950"
             >
               About Linkredibles
-            </a>
+            </Link>
           </div>
         </div>
       </section>
@@ -107,12 +108,12 @@ export default async function Home() {
               </p>
             </div>
 
-            <a
+            <Link
               href="/projects"
               className="text-sm font-medium text-zinc-700 transition hover:text-zinc-950"
             >
               View all projects →
-            </a>
+            </Link>
           </div>
 
           <div className="mt-10 grid gap-5 md:grid-cols-2 lg:grid-cols-3">
@@ -123,12 +124,12 @@ export default async function Home() {
               >
                 {/* Category */}
                 <div className="flex items-center justify-between">
-                <a
-                  href={`/categories/${project.categories[0]}`}
-                  className="rounded-full bg-zinc-100 px-3 py-1 text-xs font-medium capitalize text-zinc-600 transition hover:bg-zinc-200"
-                >
-                  {project.categories[0]?.replace("-", " ")}
-                </a>
+                  <Link
+                    href={`/categories/${project.categories[0]}`}
+                    className="rounded-full bg-zinc-100 px-3 py-1 text-xs font-medium capitalize text-zinc-600 transition hover:bg-zinc-200"
+                  >
+                    {project.categories[0]?.replace("-", " ")}
+                  </Link>
 
                   {project.featured && (
                     <span className="text-xs font-medium text-zinc-400">
@@ -139,12 +140,12 @@ export default async function Home() {
 
                 {/* Project name */}
                 <h3 className="mt-6 text-xl font-semibold tracking-tight">
-                  <a
+                  <Link
                     href={`/project/${project.slug}`}
                     className="transition hover:text-zinc-600"
                   >
                     {project.name}
-                  </a>
+                  </Link>
                 </h3>
 
                 {/* Description */}
@@ -168,7 +169,8 @@ export default async function Home() {
                 <div className="mt-7 border-t border-zinc-100 pt-5">
                   <div className="flex flex-wrap gap-x-4 gap-y-2 text-xs text-zinc-500">
                     <span>
-                      ★ {project.githubData?.stars.toLocaleString() ?? "—"}
+                      ★{" "}
+                      {project.githubData?.stars.toLocaleString() ?? "—"}
                     </span>
 
                     <span>
@@ -182,11 +184,13 @@ export default async function Home() {
                     {project.githubData?.license && (
                       <span>{project.githubData.license}</span>
                     )}
-                  {project.githubData?.updatedAt && (
-                    <span>
-                      Updated {formatUpdatedDate(project.githubData.updatedAt)}
-                    </span>
-                  )}
+
+                    {project.githubData?.updatedAt && (
+                      <span>
+                        Updated{" "}
+                        {formatUpdatedDate(project.githubData.updatedAt)}
+                      </span>
+                    )}
                   </div>
 
                   <a
@@ -230,13 +234,13 @@ export default async function Home() {
 
           <div className="mt-8 flex flex-wrap gap-3">
             {categories.map((category) => (
-              <a
+              <Link
                 key={category.slug}
                 href={`/categories/${category.slug}`}
                 className="rounded-full border border-zinc-200 px-4 py-2 text-sm text-zinc-600 transition hover:border-zinc-400 hover:text-zinc-950"
               >
                 {category.name}
-              </a>
+              </Link>
             ))}
           </div>
         </div>
@@ -278,26 +282,26 @@ export default async function Home() {
           <p>© 2026 Linkredibles</p>
 
           <div className="flex gap-5">
-            <a
+            <Link
               href="#discover"
               className="transition hover:text-zinc-950"
             >
               Discover
-            </a>
+            </Link>
 
-            <a
+            <Link
               href="#categories"
               className="transition hover:text-zinc-950"
             >
               Categories
-            </a>
+            </Link>
 
-            <a
+            <Link
               href="#about"
               className="transition hover:text-zinc-950"
             >
               About
-            </a>
+            </Link>
           </div>
         </div>
       </footer>
