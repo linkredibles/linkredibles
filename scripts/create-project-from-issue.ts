@@ -51,7 +51,10 @@ type Issue = {
     "Content-Type": "application/json",
   };
   
-  async function github<T>(url: string, options: RequestInit = {}): Promise<T> {
+  async function github<T>(
+    url: string,
+    options: RequestInit = {}
+  ): Promise<T> {
     const response = await fetch(`${apiBase}${url}`, {
       ...options,
       headers: {
@@ -62,6 +65,7 @@ type Issue = {
   
     if (!response.ok) {
       const body = await response.text();
+  
       throw new Error(
         `GitHub API request failed: ${response.status} ${response.statusText}\n${body}`
       );
@@ -70,9 +74,15 @@ type Issue = {
     return response.json() as Promise<T>;
   }
   
+  function escapeRegex(value: string) {
+    return value.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+  }
+  
   function getField(body: string, label: string) {
+    const escapedLabel = escapeRegex(label);
+  
     const pattern = new RegExp(
-      `### ${label}\\s*\\n\\s*([\\s\\S]*?)(?=\\n### |$)`,
+      `### ${escapedLabel}\\s*\\n\\s*([\\s\\S]*?)(?=\\n### |$)`,
       "i"
     );
   
@@ -92,8 +102,10 @@ type Issue = {
   }
   
   function getOptionalField(body: string, label: string) {
+    const escapedLabel = escapeRegex(label);
+  
     const pattern = new RegExp(
-      `### ${label}\\s*\\n\\s*([\\s\\S]*?)(?=\\n### |$)`,
+      `### ${escapedLabel}\\s*\\n\\s*([\\s\\S]*?)(?=\\n### |$)`,
       "i"
     );
   
@@ -187,6 +199,8 @@ type Issue = {
   }
   
   async function main() {
+    console.log(`Processing issue #${issueNumber}...`);
+  
     const issue = await github<Issue>(
       `/repos/${repository}/issues/${issueNumber}`
     );
@@ -195,17 +209,35 @@ type Issue = {
       throw new Error("Issue has no body.");
     }
   
+    console.log("Reading submission fields...");
+  
     const projectName = getField(issue.body, "Project name");
+  
     const githubUrl = validateGitHubUrl(
       getField(issue.body, "GitHub repository")
     );
+  
     const website = validateWebsite(
       getOptionalField(issue.body, "Project website")
     );
-    const description = getField(issue.body, "Project description");
-    const why = getField(issue.body, "Why is it interesting?");
-    const category = normalizeCategory(getField(issue.body, "Category"));
-    const tags = parseTags(getField(issue.body, "Tags"));
+  
+    const description = getField(
+      issue.body,
+      "Project description"
+    );
+  
+    const why = getField(
+      issue.body,
+      "Why is it interesting?"
+    );
+  
+    const category = normalizeCategory(
+      getField(issue.body, "Category")
+    );
+  
+    const tags = parseTags(
+      getField(issue.body, "Tags")
+    );
   
     const slug = slugify(projectName);
   
@@ -228,13 +260,21 @@ type Issue = {
     const projectPath = `content/projects/${slug}.json`;
     const branchName = `submission/${slug}-${issueNumber}`;
   
-    const repo = await github<Repository>(`/repos/${repository}`);
+    console.log(`Project slug: ${slug}`);
+    console.log(`Project path: ${projectPath}`);
+    console.log(`Branch: ${branchName}`);
+  
+    const repo = await github<Repository>(
+      `/repos/${repository}`
+    );
   
     const defaultBranch = repo.default_branch;
   
     const branchRef = await github<GitRef>(
       `/repos/${repository}/git/ref/heads/${defaultBranch}`
     );
+  
+    console.log(`Creating branch from ${defaultBranch}...`);
   
     await github(
       `/repos/${repository}/git/refs`,
@@ -249,9 +289,17 @@ type Issue = {
   
     const fileContent = `${JSON.stringify(project, null, 2)}\n`;
   
-    const file = await github<GitBlob>(
-      `/repos/${repository}/contents/${projectPath}?ref=${branchName}`
-    ).catch(() => null);
+    let existingFile: GitBlob | null = null;
+  
+    try {
+      existingFile = await github<GitBlob>(
+        `/repos/${repository}/contents/${projectPath}?ref=${branchName}`
+      );
+    } catch {
+      existingFile = null;
+    }
+  
+    console.log(`Creating ${projectPath}...`);
   
     await github(
       `/repos/${repository}/contents/${projectPath}`,
@@ -261,10 +309,14 @@ type Issue = {
           message: `Add ${projectName}`,
           content: encodeBase64(fileContent),
           branch: branchName,
-          ...(file ? { sha: file.sha } : {}),
+          ...(existingFile
+            ? { sha: existingFile.sha }
+            : {}),
         }),
       }
     );
+  
+    console.log("Creating pull request...");
   
     const pullRequest = await github<PullRequest>(
       `/repos/${repository}/pulls`,
@@ -275,7 +327,7 @@ type Issue = {
           head: branchName,
           base: defaultBranch,
           body: [
-            `## Project submission`,
+            "## Project submission",
             "",
             `This PR was generated from #${issueNumber}.`,
             "",
@@ -285,7 +337,7 @@ type Issue = {
             "",
             `**Category:** ${category}`,
             "",
-            `Please review the generated project entry before merging.`,
+            "Please review the generated project entry before merging.",
             "",
             `Original submission: ${issue.html_url}`,
           ].join("\n"),
