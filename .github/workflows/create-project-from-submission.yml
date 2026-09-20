@@ -5,6 +5,13 @@ on:
     types:
       - labeled
 
+  workflow_dispatch:
+    inputs:
+      issue_number:
+        description: "GitHub issue number to process"
+        required: true
+        type: string
+
 permissions:
   contents: write
   pull-requests: write
@@ -12,20 +19,21 @@ permissions:
 
 jobs:
   create-project:
-    if: github.event.label.name == 'approved'
+    if: >
+      github.event_name == 'workflow_dispatch' ||
+      github.event.label.name == 'approved'
+
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       - name: Set up Node.js
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v5
         with:
           node-version: 24
-
-      - name: Install dependencies
-        run: npm ci
+          cache: npm
 
       - name: Install dependencies
         run: npm ci
@@ -34,5 +42,5 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_REPOSITORY: ${{ github.repository }}
-          ISSUE_NUMBER: ${{ github.event.issue.number }}
+          ISSUE_NUMBER: ${{ github.event_name == 'workflow_dispatch' && inputs.issue_number || github.event.issue.number }}
         run: npx tsx scripts/create-project-from-issue.ts
