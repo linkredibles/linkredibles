@@ -286,16 +286,44 @@ type Issue = {
   
     const projectPath = `content/projects/${slug}.json`;
     const branchName = `submission/${slug}-${issueNumber}`;
-  
+    
     console.log(`Project slug: ${slug}`);
     console.log(`Project path: ${projectPath}`);
     console.log(`Branch: ${branchName}`);
-  
+    
     const repo = await github<Repository>(
       `/repos/${repository}`
     );
-  
+    
     const defaultBranch = repo.default_branch;
+    
+    console.log(
+      `Checking whether ${projectPath} already exists on ${defaultBranch}...`
+    );
+    
+    try {
+      await github<GitBlob>(
+        `/repos/${repository}/contents/${projectPath}?ref=${defaultBranch}`
+      );
+    
+      throw new Error(
+        `Project "${slug}" already exists at ${projectPath} on ${defaultBranch}. ` +
+        `This submission will not overwrite an existing project.`
+      );
+    } catch (error) {
+      if (
+        error instanceof Error &&
+        error.message.includes("Project \"") &&
+        error.message.includes("already exists")
+      ) {
+        throw error;
+      }
+    
+      // A 404 means the project does not exist, which is what we want.
+      console.log(
+        `No existing project found at ${projectPath}. Continuing...`
+      );
+    }
   
     const branchRef = await github<GitRef>(
       `/repos/${repository}/git/ref/heads/${defaultBranch}`
