@@ -1,0 +1,92 @@
+name: Submit a project
+description: Suggest an open-source project for Linkredibles.
+title: "[Project Submission]: "
+labels:
+  - project-submission
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Suggest a project
+
+        Know an open-source project that deserves more attention?
+
+        Send it our way. Every submission is reviewed before being added to Linkredibles.
+
+  - type: input
+    id: project-name
+    attributes:
+      label: Project name
+      description: The name of the project.
+      placeholder: "Example: Immich"
+    validations:
+      required: true
+
+  - type: input
+    id: github-url
+    attributes:
+      label: GitHub repository
+      description: The full GitHub repository URL.
+      placeholder: "https://github.com/owner/repository"
+    validations:
+      required: true
+
+  - type: input
+    id: website
+    attributes:
+      label: Project website
+      description: The project's official website or live demo, if available.
+      placeholder: "https://example.com"
+    validations:
+      required: false
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Project description
+      description: Give us a concise description of what the project does.
+      placeholder: "What is this project?"
+    validations:
+      required: true
+
+  - type: textarea
+    id: why
+    attributes:
+      label: Why is it interesting?
+      description: Tell us what makes this project worth discovering.
+      placeholder: "What makes this project stand out?"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      description: Choose the category that best fits the project.
+      options:
+        - AI
+        - Developer Tools
+        - Web
+        - Self-Hosted
+        - Design
+        - Productivity
+    validations:
+      required: true
+
+  - type: input
+    id: tags
+    attributes:
+      label: Tags
+      description: Add a few relevant tags separated by commas.
+      placeholder: "ai, llm, self-hosted"
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: confirmation
+    attributes:
+      label: Confirmation
+      options:
+        - label: I confirm that this is an open-source project with a publicly accessible repository.
+          required: true
+

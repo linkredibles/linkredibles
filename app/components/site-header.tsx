@@ -45,12 +45,14 @@ export default function SiteHeader() {
             Search
           </Link>
 
-          <Link
-            href="/submit"
+            <a
+            href="https://github.com/linkredibles/linkredibles/issues/new?template=project-submission.yml"
+            target="_blank"
+            rel="noopener noreferrer"
             className="rounded-full bg-zinc-950 px-4 py-2.5 text-white transition hover:bg-zinc-800"
-          >
+            >
             Submit project
-          </Link>
+            </a>
         </nav>
       </div>
     </header>
