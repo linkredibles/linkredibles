@@ -21,7 +21,10 @@ jobs:
   create-project:
     if: >
       github.event_name == 'workflow_dispatch' ||
-      github.event.label.name == 'approved'
+      (
+        github.event.label.name == 'approved' &&
+        github.event.sender.login == 'linkredibles'
+      )
 
     runs-on: ubuntu-latest
 
