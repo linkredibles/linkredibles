@@ -307,73 +307,118 @@ type Issue = {
 
     /*
      * ------------------------------------------------------------
-     * 1. Prevent duplicate projects on the default branch
+     * 1. Check whether this submission branch already exists
      * ------------------------------------------------------------
      */
 
     console.log(
-      `Checking whether ${projectPath} already exists on ${defaultBranch}...`
+      `Checking whether submission branch ${branchName} already exists...`
     );
 
-    try {
-      await github<GitBlob>(
-        `/repos/${repository}/contents/${projectPath}?ref=${defaultBranch}`
-      );
-
-      throw new Error(
-        `Project "${slug}" already exists at ${projectPath} on ${defaultBranch}. ` +
-        `This submission will not overwrite an existing project.`
-      );
-    } catch (error) {
-      if (
-        error instanceof Error &&
-        error.message.includes(
-          `Project "${slug}" already exists`
-        )
-      ) {
-        throw error;
-      }
-
-      /*
-       * A 404 means the project does not exist on the default
-       * branch, which is what we want.
-       */
-      console.log(
-        `No existing project found at ${projectPath}. Continuing...`
-      );
-    }
-
-    /*
-     * ------------------------------------------------------------
-     * 2. Check whether the submission branch already exists
-     * ------------------------------------------------------------
-     */
-
-    const branchRef = await github<GitRef>(
-      `/repos/${repository}/git/ref/heads/${defaultBranch}`
-    );
-
-    let branchExists = false;
+    let branchAlreadyExists = false;
 
     try {
       await github<GitRef>(
         `/repos/${repository}/git/ref/heads/${branchName}`
       );
 
-      branchExists = true;
+      branchAlreadyExists = true;
 
       console.log(
-        `Branch ${branchName} already exists. Reusing it.`
+        `Submission branch ${branchName} already exists.`
       );
     } catch {
-      branchExists = false;
+      branchAlreadyExists = false;
+
+      console.log(
+        `Submission branch ${branchName} does not exist yet.`
+      );
     }
 
     /*
-     * Create the branch only when it does not already exist.
+     * ------------------------------------------------------------
+     * 2. If the branch already exists, determine whether this
+     *    submission was already completed.
+     * ------------------------------------------------------------
      */
 
-    if (!branchExists) {
+    if (branchAlreadyExists) {
+      console.log(
+        `Checking whether ${projectPath} already exists on ${defaultBranch}...`
+      );
+
+      try {
+        await github<GitBlob>(
+          `/repos/${repository}/contents/${projectPath}?ref=${defaultBranch}`
+        );
+
+        console.log(
+          `Project "${slug}" already exists on ${defaultBranch}.`
+        );
+
+        console.log(
+          "This submission has already been processed. Nothing to do."
+        );
+
+        return;
+      } catch {
+        console.log(
+          `Project does not yet exist on ${defaultBranch}.`
+        );
+
+        console.log(
+          "The submission branch will be reused."
+        );
+      }
+    }
+
+    /*
+     * ------------------------------------------------------------
+     * 3. Prevent a genuinely new duplicate project
+     * ------------------------------------------------------------
+     */
+
+    if (!branchAlreadyExists) {
+      console.log(
+        `Checking whether ${projectPath} already exists on ${defaultBranch}...`
+      );
+
+      try {
+        await github<GitBlob>(
+          `/repos/${repository}/contents/${projectPath}?ref=${defaultBranch}`
+        );
+
+        throw new Error(
+          `Project "${slug}" already exists at ${projectPath} on ${defaultBranch}. ` +
+          `This submission will not overwrite an existing project.`
+        );
+      } catch (error) {
+        if (
+          error instanceof Error &&
+          error.message.includes(
+            `Project "${slug}" already exists`
+          )
+        ) {
+          throw error;
+        }
+
+        console.log(
+          `No existing project found at ${projectPath}. Continuing...`
+        );
+      }
+    }
+
+    /*
+     * ------------------------------------------------------------
+     * 4. Create the submission branch when necessary
+     * ------------------------------------------------------------
+     */
+
+    if (!branchAlreadyExists) {
+      const branchRef = await github<GitRef>(
+        `/repos/${repository}/git/ref/heads/${defaultBranch}`
+      );
+
       console.log(
         `Creating branch from ${defaultBranch}...`
       );
@@ -392,7 +437,7 @@ type Issue = {
 
     /*
      * ------------------------------------------------------------
-     * 3. Create or update the project JSON file
+     * 5. Create or update the project JSON file
      * ------------------------------------------------------------
      */
 
@@ -432,7 +477,7 @@ type Issue = {
 
     /*
      * ------------------------------------------------------------
-     * 4. Check whether an open PR already exists
+     * 6. Check whether an open pull request already exists
      * ------------------------------------------------------------
      */
 
@@ -459,7 +504,7 @@ type Issue = {
 
     /*
      * ------------------------------------------------------------
-     * 5. Create the pull request
+     * 7. Create the pull request
      * ------------------------------------------------------------
      */
 
