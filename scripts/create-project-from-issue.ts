@@ -74,25 +74,32 @@ type Issue = {
     return response.json() as Promise<T>;
   }
   
-  function escapeRegex(value: string) {
-    return value.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
-  }
-  
   function getField(body: string, label: string) {
-    const escapedLabel = escapeRegex(label);
+    const lines = body.replace(/\r\n/g, "\n").split("\n");
   
-    const pattern = new RegExp(
-      `### ${escapedLabel}\\s*\\n\\s*([\\s\\S]*?)(?=\\n### |$)`,
-      "i"
+    const heading = `### ${label}`.trim();
+  
+    const headingIndex = lines.findIndex(
+      (line) => line.trim() === heading
     );
   
-    const match = body.match(pattern);
-  
-    if (!match) {
+    if (headingIndex === -1) {
       throw new Error(`Missing required field: ${label}`);
     }
   
-    const value = match[1].trim();
+    const valueLines: string[] = [];
+  
+    for (let index = headingIndex + 1; index < lines.length; index++) {
+      const line = lines[index];
+  
+      if (line.trim().startsWith("### ")) {
+        break;
+      }
+  
+      valueLines.push(line);
+    }
+  
+    const value = valueLines.join("\n").trim();
   
     if (!value || value === "_No response_") {
       throw new Error(`Empty required field: ${label}`);
@@ -102,20 +109,31 @@ type Issue = {
   }
   
   function getOptionalField(body: string, label: string) {
-    const escapedLabel = escapeRegex(label);
+    const lines = body.replace(/\r\n/g, "\n").split("\n");
   
-    const pattern = new RegExp(
-      `### ${escapedLabel}\\s*\\n\\s*([\\s\\S]*?)(?=\\n### |$)`,
-      "i"
+    const heading = `### ${label}`.trim();
+  
+    const headingIndex = lines.findIndex(
+      (line) => line.trim() === heading
     );
   
-    const match = body.match(pattern);
-  
-    if (!match) {
+    if (headingIndex === -1) {
       return undefined;
     }
   
-    const value = match[1].trim();
+    const valueLines: string[] = [];
+  
+    for (let index = headingIndex + 1; index < lines.length; index++) {
+      const line = lines[index];
+  
+      if (line.trim().startsWith("### ")) {
+        break;
+      }
+  
+      valueLines.push(line);
+    }
+  
+    const value = valueLines.join("\n").trim();
   
     if (!value || value === "_No response_") {
       return undefined;
@@ -161,7 +179,7 @@ type Issue = {
   }
   
   function validateGitHubUrl(value: string) {
-    const url = new URL(value);
+    const url = new URL(value.trim());
   
     if (url.protocol !== "https:") {
       throw new Error("GitHub URL must use HTTPS.");
@@ -185,7 +203,11 @@ type Issue = {
       return undefined;
     }
   
-    const url = new URL(value);
+    const cleanedValue = value
+      .trim()
+      .replace(/^\[([^\]]+)\]\([^)]+\)$/, "$1");
+  
+    const url = new URL(cleanedValue);
   
     if (!["http:", "https:"].includes(url.protocol)) {
       throw new Error("Project website must use HTTP or HTTPS.");
@@ -211,7 +233,10 @@ type Issue = {
   
     console.log("Reading submission fields...");
   
-    const projectName = getField(issue.body, "Project name");
+    const projectName = getField(
+      issue.body,
+      "Project name"
+    );
   
     const githubUrl = validateGitHubUrl(
       getField(issue.body, "GitHub repository")
@@ -242,7 +267,9 @@ type Issue = {
     const slug = slugify(projectName);
   
     if (!slug) {
-      throw new Error("Could not create a valid project slug.");
+      throw new Error(
+        "Could not create a valid project slug."
+      );
     }
   
     const project = {
@@ -274,7 +301,9 @@ type Issue = {
       `/repos/${repository}/git/ref/heads/${defaultBranch}`
     );
   
-    console.log(`Creating branch from ${defaultBranch}...`);
+    console.log(
+      `Creating branch from ${defaultBranch}...`
+    );
   
     await github(
       `/repos/${repository}/git/refs`,
@@ -287,7 +316,8 @@ type Issue = {
       }
     );
   
-    const fileContent = `${JSON.stringify(project, null, 2)}\n`;
+    const fileContent =
+      `${JSON.stringify(project, null, 2)}\n`;
   
     let existingFile: GitBlob | null = null;
   
@@ -345,7 +375,9 @@ type Issue = {
       }
     );
   
-    console.log(`Created PR: ${pullRequest.html_url}`);
+    console.log(
+      `Created PR: ${pullRequest.html_url}`
+    );
   }
   
   main().catch((error) => {
