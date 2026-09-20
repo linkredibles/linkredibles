@@ -1,0 +1,32 @@
+[
+    {
+      "slug": "ai",
+      "name": "AI",
+      "description": "Open-source tools, models, agents, and infrastructure for AI."
+    },
+    {
+      "slug": "developer-tools",
+      "name": "Developer Tools",
+      "description": "Tools that make building, testing, and shipping software easier."
+    },
+    {
+      "slug": "web",
+      "name": "Web",
+      "description": "Open-source frameworks, platforms, and tools for the web."
+    },
+    {
+      "slug": "self-hosted",
+      "name": "Self-Hosted",
+      "description": "Software you can run and control on your own infrastructure."
+    },
+    {
+      "slug": "design",
+      "name": "Design",
+      "description": "Open-source tools for designers, creatives, and visual work."
+    },
+    {
+      "slug": "productivity",
+      "name": "Productivity",
+      "description": "Tools for organizing work, ideas, information, and everyday tasks."
+    }
+  ]

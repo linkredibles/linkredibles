@@ -1,0 +1,9 @@
+{
+    "slug": "excalidraw",
+    "name": "Excalidraw",
+    "description": "A virtual collaborative whiteboard with a hand-drawn feel and a focus on simplicity.",
+    "github": "https://github.com/excalidraw/excalidraw",
+    "categories": ["design", "productivity"],
+    "tags": ["whiteboard", "collaboration", "react"],
+    "featured": true
+  }

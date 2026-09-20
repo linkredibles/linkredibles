@@ -1,0 +1,9 @@
+{
+    "slug": "hoppscotch",
+    "name": "Hoppscotch",
+    "description": "A fast, open-source API development ecosystem for testing and working with APIs.",
+    "github": "https://github.com/hoppscotch/hoppscotch",
+    "categories": ["developer-tools"],
+    "tags": ["api", "developer-tools", "testing"],
+    "featured": true
+  }

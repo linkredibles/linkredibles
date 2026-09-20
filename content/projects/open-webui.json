@@ -1,0 +1,9 @@
+{
+    "slug": "open-webui",
+    "name": "Open WebUI",
+    "description": "A self-hosted AI interface designed to work with local and cloud-based LLMs.",
+    "github": "https://github.com/open-webui/open-webui",
+    "categories": ["ai", "self-hosted"],
+    "tags": ["llm", "self-hosted", "ai"],
+    "featured": true
+  }
