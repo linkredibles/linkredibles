@@ -265,7 +265,7 @@ type Issue = {
       }
 
       throw new Error(
-        `GitHub repository "${owner}/${repo}" could not be found or accessed. ` +
+        `GitHub repository "${owner}/${repo}" could not be found, is private, or is not accessible. ` +
         `Please submit a public GitHub repository URL.`
       );
     }
