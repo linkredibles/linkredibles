@@ -195,7 +195,7 @@ type Issue = {
   function validateGitHubUrl(value: string) {
     const cleanedValue = value
       .trim()
-      .replace(/^\\[([^\\]]+)\\]\\([^)]+\\)$/, "$1");
+      .replace(/^\[([^\]]+)\]\([^)]+\)$/, "$1");
 
     const url = new URL(cleanedValue);
 
@@ -278,7 +278,7 @@ type Issue = {
 
     const cleanedValue = value
       .trim()
-      .replace(/^\\[([^\\]]+)\\]\\([^)]+\\)$/, "$1");
+      .replace(/^\[([^\]]+)\]\([^)]+\)$/, "$1");
 
     const url = new URL(cleanedValue);
 
