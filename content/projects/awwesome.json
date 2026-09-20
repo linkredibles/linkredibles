@@ -1,0 +1,17 @@
+{
+  "slug": "awwesome",
+  "name": "Awwesome",
+  "description": "Awwesome is an enhanced user interface for browsing Awesome Selfhosted projects, built with SvelteKit and TypeScript.",
+  "why": "It provides a searchable, modern interface for discovering self-hosted open-source software.",
+  "website": "https://awweso.me/",
+  "github": "https://github.com/Mkitzmann/awwesome",
+  "categories": [
+    "developer-tools"
+  ],
+  "tags": [
+    "self-hosted",
+    "awesome-list",
+    "sveltekit"
+  ],
+  "featured": false
+}
