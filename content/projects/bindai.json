@@ -1,9 +1,18 @@
 {
-    "slug": "bindai",
-    "name": "bindAI - Open-source Python framework",
-    "description": "BindAI brings agents, tools, workflows, memory, knowledge, model providers, APIs, integrations, and project-based architecture together in one Python framework.",
-    "github": "https://github.com/BindBrain/BindAI",
-    "categories": ["developer-tools"],
-    "tags": ["open-source", "developer-tools"],
-    "featured": false
-  }
+  "slug": "bindai",
+  "name": "BindAI",
+  "description": "BindAI brings agents, tools, workflows, memory, knowledge, model providers, APIs, integrations, and project-based architecture together in one Python framework.",
+  "why": "BindAI is an open-source Python framework for building AI applications that need more than a language model. Instead of treating an AI system as a single prompt, BindAI provides the application-level building blocks around the model.",
+  "website": "https://bindai.dev/",
+  "github": "https://github.com/bindbrain/bindai",
+  "categories": [
+    "ai"
+  ],
+  "tags": [
+    "ai",
+    "python",
+    "llm",
+    "rag"
+  ],
+  "featured": false
+}
