@@ -24,6 +24,12 @@ type Issue = {
     html_url: string;
   };
 
+  type GitHubRepository = {
+    full_name: string;
+    private: boolean;
+    html_url: string;
+  };
+
   const token = process.env.GITHUB_TOKEN;
 
   if (!token) {
@@ -187,7 +193,11 @@ type Issue = {
   }
 
   function validateGitHubUrl(value: string) {
-    const url = new URL(value.trim());
+    const cleanedValue = value
+      .trim()
+      .replace(/^\\[([^\\]]+)\\]\\([^)]+\\)$/, "$1");
+
+    const url = new URL(cleanedValue);
 
     if (url.protocol !== "https:") {
       throw new Error("GitHub URL must use HTTPS.");
@@ -206,6 +216,61 @@ type Issue = {
     return `https://github.com/${parts[0]}/${parts[1]}`;
   }
 
+  async function validatePublicGitHubRepository(
+    githubUrl: string
+  ): Promise<GitHubRepository> {
+    const url = new URL(githubUrl);
+
+    const parts = url.pathname
+      .split("/")
+      .filter(Boolean);
+
+    if (parts.length !== 2) {
+      throw new Error(
+        "GitHub URL must point to a repository."
+      );
+    }
+
+    const owner = parts[0];
+    const repo = parts[1];
+
+    console.log(
+      `Checking GitHub repository ${owner}/${repo}...`
+    );
+
+    try {
+      const githubRepository =
+        await github<GitHubRepository>(
+          `/repos/${encodeURIComponent(owner)}/${encodeURIComponent(repo)}`
+        );
+
+      if (githubRepository.private) {
+        throw new Error(
+          `GitHub repository "${githubRepository.full_name}" is private. ` +
+          `Project submissions must use a public repository.`
+        );
+      }
+
+      console.log(
+        `GitHub repository ${githubRepository.full_name} is public.`
+      );
+
+      return githubRepository;
+    } catch (error) {
+      if (
+        error instanceof Error &&
+        error.message.includes("is private")
+      ) {
+        throw error;
+      }
+
+      throw new Error(
+        `GitHub repository "${owner}/${repo}" could not be found or accessed. ` +
+        `Please submit a public GitHub repository URL.`
+      );
+    }
+  }
+
   function validateWebsite(value: string | undefined) {
     if (!value) {
       return undefined;
@@ -213,12 +278,14 @@ type Issue = {
 
     const cleanedValue = value
       .trim()
-      .replace(/^\[([^\]]+)\]\([^)]+\)$/, "$1");
+      .replace(/^\\[([^\\]]+)\\]\\([^)]+\\)$/, "$1");
 
     const url = new URL(cleanedValue);
 
     if (!["http:", "https:"].includes(url.protocol)) {
-      throw new Error("Project website must use HTTP or HTTPS.");
+      throw new Error(
+        "Project website must use HTTP or HTTPS."
+      );
     }
 
     return url.toString();
@@ -249,6 +316,8 @@ type Issue = {
     const githubUrl = validateGitHubUrl(
       getField(issue.body, "GitHub repository")
     );
+
+    await validatePublicGitHubRepository(githubUrl);
 
     const website = validateWebsite(
       getOptionalField(issue.body, "Project website")
@@ -305,11 +374,9 @@ type Issue = {
 
     const defaultBranch = repo.default_branch;
 
-    /*
-     * ------------------------------------------------------------
-     * 1. Check whether this submission branch already exists
-     * ------------------------------------------------------------
-     */
+    // ------------------------------------------------------------
+    // 1. Check whether this submission branch already exists
+    // ------------------------------------------------------------
 
     console.log(
       `Checking whether submission branch ${branchName} already exists...`
@@ -335,12 +402,10 @@ type Issue = {
       );
     }
 
-    /*
-     * ------------------------------------------------------------
-     * 2. If the branch already exists, determine whether this
-     *    submission was already completed.
-     * ------------------------------------------------------------
-     */
+    // ------------------------------------------------------------
+    // 2. If the branch already exists, determine whether this
+    //    submission was already completed
+    // ------------------------------------------------------------
 
     if (branchAlreadyExists) {
       console.log(
@@ -372,11 +437,9 @@ type Issue = {
       }
     }
 
-    /*
-     * ------------------------------------------------------------
-     * 3. Prevent a genuinely new duplicate project
-     * ------------------------------------------------------------
-     */
+    // ------------------------------------------------------------
+    // 3. Prevent a genuinely new duplicate project
+    // ------------------------------------------------------------
 
     if (!branchAlreadyExists) {
       console.log(
@@ -408,11 +471,9 @@ type Issue = {
       }
     }
 
-    /*
-     * ------------------------------------------------------------
-     * 4. Create the submission branch when necessary
-     * ------------------------------------------------------------
-     */
+    // ------------------------------------------------------------
+    // 4. Create the submission branch when necessary
+    // ------------------------------------------------------------
 
     if (!branchAlreadyExists) {
       const branchRef = await github<GitRef>(
@@ -435,11 +496,9 @@ type Issue = {
       );
     }
 
-    /*
-     * ------------------------------------------------------------
-     * 5. Create or update the project JSON file
-     * ------------------------------------------------------------
-     */
+    // ------------------------------------------------------------
+    // 5. Create or update the project JSON file
+    // ------------------------------------------------------------
 
     const fileContent =
       `${JSON.stringify(project, null, 2)}\n`;
@@ -475,11 +534,9 @@ type Issue = {
       }
     );
 
-    /*
-     * ------------------------------------------------------------
-     * 6. Check whether an open pull request already exists
-     * ------------------------------------------------------------
-     */
+    // ------------------------------------------------------------
+    // 6. Check whether an open pull request already exists
+    // ------------------------------------------------------------
 
     console.log(
       "Checking for an existing pull request..."
@@ -502,11 +559,9 @@ type Issue = {
       return;
     }
 
-    /*
-     * ------------------------------------------------------------
-     * 7. Create the pull request
-     * ------------------------------------------------------------
-     */
+    // ------------------------------------------------------------
+    // 7. Create the pull request
+    // ------------------------------------------------------------
 
     console.log("Creating pull request...");
 
