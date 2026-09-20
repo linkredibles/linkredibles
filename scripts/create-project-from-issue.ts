@@ -326,23 +326,41 @@ type Issue = {
     }
   
     const branchRef = await github<GitRef>(
-      `/repos/${repository}/git/ref/heads/${defaultBranch}`
-    );
-  
-    console.log(
-      `Creating branch from ${defaultBranch}...`
-    );
-  
-    await github(
-      `/repos/${repository}/git/refs`,
-      {
-        method: "POST",
-        body: JSON.stringify({
-          ref: `refs/heads/${branchName}`,
-          sha: branchRef.object.sha,
-        }),
+        `/repos/${repository}/git/ref/heads/${defaultBranch}`
+      );
+      
+      let branchExists = false;
+      
+      try {
+        await github<GitRef>(
+          `/repos/${repository}/git/ref/heads/${branchName}`
+        );
+      
+        branchExists = true;
+      
+        console.log(
+          `Branch ${branchName} already exists. Reusing it.`
+        );
+      } catch {
+        branchExists = false;
       }
-    );
+      
+      if (!branchExists) {
+        console.log(
+          `Creating branch from ${defaultBranch}...`
+        );
+      
+        await github(
+          `/repos/${repository}/git/refs`,
+          {
+            method: "POST",
+            body: JSON.stringify({
+              ref: `refs/heads/${branchName}`,
+              sha: branchRef.object.sha,
+            }),
+          }
+        );
+      }
   
     const fileContent =
       `${JSON.stringify(project, null, 2)}\n`;
