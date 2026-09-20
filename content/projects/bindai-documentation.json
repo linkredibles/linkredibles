@@ -1,0 +1,20 @@
+{
+  "slug": "bindai-documentation",
+  "name": "bindai-documentation",
+  "description": "BindAI brings agents, tools, workflows, memory, knowledge, model providers, APIs, integrations, and project-based architecture together in one Python framework.",
+  "why": "Build AI-powered applications, not just model calls.",
+  "website": "https://docs.bindai.dev/",
+  "github": "https://github.com/BindBrain/docs",
+  "categories": [
+    "self-hosted"
+  ],
+  "tags": [
+    "ai",
+    "llm",
+    "rag",
+    "memory",
+    "assistant",
+    "agentic workflow"
+  ],
+  "featured": false
+}
