@@ -1,0 +1,11 @@
+{
+  "slug": "full-stack-skills-agent-skills",
+  "name": "Full Stack Skills Agent Skills",
+  "description": "A collection of Agent Skills and specification guidance for creating reusable SKILL.md packages with instructions, scripts, references, and assets.",
+  "why": "Learn and reuse structured skills for software development tasks while following the open Agent Skills format.",
+  "website": "https://github.com/full-stack-skills/agent-skills",
+  "github": "https://github.com/full-stack-skills/agent-skills",
+  "categories": ["ai-agent-skills", "developer-tools", "education"],
+  "tags": ["agent-skills", "skill-md", "software-engineering", "claude-code", "codex", "cursor", "specification"],
+  "featured": false
+}

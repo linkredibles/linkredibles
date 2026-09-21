@@ -1,0 +1,11 @@
+{
+  "slug": "orca",
+  "name": "Orca",
+  "description": "An AI development environment for running fleets of coding agents in parallel isolated Git worktrees with desktop, mobile, and remote workflows.",
+  "why": "Run multiple coding agents side by side, compare their results, and manage parallel development work from one environment.",
+  "website": "https://github.com/saiichi/orca",
+  "github": "https://github.com/saiichi/orca",
+  "categories": ["ai", "developer-tools", "automation"],
+  "tags": ["coding-agents", "multi-agent", "git", "worktrees", "orchestration", "developer-tools", "cli", "automation"],
+  "featured": false
+}

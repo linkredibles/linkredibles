@@ -1,0 +1,11 @@
+{
+  "slug": "nvidia-skillspector",
+  "name": "NVIDIA SkillSpector",
+  "description": "An open-source security scanner for AI agent skills that detects vulnerabilities, malicious patterns, prompt injection, data-exfiltration risks, and supply-chain threats.",
+  "why": "Scan AI agent skills for security risks before allowing agents to execute them.",
+  "website": "https://github.com/NVIDIA/SkillSpector",
+  "github": "https://github.com/NVIDIA/SkillSpector",
+  "categories": ["security", "ai-agent-skills", "ai", "developer-tools"],
+  "tags": ["ai-agent-security", "skills", "security-scanner", "prompt-injection", "supply-chain-security", "nvidia", "cli", "ai"],
+  "featured": false
+}

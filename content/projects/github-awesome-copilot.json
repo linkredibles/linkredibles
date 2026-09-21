@@ -1,0 +1,11 @@
+{
+  "slug": "github-awesome-copilot",
+  "name": "GitHub Awesome Copilot",
+  "description": "GitHub's community-driven collection of Copilot agents, instructions, prompts, and reusable Agent Skills for specialized development workflows.",
+  "why": "Discover a broad community catalog of reusable skills and Copilot customizations.",
+  "website": "https://github.com/github/awesome-copilot",
+  "github": "https://github.com/github/awesome-copilot",
+  "categories": ["ai-agent-skills", "developer-tools", "productivity", "education"],
+  "tags": ["github-copilot", "agent-skills", "coding-agents", "developer-tools", "automation", "community", "skills", "ai"],
+  "featured": false
+}

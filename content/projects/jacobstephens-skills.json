@@ -1,0 +1,11 @@
+{
+  "slug": "jacobstephens-skills",
+  "name": "Jacob Stephens Agent Skills",
+  "description": "Reusable SKILL.md workflows for application planning, specification implementation, adversarial review, and technical adjudication.",
+  "why": "Add focused planning and review workflows to Codex, Claude Code, and other compatible agents.",
+  "website": "https://github.com/JacobStephens2/skills",
+  "github": "https://github.com/JacobStephens2/skills",
+  "categories": ["ai-agent-skills", "developer-tools", "productivity"],
+  "tags": ["agent-skills", "skill-md", "planning", "code-review", "adversarial-review", "codex", "claude-code"],
+  "featured": false
+}

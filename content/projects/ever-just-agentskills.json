@@ -1,0 +1,11 @@
+{
+  "slug": "ever-just-agentskills",
+  "name": "Ever-Just AgentSkills",
+  "description": "A large maintained library of SKILL.md procedures covering research, auditing, design, animation, deployment, technical writing, and other agent workflows.",
+  "why": "Browse a broad collection of operational procedures that can give coding agents repeatable workflows and decision guidance.",
+  "website": "https://github.com/ever-just/agentskills",
+  "github": "https://github.com/ever-just/agentskills",
+  "categories": ["ai-agent-skills", "developer-tools", "education"],
+  "tags": ["agent-skills", "skill-md", "research", "auditing", "deployment", "technical-writing", "workflows"],
+  "featured": false
+}

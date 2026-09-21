@@ -1,0 +1,11 @@
+{
+  "slug": "microsoft-cat-agent-skills",
+  "name": "Microsoft CAT Agent Skills",
+  "description": "Microsoft's CAT Agent Skills gallery for reusable capabilities targeting Cowork, Copilot Studio, Scout, and compatible agent workflows.",
+  "why": "Discover Microsoft-oriented skills designed for reusable enterprise and productivity agent workflows.",
+  "website": "https://www.microsoft.com/",
+  "github": "https://github.com/microsoft/cat-agent-skills",
+  "categories": ["ai-agent-skills", "productivity", "automation", "developer-tools"],
+  "tags": ["microsoft", "copilot", "agent-skills", "cowork", "copilot-studio", "scout", "enterprise", "automation"],
+  "featured": false
+}

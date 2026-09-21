@@ -1,0 +1,11 @@
+{
+  "slug": "agent-lightning",
+  "name": "Agent Lightning",
+  "description": "An open-source framework for training AI agents with reinforcement learning while keeping existing agent harnesses, tools, and workflows in the loop.",
+  "why": "Train and optimize AI agents using real agent workflows without having to completely rewrite the agent itself.",
+  "website": "https://github.com/microsoft/agent-lightning",
+  "github": "https://github.com/microsoft/agent-lightning",
+  "categories": ["ai-frameworks", "ai", "developer-tools"],
+  "tags": ["ai-agents", "reinforcement-learning", "agent-training", "llm", "python", "machine-learning", "optimization", "microsoft"],
+  "featured": false
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "extract-design-system",
+  "name": "Extract Design System",
+  "description": "An open-source tool and agent skill that extracts colors, typography, spacing, borders, shadows, and other design tokens from public websites.",
+  "why": "Turn an existing website's visual language into reusable design tokens and starter CSS for a new project.",
+  "website": "https://github.com/arvindrk/extract-design-system",
+  "github": "https://github.com/arvindrk/extract-design-system",
+  "categories": ["design", "ai-agent-skills", "developer-tools", "web"],
+  "tags": ["design-system", "design-tokens", "ui", "css", "frontend", "web-design", "ai-agents", "automation"],
+  "featured": false
+}

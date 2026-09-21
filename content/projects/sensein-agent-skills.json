@@ -1,0 +1,11 @@
+{
+  "slug": "sensein-agent-skills",
+  "name": "Sensein Agent Skills",
+  "description": "A collection of modular Agent Skills organized for reusable AI-assisted development workflows and compatible coding agents.",
+  "why": "Add portable skills to coding-agent environments while keeping individual capabilities independently installable.",
+  "website": "https://github.com/sensein/agent_skills",
+  "github": "https://github.com/sensein/agent_skills",
+  "categories": ["ai-agent-skills", "developer-tools", "automation"],
+  "tags": ["agent-skills", "claude-code", "codex", "development", "workflow", "automation", "coding-agents", "open-source"],
+  "featured": false
+}

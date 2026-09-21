@@ -1,0 +1,11 @@
+{
+  "slug": "mhrsdev-ai-agent-skills-library",
+  "name": "LLM Agent Skills Library",
+  "description": "A large framework-agnostic library of reusable AI agent skills with model-specific variants for Claude, GPT, GLM, and DeepSeek.",
+  "why": "Browse reusable skills across engineering, productivity, design, and other workflows with model-specific adaptations.",
+  "website": "https://github.com/mhrsdev/AI-Agent-Skills-Library",
+  "github": "https://github.com/mhrsdev/AI-Agent-Skills-Library",
+  "categories": ["ai-agent-skills", "ai", "developer-tools", "productivity"],
+  "tags": ["agent-skills", "llm", "claude", "gpt", "deepseek", "glm", "coding-agents", "productivity"],
+  "featured": false
+}

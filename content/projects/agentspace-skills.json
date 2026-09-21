@@ -1,0 +1,11 @@
+{
+  "slug": "agentspace-skills",
+  "name": "AgentSpace Skills",
+  "description": "An open-source collection of tools and agent skills for discovering, comparing, and installing capabilities across multiple AI skill registries.",
+  "why": "Help agents search across skill ecosystems and evaluate capabilities before installing them.",
+  "website": "https://github.com/agentspace-so/skills",
+  "github": "https://github.com/agentspace-so/skills",
+  "categories": ["ai-agent-skills", "developer-tools", "automation"],
+  "tags": ["agent-skills", "skill-discovery", "skills-sh", "github", "clawhub", "automation", "ai-agents", "registry"],
+  "featured": false
+}

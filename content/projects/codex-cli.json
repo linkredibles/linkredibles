@@ -1,0 +1,11 @@
+{
+  "slug": "codex-cli",
+  "name": "Codex CLI",
+  "description": "An open-source coding agent from OpenAI that runs locally and can inspect, modify, and work with software projects from the terminal.",
+  "why": "Use a local terminal-based coding agent to work directly inside repositories and development environments.",
+  "website": "https://github.com/openai/codex",
+  "github": "https://github.com/openai/codex",
+  "categories": ["ai", "developer-tools", "cli"],
+  "tags": ["ai-coding", "coding-agent", "openai", "cli", "terminal", "software-development", "llm", "developer-tools"],
+  "featured": false
+}

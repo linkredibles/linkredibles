@@ -1,0 +1,11 @@
+{
+  "slug": "jongio-agent-skills",
+  "name": "Jongio Agent Skills",
+  "description": "A cross-agent collection of AI coding skills and plugins for GitHub Copilot, Claude, Codex, Cursor, Gemini CLI, and other compatible development tools.",
+  "why": "Extend multiple coding agents with reusable GitHub, Pages, and development workflows from one repository.",
+  "website": "https://github.com/jongio/skills",
+  "github": "https://github.com/jongio/skills",
+  "categories": ["ai-agent-skills", "developer-tools", "web"],
+  "tags": ["agent-skills", "github-copilot", "claude", "codex", "cursor", "github-pages", "automation", "cross-agent"],
+  "featured": false
+}

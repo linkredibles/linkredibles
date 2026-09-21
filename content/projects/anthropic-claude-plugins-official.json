@@ -1,0 +1,11 @@
+{
+  "slug": "anthropic-claude-plugins-official",
+  "name": "Anthropic Claude Plugins Official",
+  "description": "Anthropic's official Claude Code plugin repository containing reference plugins, skills, commands, agents, and integrations.",
+  "why": "Explore official examples and reusable Claude Code extensions built around skills and plugin capabilities.",
+  "website": "https://www.anthropic.com/claude-code",
+  "github": "https://github.com/anthropics/claude-plugins-official",
+  "categories": ["ai-agent-skills", "developer-tools", "automation"],
+  "tags": ["anthropic", "claude-code", "plugins", "agent-skills", "mcp", "agents", "commands", "integrations"],
+  "featured": false
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "starchild-official-skills",
+  "name": "Starchild Official Skills",
+  "description": "A collection of official AI agent skills from Starchild covering integrations, APIs, tools, and specialized workflows.",
+  "why": "Extend AI agents with reusable integrations and task-specific capabilities through a structured skills repository.",
+  "website": "https://github.com/starchild-ai-agent/official-skills",
+  "github": "https://github.com/starchild-ai-agent/official-skills",
+  "categories": ["ai-agent-skills", "ai", "automation", "developer-tools"],
+  "tags": ["agent-skills", "ai-agents", "automation", "integrations", "apis", "tools", "mcp", "open-source"],
+  "featured": false
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "microsoft-skills",
+  "name": "Microsoft Skills",
+  "description": "Microsoft's large Agent Skills collection covering Azure, .NET, Python, AI, MCP, Copilot SDK, security, and cloud development workflows.",
+  "why": "Give coding agents specialized Microsoft and Azure knowledge across a broad range of development stacks.",
+  "website": "https://www.microsoft.com/",
+  "github": "https://github.com/microsoft/skills",
+  "categories": ["ai-agent-skills", "developer-tools", "devops", "ai"],
+  "tags": ["microsoft", "azure", "dotnet", "python", "copilot", "mcp", "cloud", "agent-skills"],
+  "featured": false
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "jpeetz-agent-skills",
+  "name": "JPeetz Agent Skills",
+  "description": "A cross-agent collection of reusable skills designed for Claude Code, Codex, Gemini CLI, Cursor, OpenClaw, GitHub Copilot, OpenCode, and other compatible agents.",
+  "why": "Install portable development capabilities across multiple AI coding environments using the Agent Skills format.",
+  "website": "https://github.com/JPeetz/agent-skills",
+  "github": "https://github.com/JPeetz/agent-skills",
+  "categories": ["ai-agent-skills", "developer-tools", "automation"],
+  "tags": ["agent-skills", "claude-code", "codex", "cursor", "openclaw", "copilot", "opencode", "cross-agent"],
+  "featured": false
+}

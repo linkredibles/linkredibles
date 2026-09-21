@@ -1,0 +1,11 @@
+{
+  "slug": "g1joshi-agent-skills",
+  "name": "G1Joshi Agent Skills",
+  "description": "A comprehensive catalog of reusable Agent Skills for AI coding assistants including Claude, Codex, Cursor, Gemini, Copilot, and other compatible tools.",
+  "why": "Browse a broad cross-agent catalog of reusable development capabilities.",
+  "website": "https://github.com/G1Joshi/Agent-Skills",
+  "github": "https://github.com/G1Joshi/Agent-Skills",
+  "categories": ["ai-agent-skills", "developer-tools", "automation"],
+  "tags": ["agent-skills", "claude", "codex", "cursor", "gemini", "github-copilot", "coding-agents", "automation"],
+  "featured": false
+}

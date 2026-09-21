@@ -1,0 +1,11 @@
+{
+  "slug": "whobat-ai-agent-skills",
+  "name": "whobat AI Agent Skills",
+  "description": "A cross-agent collection of portable SKILL.md capabilities compatible with Claude Code, Codex, OpenCode, Gemini CLI, Cursor, and other Agent Skills clients.",
+  "why": "Install reusable capabilities across multiple AI coding environments without locking workflows to one agent.",
+  "website": "https://github.com/whobat/AI-Agent-skills",
+  "github": "https://github.com/whobat/AI-Agent-skills",
+  "categories": ["ai-agent-skills", "developer-tools", "automation"],
+  "tags": ["agent-skills", "claude-code", "codex", "opencode", "gemini-cli", "cursor", "cross-agent", "automation"],
+  "featured": false
+}

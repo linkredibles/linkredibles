@@ -1,0 +1,11 @@
+{
+  "slug": "marketing-skills",
+  "name": "Marketing Skills",
+  "description": "A collection of AI agent skills covering conversion optimization, copywriting, SEO, analytics, paid advertising, research, growth, and marketing operations.",
+  "why": "Give AI agents practical workflows for turning product and marketing goals into research, content, experiments, and growth work.",
+  "website": "https://marketing-skills.com/",
+  "github": "https://github.com/coreyhaines31/marketingskills",
+  "categories": ["ai-agent-skills", "productivity", "web", "automation"],
+  "tags": ["marketing", "seo", "copywriting", "growth", "analytics", "cro", "ai-agents", "skills"],
+  "featured": false
+}

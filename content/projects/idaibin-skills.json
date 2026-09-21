@@ -1,0 +1,11 @@
+{
+  "slug": "idaibin-skills",
+  "name": "Idaibin Agent Skills",
+  "description": "A focused Agent Skills collection for repository analysis, planning, implementation, code review, delivery, browser operations, and runtime verification.",
+  "why": "Give software-engineering agents specialized workflows for taking projects from repository discovery through verification and delivery.",
+  "website": "https://github.com/idaibin/skills",
+  "github": "https://github.com/idaibin/skills",
+  "categories": ["ai-agent-skills", "developer-tools", "automation"],
+  "tags": ["agent-skills", "repository-analysis", "planning", "code-review", "testing", "browser-automation", "delivery", "verification"],
+  "featured": false
+}

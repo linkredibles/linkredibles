@@ -1,0 +1,11 @@
+{
+  "slug": "codagent-agent-skills",
+  "name": "Codagent Agent Skills",
+  "description": "A portable skill bundle for Claude Code, Codex, and Cursor covering software development workflows from evaluation and planning through implementation, validation, and pull requests.",
+  "why": "Give coding agents a consistent end-to-end software development workflow across multiple agent environments.",
+  "website": "https://github.com/Codagent-AI/agent-skills",
+  "github": "https://github.com/Codagent-AI/agent-skills",
+  "categories": ["ai-agent-skills", "developer-tools", "productivity"],
+  "tags": ["agent-skills", "claude-code", "codex", "cursor", "software-engineering", "tdd", "code-review"],
+  "featured": false
+}

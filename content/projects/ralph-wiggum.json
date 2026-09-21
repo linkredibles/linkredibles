@@ -1,0 +1,11 @@
+{
+  "slug": "ralph-wiggum",
+  "name": "Ralph Wiggum",
+  "description": "An open-source autonomous coding workflow that combines iterative agent loops with specification-driven development and verification.",
+  "why": "Run AI coding agents through repeated implementation, verification, and self-correction cycles for larger development tasks.",
+  "website": "https://github.com/fstandhartinger/ralph-wiggum",
+  "github": "https://github.com/fstandhartinger/ralph-wiggum",
+  "categories": ["ai", "developer-tools", "automation", "ai-agent-skills"],
+  "tags": ["autonomous-coding", "coding-agents", "agent-skills", "spec-driven-development", "automation", "claude-code", "cursor", "codex"],
+  "featured": false
+}

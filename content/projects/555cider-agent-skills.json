@@ -1,0 +1,11 @@
+{
+  "slug": "555cider-agent-skills",
+  "name": "555cider Agent Skills",
+  "description": "A collection of Agent Skills shared across coding-agent harnesses such as Claude Code and Codex, following the SKILL.md directory convention.",
+  "why": "Use portable coding-agent skills that can be installed across multiple compatible development environments.",
+  "website": "https://github.com/555cider/agent-skills",
+  "github": "https://github.com/555cider/agent-skills",
+  "categories": ["ai-agent-skills", "developer-tools"],
+  "tags": ["agent-skills", "skill-md", "claude-code", "codex", "coding-agents", "workflows"],
+  "featured": false
+}

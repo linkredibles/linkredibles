@@ -1,0 +1,11 @@
+{
+  "slug": "impeccable",
+  "name": "Impeccable",
+  "description": "A design skill and toolkit for AI coding agents with frontend design guidance, visual critique, deterministic design detectors, and live browser iteration.",
+  "why": "Help AI coding agents produce more polished, intentional, accessible, and visually distinctive interfaces.",
+  "website": "https://impeccable.style/",
+  "github": "https://github.com/pbakaus/impeccable",
+  "categories": ["ai-agent-skills", "design", "developer-tools", "web"],
+  "tags": ["design", "ui", "ux", "frontend", "ai-agents", "skills", "accessibility", "web-development"],
+  "featured": false
+}

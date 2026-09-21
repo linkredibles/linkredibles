@@ -1,0 +1,11 @@
+{
+  "slug": "selamy-agent-skills",
+  "name": "Selamy Agent Skills",
+  "description": "A reusable collection of public SKILL.md workflows designed to give AI agents shared capabilities across coding and automation environments.",
+  "why": "Add portable workflow knowledge to multiple AI agents while keeping skills reusable and version controlled.",
+  "website": "https://selamy.dev/",
+  "github": "https://github.com/selamy-labs/agent-skills",
+  "categories": ["ai-agent-skills", "developer-tools", "automation"],
+  "tags": ["agent-skills", "workflow-automation", "ai-agents", "coding-agents", "claude-code", "codex", "portable", "open-source"],
+  "featured": false
+}

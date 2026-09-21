@@ -1,0 +1,11 @@
+{
+  "slug": "bkircher-skills",
+  "name": "BKircher Skills",
+  "description": "A minimal Agent Skills pack for Codex and Claude Code with reusable SKILL.md workflows and references to the broader skills ecosystem.",
+  "why": "Start with a lightweight collection of portable skills without adopting a large framework.",
+  "website": "https://github.com/bkircher/skills",
+  "github": "https://github.com/bkircher/skills",
+  "categories": ["ai-agent-skills", "developer-tools"],
+  "tags": ["agent-skills", "skill-md", "codex", "claude-code", "minimal", "developer-tools"],
+  "featured": false
+}

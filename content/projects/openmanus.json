@@ -1,0 +1,11 @@
+{
+  "slug": "openmanus",
+  "name": "OpenManus",
+  "description": "An open-source framework for building general-purpose AI agents capable of planning, browsing the web, running code, and using tools.",
+  "why": "Experiment with general-purpose autonomous agents without relying on an invitation-only platform.",
+  "website": "https://openmanus.github.io/",
+  "github": "https://github.com/FoundationAgents/OpenManus",
+  "categories": ["ai", "ai-frameworks", "automation", "developer-tools"],
+  "tags": ["ai-agents", "autonomous-agents", "python", "browser-use", "tool-use", "planning", "llm", "automation"],
+  "featured": false
+}

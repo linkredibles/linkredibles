@@ -1,0 +1,11 @@
+{
+  "slug": "yoichiojima-skills",
+  "name": "YoichioJima Agent Skills",
+  "description": "A public collection of harness-agnostic Agent Skills packaged as SKILL.md instructions for compatible AI agent runtimes.",
+  "why": "Reuse portable procedural skills across different AI agent environments without tying them to one vendor.",
+  "website": "https://github.com/yoichiojima-2/skills",
+  "github": "https://github.com/yoichiojima-2/skills",
+  "categories": ["ai-agent-skills", "developer-tools", "productivity"],
+  "tags": ["agent-skills", "skill-md", "claude-code", "codex", "automation", "workflows"],
+  "featured": false
+}

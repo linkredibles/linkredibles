@@ -1,0 +1,11 @@
+{
+  "slug": "eristoddle-agent-skills",
+  "name": "Eristoddle Agent Skills",
+  "description": "A curated collection of standalone Agent Skills for coding tools, with each skill packaged as an independent SKILL.md workflow.",
+  "why": "Install focused skills individually instead of adopting an entire large skills framework.",
+  "website": "https://github.com/eristoddle/agent-skills",
+  "github": "https://github.com/eristoddle/agent-skills",
+  "categories": ["ai-agent-skills", "developer-tools"],
+  "tags": ["agent-skills", "skill-md", "claude-code", "codex", "cursor", "opencode", "gemini-cli"],
+  "featured": false
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "geekswamp-agent-skills",
+  "name": "Geekswamp Agent Skills",
+  "description": "A curated collection of reusable Codex skills for common engineering tasks, including development, testing, changelog, and Git workflows.",
+  "why": "Give coding agents reusable procedures for recurring software engineering and repository maintenance tasks.",
+  "website": "https://github.com/geekswamp/agent-skills",
+  "github": "https://github.com/geekswamp/agent-skills",
+  "categories": ["ai-agent-skills", "developer-tools", "automation"],
+  "tags": ["agent-skills", "codex", "engineering", "git", "testing", "changelog", "automation"],
+  "featured": false
+}

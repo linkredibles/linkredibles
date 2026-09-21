@@ -1,0 +1,11 @@
+{
+  "slug": "agent-skills-specification",
+  "name": "Agent Skills Specification",
+  "description": "The open Agent Skills specification and documentation defining the portable SKILL.md format, progressive disclosure model, and compatible client ecosystem.",
+  "why": "Understand the open standard behind portable AI agent skills and build interoperable skill packages.",
+  "website": "https://agentskills.io/",
+  "github": "https://github.com/agentskills/agentskills",
+  "categories": ["ai-agent-skills", "developer-tools", "education"],
+  "tags": ["agent-skills", "skill-md", "open-standard", "specification", "ai-agents", "interoperability", "developer-tools", "documentation"],
+  "featured": false
+}

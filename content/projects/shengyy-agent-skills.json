@@ -1,0 +1,11 @@
+{
+  "slug": "shengyy-agent-skills",
+  "name": "Shengyy Agent Skills",
+  "description": "Reusable AI agent skills for coding agents such as Claude Code and Codex, packaged in the portable Agent Skills format.",
+  "why": "Extend coding agents with reusable development workflows that can be installed through the skills ecosystem.",
+  "website": "https://github.com/shengyy/agent-skills",
+  "github": "https://github.com/shengyy/agent-skills",
+  "categories": ["ai-agent-skills", "developer-tools"],
+  "tags": ["agent-skills", "claude-code", "codex", "coding-agents", "developer-workflows", "automation", "skills", "open-source"],
+  "featured": false
+}

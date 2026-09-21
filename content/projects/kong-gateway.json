@@ -1,0 +1,11 @@
+{
+  "slug": "kong-gateway",
+  "name": "Kong Gateway",
+  "description": "An open-source API, AI, and MCP gateway for routing, securing, governing, and observing API and agent traffic across services and model providers.",
+  "why": "Provide a central infrastructure layer for AI, LLM, MCP, and agent traffic with routing, authentication, governance, and observability.",
+  "website": "https://konghq.com/",
+  "github": "https://github.com/Kong/kong",
+  "categories": ["ai", "api", "devops", "security"],
+  "tags": ["ai-gateway", "api-gateway", "llm", "mcp", "agent-gateway", "security", "kubernetes", "observability"],
+  "featured": false
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "nathanonn-agent-skills",
+  "name": "Nathanonn Agent Skills",
+  "description": "A reusable Agent Skills collection designed for Claude Code, Codex, Cursor, GitHub Copilot, and other compatible coding agents.",
+  "why": "Add portable software-development workflows to multiple AI coding environments.",
+  "website": "https://github.com/nathanonn/agent-skills",
+  "github": "https://github.com/nathanonn/agent-skills",
+  "categories": ["ai-agent-skills", "developer-tools", "automation"],
+  "tags": ["agent-skills", "claude-code", "codex", "cursor", "github-copilot", "coding-agents", "workflows", "automation"],
+  "featured": false
+}

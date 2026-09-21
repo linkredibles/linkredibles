@@ -1,0 +1,11 @@
+{
+  "slug": "sentenz-skills",
+  "name": "Sentenz Agent Skills",
+  "description": "A registry of modular Agent Skills and AGENTS.md capabilities for AI-assisted software development projects.",
+  "why": "Discover and integrate modular skills into development environments using the open Agent Skills ecosystem.",
+  "website": "https://github.com/sentenz/skills",
+  "github": "https://github.com/sentenz/skills",
+  "categories": ["ai-agent-skills", "developer-tools", "automation"],
+  "tags": ["agent-skills", "agents-md", "skills-cli", "developer-tools", "automation", "coding-agents", "registry", "open-source"],
+  "featured": false
+}

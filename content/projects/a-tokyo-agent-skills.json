@@ -1,0 +1,11 @@
+{
+  "slug": "a-tokyo-agent-skills",
+  "name": "A-Tokyo Agent Skills",
+  "description": "Reusable Agent Skills for AI coding assistants including production engineering, development quality, and workflow automation.",
+  "why": "Give coding agents portable engineering practices that work across multiple supported agent environments.",
+  "website": "https://github.com/a-tokyo/agent-skills",
+  "github": "https://github.com/a-tokyo/agent-skills",
+  "categories": ["ai-agent-skills", "developer-tools", "automation"],
+  "tags": ["agent-skills", "claude-code", "codex", "cursor", "production", "engineering", "automation", "coding-agents"],
+  "featured": false
+}

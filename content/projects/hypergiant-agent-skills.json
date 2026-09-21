@@ -1,0 +1,11 @@
+{
+  "slug": "hypergiant-agent-skills",
+  "name": "Hypergiant Agent Skills",
+  "description": "A collection of reusable agent skills and supporting documentation for AI-assisted software development workflows.",
+  "why": "Extend coding agents with reusable development knowledge and task-specific workflows through the Agent Skills format.",
+  "website": "https://github.com/gohypergiant/agent-skills",
+  "github": "https://github.com/gohypergiant/agent-skills",
+  "categories": ["ai-agent-skills", "developer-tools", "productivity"],
+  "tags": ["agent-skills", "ai-agents", "coding-agents", "developer-workflows", "automation", "open-source", "skills", "software-development"],
+  "featured": false
+}

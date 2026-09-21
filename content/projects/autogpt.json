@@ -1,0 +1,11 @@
+{
+  "slug": "autogpt",
+  "name": "AutoGPT",
+  "description": "An open-source platform for building, deploying, and running AI agents that can execute complete workflows from natural-language goals.",
+  "why": "Build autonomous agents that can plan and execute multi-step workflows through a visual builder or programmatic interfaces.",
+  "website": "https://agpt.co/",
+  "github": "https://github.com/Significant-Gravitas/AutoGPT",
+  "categories": ["ai", "ai-frameworks", "automation", "developer-tools"],
+  "tags": ["ai-agents", "autonomous-agents", "agent-builder", "automation", "python", "llm", "workflows", "open-source"],
+  "featured": false
+}

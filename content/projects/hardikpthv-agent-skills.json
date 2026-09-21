@@ -1,0 +1,11 @@
+{
+  "slug": "hardikpthv-agent-skills",
+  "name": "Hardikpthv Agent Skills",
+  "description": "Portable Agent Skills organized by development category, including mobile development, analytics, software engineering, and marketing workflows.",
+  "why": "Give coding agents structured workflows for practical development, analytics, and application publishing tasks.",
+  "website": "https://github.com/hardikpthv/agent-skills",
+  "github": "https://github.com/hardikpthv/agent-skills",
+  "categories": ["ai-agent-skills", "mobile", "developer-tools", "data"],
+  "tags": ["agent-skills", "mobile", "android", "ios", "analytics", "google-play", "revenuecat", "development"],
+  "featured": false
+}

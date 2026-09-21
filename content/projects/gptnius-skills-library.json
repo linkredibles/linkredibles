@@ -1,0 +1,11 @@
+{
+  "slug": "gptnius-skills-library",
+  "name": "GPTnius Skills Library",
+  "description": "A curated library of hundreds of AI agent skills spanning web development, UX, design, mobile, games, research, marketing, security, and software engineering.",
+  "why": "Browse a broad catalog of curated SKILL.md packages covering both creative and engineering workflows.",
+  "website": "https://github.com/gptnius/skills-library",
+  "github": "https://github.com/gptnius/skills-library",
+  "categories": ["ai-agent-skills", "design", "developer-tools", "web"],
+  "tags": ["agent-skills", "design", "ux", "web-development", "mobile", "games", "research", "software-engineering"],
+  "featured": false
+}

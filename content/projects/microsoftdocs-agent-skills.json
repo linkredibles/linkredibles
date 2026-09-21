@@ -1,0 +1,11 @@
+{
+  "slug": "microsoftdocs-agent-skills",
+  "name": "MicrosoftDocs Agent Skills",
+  "description": "Microsoft documentation and guidance repository covering Agent Skills across GitHub Copilot, VS Code, Claude Code, Codex, and the open skills standard.",
+  "why": "Use authoritative Microsoft guidance to understand, create, and integrate portable Agent Skills.",
+  "website": "https://learn.microsoft.com/",
+  "github": "https://github.com/MicrosoftDocs/Agent-Skills",
+  "categories": ["ai-agent-skills", "education", "developer-tools"],
+  "tags": ["microsoft", "agent-skills", "github-copilot", "vscode", "claude-code", "codex", "documentation", "standards"],
+  "featured": false
+}

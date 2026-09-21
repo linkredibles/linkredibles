@@ -1,0 +1,11 @@
+{
+  "slug": "bhaktofmahakal-agent-skills",
+  "name": "Bhaktofmahakal Agent Skills",
+  "description": "A collection of reusable skills for coding agents covering software workflows, landing pages, and workflow platform development.",
+  "why": "Give coding agents reusable capabilities for application development and specialized implementation tasks.",
+  "website": "https://github.com/bhaktofmahakal/agent-skills",
+  "github": "https://github.com/bhaktofmahakal/agent-skills",
+  "categories": ["ai-agent-skills", "developer-tools", "web", "automation"],
+  "tags": ["agent-skills", "coding-agents", "landing-pages", "workflow", "web-development", "automation", "codex", "claude-code"],
+  "featured": false
+}

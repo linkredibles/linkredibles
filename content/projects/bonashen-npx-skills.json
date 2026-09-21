@@ -1,0 +1,11 @@
+{
+  "slug": "bonashen-npx-skills",
+  "name": "npx-skills",
+  "description": "An implementation of the open Agent Skills CLI ecosystem supporting installation across many coding agents including OpenCode, Claude Code, Codex, and Cursor.",
+  "why": "Install and manage portable Agent Skills across a wide range of supported AI coding environments.",
+  "website": "https://github.com/bonashen/npx-skills",
+  "github": "https://github.com/bonashen/npx-skills",
+  "categories": ["ai-agent-skills", "developer-tools", "cli", "automation"],
+  "tags": ["npx", "skills", "agent-skills", "cli", "claude-code", "codex", "cursor", "opencode"],
+  "featured": false
+}

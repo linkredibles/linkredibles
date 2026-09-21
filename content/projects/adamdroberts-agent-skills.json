@@ -1,0 +1,11 @@
+{
+  "slug": "adamdroberts-agent-skills",
+  "name": "Adam Droberts Agent Skills",
+  "description": "A compact collection of Agent Skills distributed from one canonical source for Claude Code, Codex, and Gemini CLI.",
+  "why": "Use portable engineering workflows across multiple AI coding environments without duplicating skill definitions.",
+  "website": "https://github.com/adamdroberts/agent-skills",
+  "github": "https://github.com/adamdroberts/agent-skills",
+  "categories": ["ai-agent-skills", "developer-tools", "automation"],
+  "tags": ["agent-skills", "claude-code", "codex", "gemini-cli", "documentation", "engineering", "coding-agents", "automation"],
+  "featured": false
+}

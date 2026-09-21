@@ -1,0 +1,11 @@
+{
+  "slug": "kunalsuri-agent-skills",
+  "name": "Kunal Suri Agent Skills",
+  "description": "Portable Agent Skills designed to work across Claude Code, Codex, GitHub Copilot, Cursor, Gemini CLI, and other compatible agent systems.",
+  "why": "Use cross-tool skills without maintaining separate implementations for every coding-agent platform.",
+  "website": "https://github.com/kunalsuri/agent-skills",
+  "github": "https://github.com/kunalsuri/agent-skills",
+  "categories": ["ai-agent-skills", "developer-tools"],
+  "tags": ["agent-skills", "claude-code", "codex", "github-copilot", "cursor", "gemini-cli", "cross-platform"],
+  "featured": false
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "nvidia-agent-skills",
+  "name": "NVIDIA Agent Skills",
+  "description": "Official NVIDIA-verified agent skills for working with CUDA, robotics, simulation, physical AI, RAG, AI blueprints, and NVIDIA platform technologies.",
+  "why": "Give AI coding agents specialized workflows for NVIDIA's AI, robotics, simulation, CUDA, and RAG ecosystem.",
+  "website": "https://docs.nvidia.com/skills/",
+  "github": "https://github.com/NVIDIA/skills",
+  "categories": ["ai-agent-skills", "ai", "developer-tools", "education"],
+  "tags": ["nvidia", "cuda", "robotics", "physical-ai", "simulation", "rag", "agent-skills", "machine-learning"],
+  "featured": false
+}

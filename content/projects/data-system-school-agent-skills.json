@@ -1,0 +1,11 @@
+{
+  "slug": "data-system-school-agent-skills",
+  "name": "Data System School Agent Skills",
+  "description": "Portable skills for coding agents focused on evidence-backed codebase investigation and reusable software engineering procedures.",
+  "why": "Help coding agents understand unfamiliar repositories systematically before making implementation decisions.",
+  "website": "https://github.com/Data-System-School/agent-skills",
+  "github": "https://github.com/Data-System-School/agent-skills",
+  "categories": ["ai-agent-skills", "developer-tools", "education"],
+  "tags": ["agent-skills", "codebase-analysis", "software-architecture", "code-quality", "codex", "claude-code"],
+  "featured": false
+}

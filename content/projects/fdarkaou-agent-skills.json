@@ -1,0 +1,11 @@
+{
+  "slug": "fdarkaou-agent-skills",
+  "name": "FDarkaou Agent Skills",
+  "description": "A curated engineering workflow bundle with composable skills for planning, implementation, testing, browser validation, subagent orchestration, and review.",
+  "why": "Give coding agents a structured software-development lifecycle from idea through implementation and verification.",
+  "website": "https://github.com/fdarkaou/agent-skills",
+  "github": "https://github.com/fdarkaou/agent-skills",
+  "categories": ["ai-agent-skills", "developer-tools", "automation"],
+  "tags": ["agent-skills", "codex", "claude-code", "planning", "testing", "code-review", "orchestration", "engineering"],
+  "featured": false
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "playwright-mcp",
+  "name": "Playwright MCP",
+  "description": "An open-source Model Context Protocol server that gives AI agents browser automation capabilities through Playwright and structured accessibility snapshots.",
+  "why": "Let AI agents navigate, inspect, click, type, test, and automate websites through a standardized MCP interface.",
+  "website": "https://playwright.dev/",
+  "github": "https://github.com/microsoft/playwright-mcp",
+  "categories": ["ai", "automation", "web", "developer-tools"],
+  "tags": ["mcp", "browser-automation", "playwright", "ai-agents", "web-automation", "testing", "typescript", "microsoft"],
+  "featured": false
+}

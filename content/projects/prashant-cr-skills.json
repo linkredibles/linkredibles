@@ -1,0 +1,11 @@
+{
+  "slug": "prashant-cr-skills",
+  "name": "Prashant CR Skills",
+  "description": "A collection of open agent skills covering careers, web scraping, markets, documents, research, and other specialized workflows.",
+  "why": "Give AI agents practical capabilities for document processing, research, web analysis, career workflows, and market research.",
+  "website": "https://github.com/prashant-cr/skills",
+  "github": "https://github.com/prashant-cr/skills",
+  "categories": ["ai-agent-skills", "data", "education", "productivity"],
+  "tags": ["agent-skills", "research", "web-scraping", "documents", "pdf", "career", "finance", "automation"],
+  "featured": false
+}

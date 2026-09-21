@@ -1,0 +1,11 @@
+{
+  "slug": "buzz",
+  "name": "Buzz",
+  "description": "A self-hostable workspace where humans and AI agents collaborate through team communication, Git workflows, and agent identities on the Nostr protocol.",
+  "why": "Combine team communication, repositories, code reviews, and AI agents inside a self-hosted workspace.",
+  "website": "https://github.com/block/buzz",
+  "github": "https://github.com/block/buzz",
+  "categories": ["ai", "communication", "self-hosted", "developer-tools"],
+  "tags": ["ai-agents", "nostr", "git", "collaboration", "team-chat", "self-hosted", "rust", "agent-identity"],
+  "featured": false
+}

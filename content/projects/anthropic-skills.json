@@ -1,24 +1,11 @@
 {
-    "slug": "anthropic-skills",
-    "name": "Anthropic Skills",
-    "description": "A collection of reusable skills that extend AI assistants with specialized capabilities for tasks such as documents, spreadsheets, presentations, and PDFs.",
-    "why": "Give AI assistants reusable, task-specific capabilities instead of rebuilding the same workflows from scratch.",
-    "website": "https://github.com/anthropics/skills",
-    "github": "https://github.com/anthropics/skills",
-    "categories": [
-      "ai-agent-skills",
-      "productivity",
-      "developer-tools"
-    ],
-    "tags": [
-      "ai-agents",
-      "agent-skills",
-      "claude",
-      "automation",
-      "documents",
-      "spreadsheets",
-      "presentations",
-      "pdf"
-    ],
-    "featured": false
-  }
+  "slug": "anthropic-skills",
+  "name": "Anthropic Skills",
+  "description": "Anthropic's official collection of reusable Agent Skills covering document creation, PDFs, presentations, spreadsheets, and other Claude workflows.",
+  "why": "Give compatible AI agents ready-made skills for common document and knowledge-work tasks.",
+  "website": "https://www.anthropic.com/",
+  "github": "https://github.com/anthropics/skills",
+  "categories": ["ai-agent-skills", "productivity", "education", "developer-tools"],
+  "tags": ["anthropic", "claude", "agent-skills", "documents", "pdf", "pptx", "xlsx", "docx"],
+  "featured": false
+}

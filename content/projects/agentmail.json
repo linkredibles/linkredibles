@@ -1,0 +1,11 @@
+{
+  "slug": "agentmail",
+  "name": "AgentMail",
+  "description": "An open-source Go CLI and MCP server for asynchronous communication between AI agents running across tmux sessions.",
+  "why": "Let multiple AI agents communicate, exchange tasks, track availability, and coordinate work through a lightweight messaging system.",
+  "website": "https://github.com/UserAd/AgentMail",
+  "github": "https://github.com/UserAd/AgentMail",
+  "categories": ["ai", "ai-agent-skills", "communication", "cli"],
+  "tags": ["ai-agents", "agent-communication", "mcp", "cli", "go", "tmux", "multi-agent", "orchestration"],
+  "featured": false
+}

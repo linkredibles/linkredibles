@@ -1,0 +1,11 @@
+{
+  "slug": "alpharigel-agent-skills",
+  "name": "Alpharigel Agent Skills",
+  "description": "Coding-agent skills for Claude Code and OpenAI Codex covering specialized development workflows such as web and mobile testing and feedback automation.",
+  "why": "Extend coding agents with reusable skills for focused development and testing workflows.",
+  "website": "https://github.com/alpharigel/agent-skills",
+  "github": "https://github.com/alpharigel/agent-skills",
+  "categories": ["ai-agent-skills", "developer-tools", "developer-tools"],
+  "tags": ["agent-skills", "claude-code", "codex", "developer-tools", "web", "mobile", "automation"],
+  "featured": false
+}

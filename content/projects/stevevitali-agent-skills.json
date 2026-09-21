@@ -1,0 +1,11 @@
+{
+  "slug": "stevevitali-agent-skills",
+  "name": "SteveVitali Agent Skills",
+  "description": "Research-grounded, harness-agnostic Agent Skills focused on disciplined implementation, code review, PR workflows, documentation, and engineering verification.",
+  "why": "Give coding agents structured engineering processes designed around evidence, review, verification, and maintainable delivery.",
+  "website": "https://github.com/SteveVitali/agent-skills",
+  "github": "https://github.com/SteveVitali/agent-skills",
+  "categories": ["ai-agent-skills", "developer-tools", "automation"],
+  "tags": ["agent-skills", "code-review", "pull-requests", "testing", "documentation", "engineering", "verification", "coding-agents"],
+  "featured": false
+}

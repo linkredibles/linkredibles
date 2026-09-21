@@ -1,0 +1,11 @@
+{
+  "slug": "bm629-agent-skills",
+  "name": "BM629 Agent Skills",
+  "description": "A multi-skill collection installable through skills.sh with reusable workflows for Claude Code, Cursor, GitHub Copilot, Codex, and Gemini.",
+  "why": "Give compatible coding agents a broad library of portable task-specific capabilities.",
+  "website": "https://github.com/bm629/agent-skills",
+  "github": "https://github.com/bm629/agent-skills",
+  "categories": ["ai-agent-skills", "developer-tools", "automation"],
+  "tags": ["agent-skills", "skills-sh", "claude-code", "cursor", "github-copilot", "codex", "gemini", "automation"],
+  "featured": false
+}

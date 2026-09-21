@@ -1,0 +1,11 @@
+{
+  "slug": "deepseek-harness",
+  "name": "DeepSeek Harness",
+  "description": "An open-source AI agent harness from DeepSeek built around an extensible everything-is-a-plugin architecture.",
+  "why": "Experiment with modular agent systems where models, tools, interfaces, and workflows can be composed through plugins.",
+  "website": "https://deepseek-harness.github.io/deepseek-harness/",
+  "github": "https://github.com/deepseek-ai/deepseek-harness",
+  "categories": ["ai-frameworks", "ai", "developer-tools", "automation"],
+  "tags": ["ai-agents", "agent-harness", "plugins", "deepseek", "typescript", "llm", "automation", "developer-tools"],
+  "featured": false
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "kk-agent-skill-md",
+  "name": "KK Agent Skills",
+  "description": "A production-oriented collection of engineering skills for AI coding agents covering specification, planning, implementation, testing, review, and shipping.",
+  "why": "Give coding agents structured engineering workflows instead of relying on ad-hoc prompts.",
+  "website": "https://github.com/kk-agent/skill.md",
+  "github": "https://github.com/kk-agent/skill.md",
+  "categories": ["ai-agent-skills", "developer-tools", "productivity"],
+  "tags": ["agent-skills", "software-engineering", "planning", "testing", "code-review", "claude-code", "codex"],
+  "featured": false
+}

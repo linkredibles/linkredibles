@@ -1,0 +1,11 @@
+{
+  "slug": "jayrha-agentskills",
+  "name": "JayRHa AgentSkills",
+  "description": "A large community-driven library of Agent Skills containing reusable SKILL.md packages for coding, productivity, career, and other agent workflows.",
+  "why": "Browse a substantial community-maintained catalog of ready-to-use capabilities for AI agents.",
+  "website": "https://github.com/JayRHa/AgentSkills",
+  "github": "https://github.com/JayRHa/AgentSkills",
+  "categories": ["ai-agent-skills", "developer-tools", "productivity", "education"],
+  "tags": ["agent-skills", "claude-code", "codex", "gemini-cli", "cursor", "productivity", "coding-agents", "community"],
+  "featured": false
+}

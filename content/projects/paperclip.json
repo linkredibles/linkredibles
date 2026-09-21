@@ -1,0 +1,11 @@
+{
+  "slug": "paperclip",
+  "name": "Paperclip",
+  "description": "An open-source platform for orchestrating teams of AI agents with organizational goals, budgets, governance, task assignment, and agent coordination.",
+  "why": "Manage multiple AI agents as an autonomous organization with goals, roles, budgets, and operational oversight.",
+  "website": "https://paperclip.ing/",
+  "github": "https://github.com/paperclipai/paperclip",
+  "categories": ["ai", "ai-frameworks", "automation", "self-hosted"],
+  "tags": ["multi-agent", "agent-orchestration", "ai-organizations", "self-hosted", "governance", "automation", "typescript", "react"],
+  "featured": false
+}

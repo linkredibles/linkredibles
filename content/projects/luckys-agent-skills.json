@@ -1,0 +1,11 @@
+{
+  "slug": "luckys-agent-skills",
+  "name": "Luckys Agent Skills",
+  "description": "A collection of reusable agent skills focused on software design, clean code, domain-driven design, testing, refactoring, APIs, and architecture.",
+  "why": "Give coding agents structured engineering practices for designing, refactoring, testing, and maintaining software.",
+  "website": "https://github.com/luckys/agent-skills",
+  "github": "https://github.com/luckys/agent-skills",
+  "categories": ["ai-agent-skills", "developer-tools", "education"],
+  "tags": ["software-engineering", "clean-code", "ddd", "tdd", "refactoring", "architecture", "api-design", "agent-skills"],
+  "featured": false
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "opencode",
+  "name": "OpenCode",
+  "description": "An open-source AI coding agent that runs locally in the terminal and supports multiple model providers, LSP, subagents, and a desktop application.",
+  "why": "Use a provider-agnostic open-source coding agent to explore repositories, plan changes, and implement software directly from the terminal.",
+  "website": "https://opencode.ai/",
+  "github": "https://github.com/anomalyco/opencode",
+  "categories": ["ai", "developer-tools", "cli"],
+  "tags": ["ai-coding", "coding-agent", "typescript", "cli", "terminal", "lsp", "multi-provider", "llm"],
+  "featured": false
+}

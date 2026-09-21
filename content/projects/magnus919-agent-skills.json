@@ -1,0 +1,11 @@
+{
+  "slug": "magnus919-agent-skills",
+  "name": "Magnus919 Agent Skills",
+  "description": "A reusable Agent Skills collection covering the creation, review, editing, discovery, and lifecycle of SKILL.md-compatible skills.",
+  "why": "Give AI agents a dedicated reference for building and maintaining portable Agent Skills.",
+  "website": "https://github.com/magnus919/agent-skills",
+  "github": "https://github.com/magnus919/agent-skills",
+  "categories": ["ai-agent-skills", "developer-tools", "education"],
+  "tags": ["agent-skills", "skill-md", "ai-agents", "skill-development", "documentation", "developer-tools", "standards", "automation"],
+  "featured": false
+}

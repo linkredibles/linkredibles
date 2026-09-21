@@ -1,0 +1,11 @@
+{
+  "slug": "browserbase-skills",
+  "name": "Browserbase Skills",
+  "description": "An official collection of agent skills for browser automation, browser functions, tracing, and turning observed web traffic into API specifications.",
+  "why": "Give AI coding agents powerful browser automation and web interaction capabilities through Browserbase tooling.",
+  "website": "https://www.browserbase.com/",
+  "github": "https://github.com/browserbase/skills",
+  "categories": ["ai-agent-skills", "web", "automation", "developer-tools"],
+  "tags": ["browser-automation", "ai-agents", "browserbase", "web-automation", "playwright", "browser-testing", "api", "skills"],
+  "featured": false
+}

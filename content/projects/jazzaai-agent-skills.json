@@ -1,0 +1,11 @@
+{
+  "slug": "jazzaai-agent-skills",
+  "name": "JazzaAI Agent Skills",
+  "description": "A collection of production-oriented engineering skills for AI coding agents, including development workflows, GitHub tooling, and agent personas.",
+  "why": "Add structured development and repository workflows to Claude Code and other compatible coding agents.",
+  "website": "https://github.com/JazzaAI/agent-skills",
+  "github": "https://github.com/JazzaAI/agent-skills",
+  "categories": ["ai-agent-skills", "developer-tools", "automation"],
+  "tags": ["agent-skills", "claude-code", "codex", "github", "software-engineering", "workflows", "automation"],
+  "featured": false
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "agent-zero",
+  "name": "Agent Zero",
+  "description": "An open-source general-purpose personal AI agent framework with persistent memory, tool use, code execution, and multi-agent capabilities.",
+  "why": "Run and customize a general-purpose agent that can execute code, use tools, retain context, and coordinate agentic workflows.",
+  "website": "https://agent-zero.ai/",
+  "github": "https://github.com/frdel/agent-zero",
+  "categories": ["ai", "ai-frameworks", "self-hosted", "automation"],
+  "tags": ["ai-agents", "personal-agent", "memory", "code-execution", "multi-agent", "python", "self-hosted", "automation"],
+  "featured": false
+}

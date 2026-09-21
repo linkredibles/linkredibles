@@ -1,0 +1,11 @@
+{
+  "slug": "datalayer-agent-skills",
+  "name": "DataLayer Agent Skills",
+  "description": "A code-oriented Agent Skills toolkit for composing reusable Python-based tool workflows and MCP integrations for AI agents.",
+  "why": "Build agent capabilities by composing reusable skills and tool integrations programmatically.",
+  "website": "https://github.com/datalayer/agent-skills",
+  "github": "https://github.com/datalayer/agent-skills",
+  "categories": ["ai-agent-skills", "developer-tools", "automation", "api"],
+  "tags": ["agent-skills", "python", "mcp", "tools", "agent-codemode", "automation", "ai-agents"],
+  "featured": false
+}

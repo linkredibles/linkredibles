@@ -1,0 +1,11 @@
+{
+  "slug": "vercel-skills",
+  "name": "Vercel Skills",
+  "description": "Vercel's open Agent Skills ecosystem tooling and reusable skills for coding agents, including web development and frontend workflows.",
+  "why": "Give compatible coding agents reusable Vercel and web-development workflows while using the broader skills.sh ecosystem.",
+  "website": "https://vercel.com/",
+  "github": "https://github.com/vercel-labs/skills",
+  "categories": ["ai-agent-skills", "web", "developer-tools", "design"],
+  "tags": ["vercel", "skills-sh", "agent-skills", "nextjs", "react", "frontend", "web-development", "coding-agents"],
+  "featured": false
+}

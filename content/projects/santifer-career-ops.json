@@ -1,0 +1,11 @@
+{
+  "slug": "santifer-career-ops",
+  "name": "Career Ops",
+  "description": "An agent-driven career operations toolkit with reusable workflows for job tracking, skill analysis, application evaluation, and career planning.",
+  "why": "Use structured AI-assisted workflows to analyze career opportunities and organize job-search operations.",
+  "website": "https://github.com/santifer/career-ops",
+  "github": "https://github.com/santifer/career-ops",
+  "categories": ["ai-agent-skills", "productivity", "automation"],
+  "tags": ["agent-skills", "career", "job-search", "automation", "skill-analysis", "productivity", "workflows"],
+  "featured": false
+}

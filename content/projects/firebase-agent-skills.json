@@ -1,0 +1,11 @@
+{
+  "slug": "firebase-agent-skills",
+  "name": "Firebase Agent Skills",
+  "description": "Official agent skills from Firebase that give AI coding agents specialized knowledge and workflows for working with Firebase services and development tools.",
+  "why": "Give coding agents current Firebase-specific guidance, workflows, and tooling support when building applications.",
+  "website": "https://firebase.google.com/",
+  "github": "https://github.com/firebase/agent-skills",
+  "categories": ["developer-tools", "ai-agent-skills", "web", "mobile"],
+  "tags": ["firebase", "ai-agents", "agent-skills", "google", "web-development", "mobile-development", "backend", "developer-tools"],
+  "featured": false
+}

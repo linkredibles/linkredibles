@@ -1,0 +1,11 @@
+{
+  "slug": "emmraan-agent-skills",
+  "name": "Emmraan Agent Skills",
+  "description": "A large collection of portable SKILL.md modules covering software engineering, frontend development, DevOps, databases, security, marketing, and more.",
+  "why": "Give AI coding agents a broad library of reusable engineering and productivity workflows.",
+  "website": "https://github.com/Emmraan/agent-skills",
+  "github": "https://github.com/Emmraan/agent-skills",
+  "categories": ["ai-agent-skills", "developer-tools", "automation", "productivity"],
+  "tags": ["agent-skills", "software-engineering", "frontend", "devops", "databases", "security", "marketing", "automation"],
+  "featured": false
+}

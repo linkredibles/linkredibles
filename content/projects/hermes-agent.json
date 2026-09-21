@@ -1,0 +1,11 @@
+{
+  "slug": "hermes-agent",
+  "name": "Hermes Agent",
+  "description": "An open-source self-improving AI agent from Nous Research with persistent knowledge, skills, tool use, and multi-channel interfaces.",
+  "why": "Run an agent that can build skills from experience, retain knowledge, use tools, and operate across different environments.",
+  "website": "https://hermes-agent.nousresearch.com/",
+  "github": "https://github.com/NousResearch/hermes-agent",
+  "categories": ["ai", "ai-agent-skills", "automation", "self-hosted"],
+  "tags": ["ai-agents", "self-improving", "skills", "memory", "python", "cli", "telegram", "llm"],
+  "featured": false
+}

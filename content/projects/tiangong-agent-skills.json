@@ -1,0 +1,11 @@
+{
+  "slug": "tiangong-agent-skills",
+  "name": "Tiangong Agent Skills",
+  "description": "An open-source collection of AI agent skills for research, knowledge-base workflows, academic tasks, and specialized development processes.",
+  "why": "Give agents reusable workflows for research, knowledge management, academic writing, and technical tasks.",
+  "website": "https://github.com/tiangong-ai/agent-skills",
+  "github": "https://github.com/tiangong-ai/agent-skills",
+  "categories": ["ai-agent-skills", "education", "data", "developer-tools"],
+  "tags": ["agent-skills", "research", "knowledge-base", "academic", "latex", "ai-agents", "automation", "research"],
+  "featured": false
+}

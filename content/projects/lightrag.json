@@ -1,0 +1,11 @@
+{
+  "slug": "lightrag",
+  "name": "LightRAG",
+  "description": "An open-source retrieval-augmented generation framework that builds graph-based indexes to help AI systems retrieve and reason over connected information.",
+  "why": "Build RAG systems that combine document retrieval with graph-based relationships for richer contextual answers.",
+  "website": "https://github.com/HKUDS/LightRAG",
+  "github": "https://github.com/HKUDS/LightRAG",
+  "categories": ["ai-frameworks", "ai", "data", "developer-tools"],
+  "tags": ["rag", "retrieval", "knowledge-graph", "llm", "python", "embeddings", "information-retrieval", "ai"],
+  "featured": false
+}

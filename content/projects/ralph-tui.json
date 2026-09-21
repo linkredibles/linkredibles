@@ -1,0 +1,11 @@
+{
+  "slug": "ralph-tui",
+  "name": "Ralph TUI",
+  "description": "A terminal UI for orchestrating AI coding agents through task lists, PRDs, autonomous loops, intelligent task selection, and error handling.",
+  "why": "Run coding agents through long-running development task lists while keeping progress and agent activity visible.",
+  "website": "https://ralph-tui.com/",
+  "github": "https://github.com/subsy/ralph-tui",
+  "categories": ["ai", "developer-tools", "automation", "cli"],
+  "tags": ["coding-agents", "agent-orchestration", "cli", "autonomous-agents", "task-management", "tui", "automation", "developer-tools"],
+  "featured": false
+}

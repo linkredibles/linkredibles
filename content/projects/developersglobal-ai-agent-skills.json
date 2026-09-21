@@ -1,0 +1,11 @@
+{
+  "slug": "developersglobal-ai-agent-skills",
+  "name": "DevelopersGlobal AI Agent Skills",
+  "description": "A collection of production-oriented AI agent skills covering software engineering, security, RAG, memory, deployment, productivity, and safety workflows.",
+  "why": "Add practical engineering, security, and reliability workflows to AI coding agents.",
+  "website": "https://github.com/DevelopersGlobal/ai-agent-skills",
+  "github": "https://github.com/DevelopersGlobal/ai-agent-skills",
+  "categories": ["ai-agent-skills", "developer-tools", "security", "automation"],
+  "tags": ["agent-skills", "security", "rag", "memory", "prompt-injection", "software-engineering", "deployment", "productivity"],
+  "featured": false
+}

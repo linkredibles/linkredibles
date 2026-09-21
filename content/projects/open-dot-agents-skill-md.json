@@ -1,0 +1,11 @@
+{
+  "slug": "open-dot-agents-skill-md",
+  "name": "Open-Dot-Agents SKILL.md",
+  "description": "The open Agent Skills specification and documentation repository for packaging reusable AI agent capabilities as portable SKILL.md files.",
+  "why": "Learn and implement the open format used to give compatible AI agents reusable knowledge, workflows, scripts, and resources.",
+  "website": "https://agentskills.io/",
+  "github": "https://github.com/Open-Dot-Agents/SKILL.md",
+  "categories": ["ai-agent-skills", "developer-tools", "education"],
+  "tags": ["agent-skills", "skill-md", "ai-agents", "open-standard", "claude-code", "codex", "developer-tools", "specification"],
+  "featured": false
+}

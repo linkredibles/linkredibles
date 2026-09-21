@@ -1,0 +1,11 @@
+{
+  "slug": "jonhill-agent-skills",
+  "name": "Jon Hill Agent Skills",
+  "description": "A collection of portable, model-agnostic agent skills for consistent developer workflows across coding harnesses.",
+  "why": "Use reusable skills across different AI coding agents without depending on a single vendor or development environment.",
+  "website": "https://github.com/jonhill90/skills",
+  "github": "https://github.com/jonhill90/skills",
+  "categories": ["ai-agent-skills", "developer-tools", "productivity"],
+  "tags": ["agent-skills", "coding-agents", "cross-agent", "github", "cli", "developer-workflows", "portable", "automation"],
+  "featured": false
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "openai-skills",
+  "name": "OpenAI Skills",
+  "description": "OpenAI's official Codex skills catalog containing reusable skills for specialized development workflows and Codex extensions.",
+  "why": "Extend Codex with reusable domain-specific workflows, tools, and procedural knowledge.",
+  "website": "https://github.com/openai/skills",
+  "github": "https://github.com/openai/skills",
+  "categories": ["ai-agent-skills", "developer-tools", "ai", "automation"],
+  "tags": ["openai", "codex", "agent-skills", "software-engineering", "automation", "developer-tools", "ai-agents", "workflows"],
+  "featured": false
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "nikoxkx-agent-skills",
+  "name": "Nikoxkx Agent Skills",
+  "description": "A large collection of production-oriented executable SKILL.md workflows designed for Claude Code, Codex, Gemini CLI, Cursor, Copilot, and other coding agents.",
+  "why": "Give coding agents concrete engineering workflows with verification, edge cases, and repeatable execution steps.",
+  "website": "https://github.com/Nikoxkx/Agent-Skills",
+  "github": "https://github.com/Nikoxkx/Agent-Skills",
+  "categories": ["ai-agent-skills", "developer-tools", "automation"],
+  "tags": ["agent-skills", "coding-agents", "claude-code", "codex", "gemini-cli", "cursor", "copilot", "engineering"],
+  "featured": false
+}

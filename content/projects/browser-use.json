@@ -1,0 +1,11 @@
+{
+  "slug": "browser-use",
+  "name": "Browser Use",
+  "description": "An open-source framework for enabling AI agents to control and automate web browsers through natural-language tasks and programmatic browser interactions.",
+  "why": "Give AI agents the ability to navigate websites, interact with pages, extract information, and automate browser-based workflows.",
+  "website": "https://browser-use.com/",
+  "github": "https://github.com/browser-use/browser-use",
+  "categories": ["ai", "ai-frameworks", "automation", "web"],
+  "tags": ["ai-agents", "browser-automation", "web-automation", "python", "computer-use", "scraping", "browser", "llm"],
+  "featured": false
+}

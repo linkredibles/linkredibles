@@ -1,0 +1,11 @@
+{
+  "slug": "gagan114662-agent-skills",
+  "name": "Gagan114662 Agent Skills",
+  "description": "A cross-agent AI development skills repository supporting Claude Code, Cursor, Gemini CLI, Windsurf, OpenCode, Copilot, Kiro, and other coding environments.",
+  "why": "Reuse development skills across many AI coding agents without depending on a single vendor.",
+  "website": "https://github.com/gagan114662/agent-skills",
+  "github": "https://github.com/gagan114662/agent-skills",
+  "categories": ["ai-agent-skills", "developer-tools", "automation"],
+  "tags": ["agent-skills", "claude-code", "cursor", "gemini-cli", "windsurf", "opencode", "copilot", "kiro"],
+  "featured": false
+}

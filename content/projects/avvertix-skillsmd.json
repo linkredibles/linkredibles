@@ -1,0 +1,11 @@
+{
+  "slug": "avvertix-skillsmd",
+  "name": "SkillsMD",
+  "description": "A Python CLI for the open Agent Skills ecosystem that helps work with SKILL.md packages across compatible AI coding agents.",
+  "why": "Use a developer-focused CLI to discover, manage, and work with Agent Skills from the open ecosystem.",
+  "website": "https://github.com/avvertix/skillsmd",
+  "github": "https://github.com/avvertix/skillsmd",
+  "categories": ["ai-agent-skills", "developer-tools", "cli"],
+  "tags": ["skillsmd", "agent-skills", "cli", "python", "skill-md", "ai-agents", "developer-tools", "automation"],
+  "featured": false
+}

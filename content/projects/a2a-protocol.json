@@ -1,0 +1,11 @@
+{
+  "slug": "a2a-protocol",
+  "name": "A2A Protocol",
+  "description": "An open protocol for communication and interoperability between independent AI agents built with different frameworks, languages, and platforms.",
+  "why": "Enable independent AI agents to discover capabilities, exchange tasks, and collaborate across framework and vendor boundaries.",
+  "website": "https://a2a-protocol.org/",
+  "github": "https://github.com/a2aproject/A2A",
+  "categories": ["ai", "api", "developer-tools", "automation"],
+  "tags": ["a2a", "agent-interoperability", "multi-agent", "protocol", "api", "ai-agents", "distributed-systems", "open-standard"],
+  "featured": false
+}

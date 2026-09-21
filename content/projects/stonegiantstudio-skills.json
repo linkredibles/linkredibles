@@ -1,0 +1,11 @@
+{
+  "slug": "stonegiantstudio-skills",
+  "name": "Stone Giant Studio Skills",
+  "description": "Production-tested Agent Skills for Claude Code, Cursor, Codex, Gemini CLI, and other compatible coding agents.",
+  "why": "Use reusable, cross-agent workflows for common software development tasks.",
+  "website": "https://github.com/stonegiantstudio/skills",
+  "github": "https://github.com/stonegiantstudio/skills",
+  "categories": ["ai-agent-skills", "developer-tools", "automation"],
+  "tags": ["agent-skills", "claude-code", "cursor", "codex", "gemini-cli", "software-development", "automation", "workflows"],
+  "featured": false
+}

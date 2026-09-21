@@ -1,0 +1,11 @@
+{
+  "slug": "ag2",
+  "name": "AG2",
+  "description": "An open-source AgentOS framework for building cooperative multi-agent systems with tool use, human-in-the-loop workflows, and multiple LLM integrations.",
+  "why": "Build multi-agent applications where autonomous agents can collaborate, use tools, and involve humans when needed.",
+  "website": "https://ag2.ai/",
+  "github": "https://github.com/ag2ai/ag2",
+  "categories": ["ai-frameworks", "ai", "automation", "developer-tools"],
+  "tags": ["multi-agent", "ai-agents", "python", "agent-orchestration", "human-in-the-loop", "llm", "tools", "workflows"],
+  "featured": false
+}

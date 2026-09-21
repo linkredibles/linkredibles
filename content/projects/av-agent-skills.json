@@ -1,0 +1,11 @@
+{
+  "slug": "av-agent-skills",
+  "name": "AV Agent Skills",
+  "description": "A collection of Agent Skills for Claude Code, Codex, OpenCode, Cursor, and other coding agents covering orchestration, code quality, local LLMs, and writing workflows.",
+  "why": "Extend coding agents with reusable orchestration, quality, local-model, and writing capabilities.",
+  "website": "https://github.com/av/skills",
+  "github": "https://github.com/av/skills",
+  "categories": ["ai-agent-skills", "developer-tools", "automation", "ai"],
+  "tags": ["agent-skills", "claude-code", "codex", "opencode", "cursor", "orchestration", "local-llm", "writing"],
+  "featured": false
+}

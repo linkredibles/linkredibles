@@ -1,0 +1,11 @@
+{
+  "slug": "semantic-kernel-agent-skills",
+  "name": "Semantic Kernel Agent Skills",
+  "description": "Microsoft Semantic Kernel's Agent Framework guidance for building reusable skills with SKILL.md files, scripts, references, assets, and structured metadata.",
+  "why": "Learn how to package reusable agent capabilities for Semantic Kernel and compatible Agent Skills workflows.",
+  "website": "https://learn.microsoft.com/semantic-kernel/",
+  "github": "https://github.com/microsoft/semantic-kernel",
+  "categories": ["ai-frameworks", "ai-agent-skills", "developer-tools", "ai"],
+  "tags": ["semantic-kernel", "microsoft", "agent-skills", "skill-md", "ai-agents", "python", "dotnet", "framework"],
+  "featured": false
+}

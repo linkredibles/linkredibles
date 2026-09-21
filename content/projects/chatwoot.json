@@ -1,0 +1,11 @@
+{
+  "slug": "chatwoot",
+  "name": "Chatwoot",
+  "description": "An open-source, self-hosted customer support platform with omnichannel messaging, automation, and AI-powered support capabilities.",
+  "why": "Build and self-host a customer support stack that can integrate AI agents into conversations and support workflows.",
+  "website": "https://www.chatwoot.com/",
+  "github": "https://github.com/chatwoot/chatwoot",
+  "categories": ["ai", "communication", "self-hosted", "automation"],
+  "tags": ["customer-support", "ai-agents", "chat", "omnichannel", "self-hosted", "automation", "ruby", "open-source"],
+  "featured": false
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "inference-sh-skills",
+  "name": "inference.sh Skills",
+  "description": "An open-source collection of AI agent skills for accessing hundreds of models and applications through the inference.sh CLI, including image, video, LLM, search, SDK, and UI capabilities.",
+  "why": "Give AI agents a unified way to access many AI models, media generators, search tools, SDKs, and application integrations.",
+  "website": "https://inference.sh/",
+  "github": "https://github.com/inference-sh/skills",
+  "categories": ["ai-agent-skills", "ai", "media", "developer-tools"],
+  "tags": ["ai-models", "image-generation", "video-generation", "llm", "web-search", "sdk", "agent-skills", "automation"],
+  "featured": false
+}

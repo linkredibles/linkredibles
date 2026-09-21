@@ -1,0 +1,11 @@
+{
+  "slug": "bcgov-agent-skills",
+  "name": "BC Government Agent Skills",
+  "description": "A validated collection of Agent Skills with a repository-specific SKILL.md specification, contributed skills, and operational meta-skills.",
+  "why": "Explore a structured approach to validating and maintaining portable Agent Skills in a real engineering organization.",
+  "website": "https://github.com/bcgov/agent-skills",
+  "github": "https://github.com/bcgov/agent-skills",
+  "categories": ["ai-agent-skills", "developer-tools", "education"],
+  "tags": ["agent-skills", "skill-md", "specification", "validation", "github", "engineering"],
+  "featured": false
+}

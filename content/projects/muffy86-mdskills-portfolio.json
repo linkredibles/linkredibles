@@ -1,0 +1,11 @@
+{
+  "slug": "muffy86-mdskills-portfolio",
+  "name": "mdskills Portfolio",
+  "description": "A curated collection of marketplace-style SKILL.md packages compatible with Claude Code, Cursor, Codex, Gemini CLI, VS Code, Copilot, and other agents.",
+  "why": "Find reusable agent skills for research, sales, marketing, development, and other practical workflows.",
+  "website": "https://github.com/muffy86/mdskills-portfolio",
+  "github": "https://github.com/muffy86/mdskills-portfolio",
+  "categories": ["ai-agent-skills", "productivity", "developer-tools", "automation"],
+  "tags": ["agent-skills", "claude-code", "codex", "cursor", "research", "sales", "marketing", "productivity"],
+  "featured": false
+}

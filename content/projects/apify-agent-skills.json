@@ -1,0 +1,11 @@
+{
+  "slug": "apify-agent-skills",
+  "name": "Apify Agent Skills",
+  "description": "A collection of Agent Skills for Apify actor development, scraping, automation, integration development, and structured data workflows.",
+  "why": "Use reusable agent workflows for building and operating Apify-based web automation and data extraction projects.",
+  "website": "https://apify.com/",
+  "github": "https://github.com/apify/agent-skills",
+  "categories": ["ai-agent-skills", "developer-tools", "automation", "data"],
+  "tags": ["agent-skills", "apify", "web-scraping", "automation", "actors", "data-extraction", "claude-code", "codex"],
+  "featured": false
+}

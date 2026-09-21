@@ -1,0 +1,11 @@
+{
+  "slug": "514-labs-agent-skills",
+  "name": "514 Labs Agent Skills",
+  "description": "A collection of Agent Skills following the open specification, including experimental workflows for building and evaluating software-agent variants.",
+  "why": "Explore specialized skills for iterative agent-driven software development and experimentation.",
+  "website": "https://github.com/514-labs/agent-skills",
+  "github": "https://github.com/514-labs/agent-skills",
+  "categories": ["ai-agent-skills", "developer-tools", "automation"],
+  "tags": ["agent-skills", "skill-md", "experiments", "coding-agents", "automation", "evaluation"],
+  "featured": false
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "openclaw",
+  "name": "OpenClaw",
+  "description": "An open-source, local-first AI assistant that runs on personal devices and connects to messaging platforms, tools, models, and agent workflows.",
+  "why": "Run a personal AI assistant on your own hardware with persistent state, memory, integrations, and multiple communication channels.",
+  "website": "https://github.com/openclaw/openclaw",
+  "github": "https://github.com/openclaw/openclaw",
+  "categories": ["ai", "self-hosted", "automation", "communication"],
+  "tags": ["ai-assistant", "ai-agents", "local-ai", "self-hosted", "memory", "automation", "messaging", "open-source"],
+  "featured": false
+}
