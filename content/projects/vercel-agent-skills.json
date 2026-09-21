@@ -1,0 +1,24 @@
+{
+    "slug": "vercel-agent-skills",
+    "name": "Vercel Agent Skills",
+    "description": "A collection of reusable skills that extend AI coding agents with workflows and guidance for Vercel, React, Next.js, web development, and deployment.",
+    "why": "Give coding agents reusable expertise for building, optimizing, and deploying modern web applications.",
+    "website": "https://github.com/vercel-labs/agent-skills",
+    "github": "https://github.com/vercel-labs/agent-skills",
+    "categories": [
+      "ai-agent-skills",
+      "developer-tools",
+      "web"
+    ],
+    "tags": [
+      "ai-agents",
+      "agent-skills",
+      "coding-agents",
+      "react",
+      "nextjs",
+      "vercel",
+      "web-development",
+      "deployment"
+    ],
+    "featured": false
+  }

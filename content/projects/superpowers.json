@@ -1,0 +1,24 @@
+{
+    "slug": "superpowers",
+    "name": "Superpowers",
+    "description": "A software development workflow framework that gives coding agents reusable skills for planning, implementation, testing, debugging, and collaboration.",
+    "why": "Give AI coding agents a structured software development workflow instead of relying on ad-hoc prompts.",
+    "website": "https://github.com/obra/superpowers",
+    "github": "https://github.com/obra/superpowers",
+    "categories": [
+      "ai-agent-skills",
+      "developer-tools",
+      "automation"
+    ],
+    "tags": [
+      "ai-agents",
+      "agent-skills",
+      "coding-agents",
+      "software-development",
+      "workflows",
+      "tdd",
+      "testing",
+      "debugging"
+    ],
+    "featured": false
+  }

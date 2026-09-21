@@ -1,32 +1,112 @@
 [
-    {
-      "slug": "ai",
-      "name": "AI",
-      "description": "Open-source tools, models, agents, and infrastructure for AI."
-    },
-    {
-      "slug": "developer-tools",
-      "name": "Developer Tools",
-      "description": "Tools that make building, testing, and shipping software easier."
-    },
-    {
-      "slug": "web",
-      "name": "Web",
-      "description": "Open-source frameworks, platforms, and tools for the web."
-    },
-    {
-      "slug": "self-hosted",
-      "name": "Self-Hosted",
-      "description": "Software you can run and control on your own infrastructure."
-    },
-    {
-      "slug": "design",
-      "name": "Design",
-      "description": "Open-source tools for designers, creatives, and visual work."
-    },
-    {
-      "slug": "productivity",
-      "name": "Productivity",
-      "description": "Tools for organizing work, ideas, information, and everyday tasks."
-    }
-  ]
+  {
+    "slug": "ai",
+    "name": "AI",
+    "description": "Open-source tools, models, agents, and infrastructure for artificial intelligence."
+  },
+  {
+    "slug": "ai-agent-skills",
+    "name": "AI Agent Skills & Automation",
+    "description": "Open-source skills, tools, workflows, and automation capabilities for AI agents and coding assistants."
+  },
+  {
+    "slug": "developer-tools",
+    "name": "Developer Tools",
+    "description": "Tools that make building, testing, debugging, and shipping software easier."
+  },
+  {
+    "slug": "web",
+    "name": "Web",
+    "description": "Open-source frameworks, platforms, libraries, and tools for building the web."
+  },
+  {
+    "slug": "mobile",
+    "name": "Mobile",
+    "description": "Open-source frameworks, libraries, and tools for building mobile applications."
+  },
+  {
+    "slug": "desktop",
+    "name": "Desktop",
+    "description": "Open-source applications, frameworks, and tools for desktop platforms."
+  },
+  {
+    "slug": "self-hosted",
+    "name": "Self-Hosted",
+    "description": "Software you can run and control on your own infrastructure."
+  },
+  {
+    "slug": "databases",
+    "name": "Databases",
+    "description": "Open-source databases, data stores, database tools, and data infrastructure."
+  },
+  {
+    "slug": "devops",
+    "name": "DevOps & Infrastructure",
+    "description": "Tools for deployment, infrastructure, CI/CD, monitoring, containers, and cloud operations."
+  },
+  {
+    "slug": "automation",
+    "name": "Automation",
+    "description": "Open-source tools for automating workflows, tasks, integrations, and repetitive processes."
+  },
+  {
+    "slug": "api",
+    "name": "APIs & Backend",
+    "description": "Open-source tools, frameworks, and services for APIs, backend systems, and server applications."
+  },
+  {
+    "slug": "security",
+    "name": "Security",
+    "description": "Open-source tools for cybersecurity, privacy, authentication, and secure software development."
+  },
+  {
+    "slug": "data",
+    "name": "Data & Analytics",
+    "description": "Open-source tools for data processing, analytics, visualization, and data engineering."
+  },
+  {
+    "slug": "design",
+    "name": "Design",
+    "description": "Open-source tools for designers, creatives, UI/UX, graphics, and visual work."
+  },
+  {
+    "slug": "productivity",
+    "name": "Productivity",
+    "description": "Tools for organizing work, ideas, information, and everyday tasks."
+  },
+  {
+    "slug": "education",
+    "name": "Education",
+    "description": "Open-source educational software, learning resources, courses, and developer education projects."
+  },
+  {
+    "slug": "communication",
+    "name": "Communication",
+    "description": "Open-source tools for messaging, collaboration, meetings, email, and community communication."
+  },
+  {
+    "slug": "media",
+    "name": "Media",
+    "description": "Open-source tools for audio, video, photography, streaming, publishing, and digital media."
+  },
+  {
+    "slug": "blockchain",
+    "name": "Blockchain & Web3",
+    "description": "Open-source tools, infrastructure, protocols, and applications for blockchain and Web3."
+  },
+  {
+    "slug": "gaming",
+    "name": "Gaming",
+    "description": "Open-source game engines, development tools, libraries, and gaming projects."
+  },
+  {
+    "slug": "cli",
+    "name": "CLI & Terminal",
+    "description": "Open-source command-line applications, terminal tools, shells, and developer utilities."
+  },
+  {
+    "slug": "open-source-lists",
+    "name": "Open-Source Lists & Resources",
+    "description": "Curated lists, directories, collections, references, and resources for discovering open-source software."
+  }
+]
