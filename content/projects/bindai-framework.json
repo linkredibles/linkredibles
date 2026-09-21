@@ -1,0 +1,17 @@
+{
+  "slug": "bindai-framework",
+  "name": "bindai-framework",
+  "description": "Build AI-powered applications, not just model calls.",
+  "why": "BindAI brings agents, tools, workflows, memory, knowledge, model providers, APIs, integrations, and project-based architecture together in one Python framework.",
+  "github": "https://github.com/bindbrain/bindai",
+  "categories": [
+    "ai"
+  ],
+  "tags": [
+    "ai",
+    "framework",
+    "workflow",
+    "assistant"
+  ],
+  "featured": false
+}
