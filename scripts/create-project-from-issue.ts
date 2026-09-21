@@ -36,7 +36,7 @@ type Issue = {
     throw new Error("GITHUB_TOKEN is required.");
   }
 
-  const repository = process.env.GITHUB_REPOSITORY;
+  const repository: string = process.env.GITHUB_REPOSITORY ?? "";
 
   if (!repository) {
     throw new Error("GITHUB_REPOSITORY is required.");
