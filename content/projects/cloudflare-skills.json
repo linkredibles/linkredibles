@@ -1,0 +1,26 @@
+{
+  "slug": "cloudflare-skills",
+  "name": "Cloudflare Skills",
+  "description": "A collection of Agent Skills for building on Cloudflare, including Workers, the Agents SDK, Durable Objects, and the wider Cloudflare Developer Platform.",
+  "why": "Give AI coding agents specialized knowledge for building and deploying applications on Cloudflare.",
+  "website": "https://www.cloudflare.com/",
+  "github": "https://github.com/cloudflare/skills",
+  "categories": [
+    "ai-agent-skills",
+    "developer-tools",
+    "devops",
+    "api",
+    "web"
+  ],
+  "tags": [
+    "ai-agents",
+    "agent-skills",
+    "cloudflare",
+    "workers",
+    "agents-sdk",
+    "durable-objects",
+    "serverless",
+    "cloud"
+  ],
+  "featured": false
+}

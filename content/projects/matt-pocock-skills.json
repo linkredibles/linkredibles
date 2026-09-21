@@ -1,0 +1,23 @@
+{
+  "slug": "matt-pocock-skills",
+  "name": "Matt Pocock Skills",
+  "description": "A collection of engineering-focused agent skills from Matt Pocock covering practical software development workflows and tooling.",
+  "why": "Give AI coding agents reusable engineering guidance for real-world development tasks.",
+  "website": "https://www.mattpocock.com/",
+  "github": "https://github.com/mattpocock/skills",
+  "categories": [
+    "ai-agent-skills",
+    "developer-tools",
+    "automation"
+  ],
+  "tags": [
+    "ai-agents",
+    "agent-skills",
+    "typescript",
+    "software-engineering",
+    "coding",
+    "workflows",
+    "developer-tools"
+  ],
+  "featured": false
+}

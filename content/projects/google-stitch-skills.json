@@ -1,0 +1,25 @@
+{
+  "slug": "google-stitch-skills",
+  "name": "Google Stitch Skills",
+  "description": "A collection of Agent Skills and plugins for Google Stitch that help AI coding agents create, manage, and build interfaces from Stitch designs.",
+  "why": "Give AI coding agents reusable workflows for turning design concepts into production-ready interfaces.",
+  "website": "https://stitch.withgoogle.com/",
+  "github": "https://github.com/google-labs-code/stitch-skills",
+  "categories": [
+    "ai-agent-skills",
+    "design",
+    "web",
+    "developer-tools"
+  ],
+  "tags": [
+    "ai-agents",
+    "agent-skills",
+    "google-stitch",
+    "ui",
+    "ux",
+    "design",
+    "react",
+    "frontend"
+  ],
+  "featured": false
+}

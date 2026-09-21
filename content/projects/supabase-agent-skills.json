@@ -1,0 +1,25 @@
+{
+    "slug": "supabase-agent-skills",
+    "name": "Supabase Agent Skills",
+    "description": "Official Agent Skills that help AI coding agents build and work with Supabase, including databases, authentication, storage, Edge Functions, Realtime, vectors, and Postgres.",
+    "why": "Give AI coding agents specialized Supabase and Postgres knowledge for more accurate development workflows.",
+    "website": "https://supabase.com/",
+    "github": "https://github.com/supabase/agent-skills",
+    "categories": [
+      "ai-agent-skills",
+      "developer-tools",
+      "databases",
+      "web"
+    ],
+    "tags": [
+      "ai-agents",
+      "agent-skills",
+      "supabase",
+      "postgres",
+      "database",
+      "authentication",
+      "backend",
+      "nextjs"
+    ],
+    "featured": false
+  }

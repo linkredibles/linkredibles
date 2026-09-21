@@ -1,0 +1,24 @@
+{
+  "slug": "openai-agents-sdk-skills",
+  "name": "OpenAI Agents SDK Skills",
+  "description": "Official OpenAI agent skills for building, running, deploying, and evaluating applications with the OpenAI Agents SDK.",
+  "why": "Give AI coding agents reusable guidance for developing and evaluating OpenAI Agents SDK applications.",
+  "website": "https://openai.com/",
+  "github": "https://github.com/openai/plugins",
+  "categories": [
+    "ai-agent-skills",
+    "developer-tools",
+    "automation"
+  ],
+  "tags": [
+    "ai-agents",
+    "agent-skills",
+    "openai",
+    "agents-sdk",
+    "python",
+    "typescript",
+    "mcp",
+    "evaluation"
+  ],
+  "featured": false
+}

@@ -1,0 +1,25 @@
+{
+    "slug": "agent-browser",
+    "name": "Agent Browser",
+    "description": "A browser automation CLI built for AI agents, providing fast and scriptable control of Chrome for navigating, reading pages, interacting with websites, and automating browser workflows.",
+    "why": "Give AI agents a practical browser interface for interacting with real websites and web applications.",
+    "website": "https://agent-browser.dev/",
+    "github": "https://github.com/vercel-labs/agent-browser",
+    "categories": [
+      "ai-agent-skills",
+      "developer-tools",
+      "web",
+      "automation"
+    ],
+    "tags": [
+      "ai-agents",
+      "agent-skills",
+      "browser-automation",
+      "chrome",
+      "cli",
+      "web-automation",
+      "playwright",
+      "vercel"
+    ],
+    "featured": false
+  }

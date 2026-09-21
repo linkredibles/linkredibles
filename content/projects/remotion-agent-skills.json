@@ -1,0 +1,24 @@
+{
+    "slug": "remotion-agent-skills",
+    "name": "Remotion Agent Skills",
+    "description": "Official Agent Skills from Remotion that give AI coding agents specialized guidance for creating, animating, rendering, and working with Remotion video projects.",
+    "why": "Give AI coding agents reusable expertise for building high-quality programmatic video with Remotion.",
+    "website": "https://www.remotion.dev/",
+    "github": "https://github.com/remotion-dev/skills",
+    "categories": [
+      "ai-agent-skills",
+      "developer-tools",
+      "media"
+    ],
+    "tags": [
+      "ai-agents",
+      "agent-skills",
+      "remotion",
+      "react",
+      "video",
+      "animation",
+      "rendering",
+      "typescript"
+    ],
+    "featured": false
+  }

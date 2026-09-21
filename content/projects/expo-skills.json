@@ -1,0 +1,24 @@
+{
+  "slug": "expo-skills",
+  "name": "Expo Skills",
+  "description": "Official AI agent skills from Expo for building, deploying, upgrading, and debugging Expo and React Native applications.",
+  "why": "Give AI coding agents focused knowledge for Expo, React Native, EAS, iOS, and Android development workflows.",
+  "website": "https://expo.dev/",
+  "github": "https://github.com/expo/skills",
+  "categories": [
+    "ai-agent-skills",
+    "mobile",
+    "developer-tools"
+  ],
+  "tags": [
+    "ai-agents",
+    "agent-skills",
+    "expo",
+    "react-native",
+    "ios",
+    "android",
+    "eas",
+    "mobile-development"
+  ],
+  "featured": false
+}

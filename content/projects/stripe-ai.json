@@ -1,0 +1,25 @@
+{
+  "slug": "stripe-ai",
+  "name": "Stripe AI Skills",
+  "description": "Stripe's collection of AI tools, SDKs, agent skills, and integrations for building AI-powered products and businesses with Stripe.",
+  "why": "Give AI coding agents current Stripe guidance for payments, billing, and AI-powered applications.",
+  "website": "https://stripe.com/",
+  "github": "https://github.com/stripe/ai",
+  "categories": [
+    "ai-agent-skills",
+    "developer-tools",
+    "api",
+    "automation"
+  ],
+  "tags": [
+    "ai-agents",
+    "agent-skills",
+    "stripe",
+    "payments",
+    "billing",
+    "api",
+    "mcp",
+    "llm"
+  ],
+  "featured": false
+}
