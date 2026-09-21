@@ -1,0 +1,25 @@
+{
+    "slug": "strands-agents",
+    "name": "Strands Agents",
+    "description": "An open-source SDK for building AI agents and autonomous workflows with Python and TypeScript, supporting multiple model providers, tools, MCP, and multi-agent patterns.",
+    "why": "Build production AI agents with a model-driven architecture, broad model support, tools, MCP, and multi-agent workflows.",
+    "website": "https://strandsagents.com/",
+    "github": "https://github.com/strands-agents/sdk-python/",
+    "categories": [
+      "ai-frameworks",
+      "ai",
+      "developer-tools",
+      "automation"
+    ],
+    "tags": [
+      "ai-agents",
+      "python",
+      "typescript",
+      "multi-agent",
+      "mcp",
+      "aws",
+      "workflows",
+      "llm"
+    ],
+    "featured": false
+  }

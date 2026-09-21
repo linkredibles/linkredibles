@@ -1,0 +1,24 @@
+{
+    "slug": "goose",
+    "name": "Goose",
+    "description": "An open-source AI agent designed to automate software engineering and other development tasks through tools, integrations, and extensible workflows.",
+    "why": "Use an extensible AI agent to automate development tasks and connect models with tools and external systems.",
+    "website": "https://block.github.io/goose/",
+    "github": "https://github.com/block/goose",
+    "categories": [
+      "ai",
+      "developer-tools",
+      "automation"
+    ],
+    "tags": [
+      "ai-agents",
+      "coding-agent",
+      "developer-tools",
+      "automation",
+      "rust",
+      "mcp",
+      "cli",
+      "llm"
+    ],
+    "featured": false
+  }

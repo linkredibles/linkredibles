@@ -1,0 +1,24 @@
+{
+    "slug": "openhands",
+    "name": "OpenHands",
+    "description": "An open-source AI-driven development platform that enables AI agents to work on software engineering tasks and interact with development environments.",
+    "why": "Use AI agents to automate software development tasks, explore codebases, fix issues, and build software.",
+    "website": "https://openhands.dev/",
+    "github": "https://github.com/OpenHands/OpenHands",
+    "categories": [
+      "ai",
+      "developer-tools",
+      "automation"
+    ],
+    "tags": [
+      "ai-agents",
+      "coding-agent",
+      "software-development",
+      "developer-tools",
+      "automation",
+      "python",
+      "typescript",
+      "llm"
+    ],
+    "featured": false
+  }

@@ -1,0 +1,24 @@
+{
+    "slug": "swe-agent",
+    "name": "SWE-agent",
+    "description": "An open-source research agent that uses language models and tools to autonomously work on software engineering tasks such as fixing GitHub issues.",
+    "why": "Explore autonomous software engineering agents that can inspect repositories, use development tools, and attempt code fixes.",
+    "website": "https://swe-agent.com/",
+    "github": "https://github.com/SWE-agent/SWE-agent",
+    "categories": [
+      "ai",
+      "developer-tools",
+      "automation"
+    ],
+    "tags": [
+      "ai-agents",
+      "coding-agent",
+      "software-engineering",
+      "github",
+      "python",
+      "llm",
+      "automation",
+      "research"
+    ],
+    "featured": false
+  }

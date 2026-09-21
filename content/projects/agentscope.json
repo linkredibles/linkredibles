@@ -1,0 +1,24 @@
+{
+    "slug": "agentscope",
+    "name": "AgentScope",
+    "description": "An open-source framework for building, deploying, and experimenting with multi-agent applications and intelligent agent systems.",
+    "why": "Build and experiment with multi-agent applications using modular agents, tools, workflows, and model integrations.",
+    "website": "https://doc.agentscope.io/",
+    "github": "https://github.com/modelscope/agentscope",
+    "categories": [
+      "ai-frameworks",
+      "ai",
+      "developer-tools",
+      "automation"
+    ],
+    "tags": [
+      "ai-agents",
+      "multi-agent",
+      "python",
+      "agent-orchestration",
+      "workflows",
+      "llm",
+      "modelscope"
+    ],
+    "featured": false
+  }

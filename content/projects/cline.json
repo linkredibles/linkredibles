@@ -1,0 +1,24 @@
+{
+    "slug": "cline",
+    "name": "Cline",
+    "description": "An open-source autonomous coding agent available as an SDK, IDE extension, and CLI assistant for building software with AI.",
+    "why": "Give AI agents the tools and environment needed to understand codebases and carry out software development tasks.",
+    "website": "https://cline.bot/",
+    "github": "https://github.com/cline/cline",
+    "categories": [
+      "ai",
+      "developer-tools",
+      "automation"
+    ],
+    "tags": [
+      "ai-agents",
+      "coding-agent",
+      "developer-tools",
+      "typescript",
+      "ide",
+      "cli",
+      "mcp",
+      "llm"
+    ],
+    "featured": false
+  }

@@ -1,0 +1,24 @@
+{
+    "slug": "aider",
+    "name": "Aider",
+    "description": "An open-source AI pair programming tool that runs in the terminal and helps developers modify, understand, test, and manage codebases with large language models.",
+    "why": "Pair program with AI directly in your terminal while keeping your existing Git workflow.",
+    "website": "https://aider.chat/",
+    "github": "https://github.com/Aider-AI/aider",
+    "categories": [
+      "ai",
+      "developer-tools",
+      "cli"
+    ],
+    "tags": [
+      "ai-coding",
+      "coding-agent",
+      "pair-programming",
+      "python",
+      "cli",
+      "git",
+      "llm",
+      "developer-tools"
+    ],
+    "featured": false
+  }

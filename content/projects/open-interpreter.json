@@ -1,0 +1,25 @@
+{
+    "slug": "open-interpreter",
+    "name": "Open Interpreter",
+    "description": "An open-source coding agent that runs locally and can use models, tools, shell commands, MCP, skills, and computer interfaces to perform development tasks.",
+    "why": "Run an AI coding agent locally with access to your development environment and extensible tools.",
+    "website": "https://www.openinterpreter.com/",
+    "github": "https://github.com/OpenInterpreter/openinterpreter",
+    "categories": [
+      "ai",
+      "developer-tools",
+      "cli",
+      "self-hosted"
+    ],
+    "tags": [
+      "ai-agents",
+      "coding-agent",
+      "cli",
+      "rust",
+      "python",
+      "mcp",
+      "skills",
+      "local-ai"
+    ],
+    "featured": false
+  }

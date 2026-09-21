@@ -1,0 +1,25 @@
+{
+    "slug": "dspy",
+    "name": "DSPy",
+    "description": "An open-source framework for programming and optimizing language model systems using modular, declarative Python programs instead of manually crafted prompts.",
+    "why": "Build modular AI systems and optimize prompts, retrieval pipelines, and agent workflows programmatically.",
+    "website": "https://dspy.ai/",
+    "github": "https://github.com/stanfordnlp/dspy",
+    "categories": [
+      "ai-frameworks",
+      "ai",
+      "developer-tools",
+      "data"
+    ],
+    "tags": [
+      "llm",
+      "python",
+      "prompt-optimization",
+      "rag",
+      "agents",
+      "ai-framework",
+      "machine-learning",
+      "nlp"
+    ],
+    "featured": false
+  }

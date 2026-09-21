@@ -1,0 +1,25 @@
+{
+    "slug": "letta",
+    "name": "Letta",
+    "description": "An open-source platform for building stateful AI agents with persistent memory, identity, and the ability to learn and adapt over time.",
+    "why": "Build agents that maintain state, memory, identity, and context across conversations and environments.",
+    "website": "https://www.letta.com/",
+    "github": "https://github.com/letta-ai/letta",
+    "categories": [
+      "ai-frameworks",
+      "ai",
+      "self-hosted",
+      "developer-tools"
+    ],
+    "tags": [
+      "ai-agents",
+      "memory",
+      "stateful-agents",
+      "python",
+      "typescript",
+      "llm",
+      "self-hosted",
+      "agent-platform"
+    ],
+    "featured": false
+  }
