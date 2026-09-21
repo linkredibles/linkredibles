@@ -1,0 +1,23 @@
+{
+  "slug": "kotlin-agent-skills",
+  "name": "Kotlin Agent Skills",
+  "description": "Official Kotlin Agent Skills that provide AI coding agents with specialized guidance for Kotlin development and the Kotlin ecosystem.",
+  "why": "Give AI coding agents Kotlin-specific knowledge for writing, reviewing, and improving Kotlin applications.",
+  "website": "https://kotlinlang.org/",
+  "github": "https://github.com/Kotlin/kotlin-agent-skills",
+  "categories": [
+    "ai-agent-skills",
+    "developer-tools",
+    "mobile"
+  ],
+  "tags": [
+    "ai-agents",
+    "agent-skills",
+    "kotlin",
+    "android",
+    "jvm",
+    "programming",
+    "software-development"
+  ],
+  "featured": false
+}

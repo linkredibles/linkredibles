@@ -1,0 +1,24 @@
+{
+  "slug": "openskills",
+  "name": "OpenSkills",
+  "description": "A universal skills loader that installs and manages reusable Agent Skills across AI coding agents.",
+  "why": "Use one portable skill format and installation workflow across multiple compatible AI coding agents.",
+  "website": "https://github.com/numman-ali/openskills",
+  "github": "https://github.com/numman-ali/openskills",
+  "categories": [
+    "ai-agent-skills",
+    "developer-tools",
+    "cli"
+  ],
+  "tags": [
+    "ai-agents",
+    "agent-skills",
+    "skills-loader",
+    "cli",
+    "codex",
+    "claude-code",
+    "cursor",
+    "npm"
+  ],
+  "featured": false
+}

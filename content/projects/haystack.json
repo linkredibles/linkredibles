@@ -1,0 +1,25 @@
+{
+    "slug": "haystack",
+    "name": "Haystack",
+    "description": "An open-source AI orchestration framework for building production-ready applications with retrieval, RAG, agents, pipelines, and large language models.",
+    "why": "Build modular AI pipelines and production RAG and agent applications with composable components.",
+    "website": "https://haystack.deepset.ai/",
+    "github": "https://github.com/deepset-ai/haystack",
+    "categories": [
+      "ai-frameworks",
+      "ai",
+      "data",
+      "developer-tools"
+    ],
+    "tags": [
+      "ai-agents",
+      "rag",
+      "python",
+      "pipelines",
+      "retrieval",
+      "llm",
+      "search",
+      "nlp"
+    ],
+    "featured": false
+  }

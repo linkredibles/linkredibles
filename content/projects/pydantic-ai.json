@@ -1,0 +1,25 @@
+{
+    "slug": "pydantic-ai",
+    "name": "Pydantic AI",
+    "description": "A Python agent framework from the Pydantic team for building production-grade AI applications with type-safe tools, structured outputs, dependency injection, and model integrations.",
+    "why": "Build reliable AI applications using familiar Python types, validation, and developer-friendly abstractions.",
+    "website": "https://ai.pydantic.dev/",
+    "github": "https://github.com/pydantic/pydantic-ai",
+    "categories": [
+      "ai-frameworks",
+      "ai",
+      "developer-tools",
+      "api"
+    ],
+    "tags": [
+      "ai-agents",
+      "python",
+      "pydantic",
+      "type-safe",
+      "structured-output",
+      "llm",
+      "mcp",
+      "production"
+    ],
+    "featured": false
+  }

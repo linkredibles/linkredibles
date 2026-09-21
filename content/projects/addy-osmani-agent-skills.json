@@ -1,0 +1,24 @@
+{
+  "slug": "addy-osmani-agent-skills",
+  "name": "Addy Osmani Agent Skills",
+  "description": "Production-grade engineering skills for AI coding agents covering planning, implementation, testing, review, simplification, and shipping.",
+  "why": "Give AI coding agents a structured engineering lifecycle with reusable skills for building and shipping software.",
+  "website": "https://addyosmani.com/",
+  "github": "https://github.com/addyosmani/agent-skills",
+  "categories": [
+    "ai-agent-skills",
+    "developer-tools",
+    "automation"
+  ],
+  "tags": [
+    "ai-agents",
+    "agent-skills",
+    "software-engineering",
+    "code-review",
+    "testing",
+    "tdd",
+    "typescript",
+    "workflow"
+  ],
+  "featured": false
+}

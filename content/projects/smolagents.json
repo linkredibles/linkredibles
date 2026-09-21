@@ -1,0 +1,25 @@
+{
+    "slug": "smolagents",
+    "name": "smolagents",
+    "description": "Hugging Face's lightweight framework for building AI agents, with a simple architecture, code agents, tool calling, model flexibility, and Hub integrations.",
+    "why": "Build capable AI agents with minimal abstractions and a lightweight Python-first framework.",
+    "website": "https://huggingface.co/docs/smolagents/",
+    "github": "https://github.com/huggingface/smolagents",
+    "categories": [
+      "ai-frameworks",
+      "ai",
+      "developer-tools",
+      "automation"
+    ],
+    "tags": [
+      "ai-agents",
+      "huggingface",
+      "python",
+      "code-agents",
+      "tool-calling",
+      "llm",
+      "mcp",
+      "agents"
+    ],
+    "featured": false
+  }

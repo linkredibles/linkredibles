@@ -1,0 +1,25 @@
+{
+  "slug": "agent-reach",
+  "name": "Agent-Reach",
+  "description": "An open-source toolkit that gives AI agents access to web pages and content from services such as GitHub, YouTube, Reddit, and other online sources.",
+  "why": "Give AI agents practical access to information across the web without requiring separate custom integrations for every source.",
+  "website": "https://github.com/Panniantong/Agent-Reach",
+  "github": "https://github.com/Panniantong/Agent-Reach",
+  "categories": [
+    "ai-agent-skills",
+    "automation",
+    "web",
+    "developer-tools"
+  ],
+  "tags": [
+    "ai-agents",
+    "agent-tools",
+    "web-access",
+    "github",
+    "youtube",
+    "reddit",
+    "web-scraping",
+    "automation"
+  ],
+  "featured": false
+}

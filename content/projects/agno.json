@@ -1,0 +1,24 @@
+{
+    "slug": "agno",
+    "name": "Agno",
+    "description": "An open-source framework and SDK for building, running, and managing AI agents and agent platforms.",
+    "why": "Build production agent systems with tools, knowledge, memory, teams, and deployment infrastructure.",
+    "website": "https://www.agno.com/",
+    "github": "https://github.com/agno-agi/agno",
+    "categories": [
+      "ai-frameworks",
+      "ai",
+      "developer-tools",
+      "automation"
+    ],
+    "tags": [
+      "ai-agents",
+      "python",
+      "multi-agent",
+      "agent-platform",
+      "agentos",
+      "llm",
+      "production"
+    ],
+    "featured": false
+  }

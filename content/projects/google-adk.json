@@ -1,0 +1,24 @@
+{
+    "slug": "google-adk",
+    "name": "Google Agent Development Kit",
+    "description": "Google's open-source framework for developing, evaluating, and deploying AI agents and multi-agent systems.",
+    "why": "Build agent applications with Google's developer tooling and model ecosystem while keeping agent logic modular and extensible.",
+    "website": "https://google.github.io/adk-docs/",
+    "github": "https://github.com/google/adk-python",
+    "categories": [
+      "ai-frameworks",
+      "ai",
+      "developer-tools",
+      "automation"
+    ],
+    "tags": [
+      "ai-agents",
+      "google",
+      "adk",
+      "python",
+      "multi-agent",
+      "agent-development",
+      "llm"
+    ],
+    "featured": false
+  }

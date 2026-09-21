@@ -1,0 +1,25 @@
+{
+    "slug": "microsoft-agent-framework",
+    "name": "Microsoft Agent Framework",
+    "description": "Microsoft's open-source framework for building AI agents and multi-agent workflows with support for orchestration, tools, state, and enterprise application patterns.",
+    "why": "Build production-oriented agent and multi-agent applications using Microsoft's agent development ecosystem.",
+    "website": "https://github.com/microsoft/agent-framework",
+    "github": "https://github.com/microsoft/agent-framework",
+    "categories": [
+      "ai-frameworks",
+      "ai",
+      "developer-tools",
+      "automation"
+    ],
+    "tags": [
+      "ai-agents",
+      "microsoft",
+      "multi-agent",
+      "python",
+      "dotnet",
+      "workflows",
+      "orchestration",
+      "llm"
+    ],
+    "featured": false
+  }

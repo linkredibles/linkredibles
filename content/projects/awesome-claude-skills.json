@@ -1,0 +1,23 @@
+{
+  "slug": "awesome-claude-skills",
+  "name": "Awesome Claude Skills",
+  "description": "A curated collection of reusable Claude and AI agent skills covering development, research, productivity, automation, and specialized workflows.",
+  "why": "Discover reusable skills and workflows that extend what AI coding and productivity agents can do.",
+  "website": "https://github.com/ComposioHQ/awesome-claude-skills",
+  "github": "https://github.com/ComposioHQ/awesome-claude-skills",
+  "categories": [
+    "ai-agent-skills",
+    "open-source-lists",
+    "developer-tools"
+  ],
+  "tags": [
+    "ai-agents",
+    "agent-skills",
+    "claude",
+    "awesome-list",
+    "automation",
+    "productivity",
+    "coding"
+  ],
+  "featured": false
+}

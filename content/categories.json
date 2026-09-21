@@ -108,5 +108,10 @@
     "slug": "open-source-lists",
     "name": "Open-Source Lists & Resources",
     "description": "Curated lists, directories, collections, references, and resources for discovering open-source software."
+  },
+  {
+    "slug": "ai-frameworks",
+    "name": "AI Frameworks & SDKs",
+    "description": "Open-source frameworks, SDKs, and libraries for building AI applications, agents, RAG systems, and multi-agent workflows."
   }
 ]

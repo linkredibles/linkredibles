@@ -1,0 +1,25 @@
+{
+    "slug": "mastra",
+    "name": "Mastra",
+    "description": "A TypeScript framework for building AI-powered applications and agents with workflows, tools, memory, evaluations, and integrations.",
+    "why": "Build AI applications and agents using a modern TypeScript-first development stack.",
+    "website": "https://mastra.ai/",
+    "github": "https://github.com/mastra-ai/mastra",
+    "categories": [
+      "ai-frameworks",
+      "ai",
+      "web",
+      "developer-tools"
+    ],
+    "tags": [
+      "ai-agents",
+      "typescript",
+      "javascript",
+      "workflows",
+      "agents",
+      "react",
+      "llm",
+      "web-development"
+    ],
+    "featured": false
+  }

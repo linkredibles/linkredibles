@@ -1,0 +1,24 @@
+{
+  "slug": "scientific-agent-skills",
+  "name": "Scientific Agent Skills",
+  "description": "A large collection of reusable AI agent skills for scientific research, including biology, chemistry, medicine, data analysis, visualization, and scientific computing.",
+  "why": "Give AI agents specialized workflows and knowledge for scientific research and computational science.",
+  "website": "https://k-dense.ai/",
+  "github": "https://github.com/K-Dense-AI/scientific-agent-skills",
+  "categories": [
+    "ai-agent-skills",
+    "education",
+    "data"
+  ],
+  "tags": [
+    "ai-agents",
+    "agent-skills",
+    "science",
+    "research",
+    "bioinformatics",
+    "chemistry",
+    "medicine",
+    "data-science"
+  ],
+  "featured": false
+}

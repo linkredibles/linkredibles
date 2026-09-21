@@ -1,0 +1,25 @@
+{
+  "slug": "jeffallan-claude-skills",
+  "name": "Jeffallan Claude Skills",
+  "description": "A collection of specialized Claude Code skills for full-stack software development, covering frontend, backend, databases, testing, DevOps, and architecture.",
+  "why": "Give AI coding agents specialized, reusable expertise across the full software development stack.",
+  "website": "https://github.com/Jeffallan/claude-skills",
+  "github": "https://github.com/Jeffallan/claude-skills",
+  "categories": [
+    "ai-agent-skills",
+    "developer-tools",
+    "web",
+    "devops"
+  ],
+  "tags": [
+    "ai-agents",
+    "agent-skills",
+    "claude-code",
+    "full-stack",
+    "frontend",
+    "backend",
+    "testing",
+    "devops"
+  ],
+  "featured": false
+}

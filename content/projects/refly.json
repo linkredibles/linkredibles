@@ -1,0 +1,25 @@
+{
+  "slug": "refly",
+  "name": "Refly",
+  "description": "An open-source platform for creating, versioning, running, and distributing executable agent skills across modern AI coding agents.",
+  "why": "Build reusable agent capabilities as durable, versioned infrastructure instead of one-off prompts.",
+  "website": "https://refly.ai/",
+  "github": "https://github.com/refly-ai/refly",
+  "categories": [
+    "ai-agent-skills",
+    "developer-tools",
+    "automation",
+    "web"
+  ],
+  "tags": [
+    "ai-agents",
+    "agent-skills",
+    "skills-builder",
+    "automation",
+    "claude-code",
+    "cursor",
+    "codex",
+    "workflow"
+  ],
+  "featured": false
+}

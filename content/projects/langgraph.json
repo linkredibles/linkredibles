@@ -1,0 +1,25 @@
+{
+    "slug": "langgraph",
+    "name": "LangGraph",
+    "description": "A framework for building stateful, long-running AI agents and workflows with support for durable execution, persistence, human-in-the-loop interaction, and complex orchestration.",
+    "why": "Build controllable AI agents and workflows that maintain state and can run through complex multi-step processes.",
+    "website": "https://www.langchain.com/langgraph",
+    "github": "https://github.com/langchain-ai/langgraph",
+    "categories": [
+      "ai-frameworks",
+      "ai",
+      "developer-tools",
+      "automation"
+    ],
+    "tags": [
+      "ai-agents",
+      "langchain",
+      "agent-orchestration",
+      "workflows",
+      "python",
+      "typescript",
+      "stateful-agents",
+      "llm"
+    ],
+    "featured": false
+  }

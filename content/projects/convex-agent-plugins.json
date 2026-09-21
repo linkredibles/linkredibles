@@ -1,0 +1,25 @@
+{
+  "slug": "convex-agent-plugins",
+  "name": "Convex Agent Plugins",
+  "description": "Official Convex plugins for AI coding agents, providing reusable rules, skills, agents, and MCP integrations for building Convex applications.",
+  "why": "Give AI coding agents specialized workflows for building full-stack applications with Convex.",
+  "website": "https://www.convex.dev/",
+  "github": "https://github.com/get-convex/convex-agent-plugins",
+  "categories": [
+    "ai-agent-skills",
+    "developer-tools",
+    "api",
+    "web"
+  ],
+  "tags": [
+    "ai-agents",
+    "agent-skills",
+    "convex",
+    "mcp",
+    "backend",
+    "database",
+    "typescript",
+    "react"
+  ],
+  "featured": false
+}

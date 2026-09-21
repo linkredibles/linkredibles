@@ -1,0 +1,25 @@
+{
+    "slug": "llamaindex",
+    "name": "LlamaIndex",
+    "description": "An open-source framework for building agentic applications and data-powered AI systems with tools for document processing, retrieval, indexing, RAG, and agents.",
+    "why": "Connect AI applications and agents to private data, documents, APIs, and knowledge sources.",
+    "website": "https://www.llamaindex.ai/",
+    "github": "https://github.com/run-llama/llama_index",
+    "categories": [
+      "ai-frameworks",
+      "ai",
+      "data",
+      "developer-tools"
+    ],
+    "tags": [
+      "ai-agents",
+      "rag",
+      "llamaindex",
+      "python",
+      "documents",
+      "retrieval",
+      "vector-database",
+      "llm"
+    ],
+    "featured": false
+  }

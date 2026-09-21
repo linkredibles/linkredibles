@@ -1,0 +1,24 @@
+{
+  "slug": "obsidian-skills",
+  "name": "Obsidian Skills",
+  "description": "Agent Skills for working with Obsidian, including Markdown, Bases, JSON Canvas, the Obsidian CLI, web content extraction, and templates.",
+  "why": "Give AI agents specialized knowledge for managing structured notes and knowledge bases in Obsidian.",
+  "website": "https://obsidian.md/",
+  "github": "https://github.com/kepano/obsidian-skills",
+  "categories": [
+    "ai-agent-skills",
+    "productivity",
+    "open-source-lists"
+  ],
+  "tags": [
+    "ai-agents",
+    "agent-skills",
+    "obsidian",
+    "markdown",
+    "knowledge-management",
+    "json-canvas",
+    "notes",
+    "productivity"
+  ],
+  "featured": false
+}
