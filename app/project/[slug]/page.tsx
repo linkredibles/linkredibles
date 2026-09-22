@@ -11,10 +11,10 @@ type ProjectPageProps = {
 };
 
 export async function generateStaticParams() {
-  const projects = await getProjects();
+  const { getProjectSlugs } = await import("@/lib/projects");
 
-  return projects.map((project) => ({
-    slug: project.slug,
+  return getProjectSlugs().map((slug) => ({
+    slug,
   }));
 }
 
@@ -367,4 +367,6 @@ export default async function ProjectPage({
     </main>
   );
 }
+
+
 
