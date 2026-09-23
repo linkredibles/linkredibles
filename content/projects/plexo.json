@@ -1,0 +1,21 @@
+{
+  "slug": "plexo",
+  "name": "Plexo",
+  "description": "Plexo is an open-source, AI-powered project management platform designed to simplify task planning, management, and collaboration. It uses AI to help generate and organize the work needed to complete software projects.",
+  "why": "Plexo combines project management with AI-assisted task planning. It is self-hostable and open source, giving development teams an alternative to traditional project-management tools while keeping control of their infrastructure and data.",
+  "website": "https://plexo.app/",
+  "github": "https://github.com/minskylab/plexo-core",
+  "categories": [
+    "developer-tools"
+  ],
+  "tags": [
+    "ai",
+    "project-management",
+    "productivity",
+    "developer-tools",
+    "open-source",
+    "self-hosted",
+    "automation"
+  ],
+  "featured": false
+}
