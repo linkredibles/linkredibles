@@ -1,0 +1,16 @@
+{
+    "slug":  "awesome-github-copilot",
+    "name":  "Awesome GitHub Copilot",
+    "description":  "A community collection of custom agents, instructions, skills, hooks, workflows and plugins for GitHub Copilot.",
+    "github":  "https://github.com/github/awesome-copilot",
+    "categories":  [
+                       "ai-agent-skills"
+                   ],
+    "tags":  [
+                 "github-copilot",
+                 "agent-skills",
+                 "agents",
+                 "workflows"
+             ],
+    "featured":  false
+}

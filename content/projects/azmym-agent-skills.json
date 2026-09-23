@@ -1,0 +1,17 @@
+{
+    "slug":  "azmym-agent-skills",
+    "name":  "Azmym Agent Skills",
+    "description":  "Plug-and-play skills for AI coding agents, including integrations for Slack, auditing and developer workflows.",
+    "github":  "https://github.com/azmym/agent-skills",
+    "categories":  [
+                       "ai-agent-skills"
+                   ],
+    "tags":  [
+                 "agent-skills",
+                 "slack",
+                 "automation",
+                 "claude-code",
+                 "codex"
+             ],
+    "featured":  false
+}

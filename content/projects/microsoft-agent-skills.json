@@ -1,0 +1,17 @@
+{
+    "slug":  "microsoft-agent-skills",
+    "name":  "Microsoft Agent Skills",
+    "description":  "A collection of Agent Skills, custom agents, AGENTS.md templates and MCP configurations for Azure SDKs and Microsoft AI Foundry.",
+    "github":  "https://github.com/microsoft/skills",
+    "categories":  [
+                       "ai-agent-skills"
+                   ],
+    "tags":  [
+                 "agent-skills",
+                 "microsoft",
+                 "azure",
+                 "ai-foundry",
+                 "mcp"
+             ],
+    "featured":  false
+}

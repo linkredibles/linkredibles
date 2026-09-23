@@ -1,0 +1,17 @@
+{
+    "slug":  "unifapi-agent-skills",
+    "name":  "UnifAPI Agent Skills",
+    "description":  "AI agent skills for MCP and public-data workflows including search, social listening, scraping and external data APIs.",
+    "github":  "https://github.com/unifapi-agent/skills",
+    "categories":  [
+                       "ai-agent-skills"
+                   ],
+    "tags":  [
+                 "agent-skills",
+                 "mcp",
+                 "apis",
+                 "web-search",
+                 "automation"
+             ],
+    "featured":  false
+}

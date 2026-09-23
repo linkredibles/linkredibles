@@ -1,0 +1,17 @@
+{
+    "slug":  "whobat-ai-agent-skills",
+    "name":  "AI Agent Skills",
+    "description":  "A portable collection of SKILL.md capabilities designed to work across Claude Code, Codex, OpenCode, Gemini CLI, Cursor and other coding agents.",
+    "github":  "https://github.com/whobat/AI-Agent-skills",
+    "categories":  [
+                       "ai-agent-skills"
+                   ],
+    "tags":  [
+                 "agent-skills",
+                 "skill-md",
+                 "codex",
+                 "cursor",
+                 "claude-code"
+             ],
+    "featured":  false
+}

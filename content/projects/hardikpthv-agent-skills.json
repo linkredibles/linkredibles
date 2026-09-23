@@ -1,0 +1,17 @@
+{
+    "slug":  "hardikpthv-agent-skills",
+    "name":  "Hardikpthv Agent Skills",
+    "description":  "Portable open-source Agent Skills organized by category for mobile development, analytics, marketing, e-commerce and software engineering.",
+    "github":  "https://github.com/hardikpthv/agent-skills",
+    "categories":  [
+                       "ai-agent-skills"
+                   ],
+    "tags":  [
+                 "agent-skills",
+                 "mobile",
+                 "analytics",
+                 "marketing",
+                 "ecommerce"
+             ],
+    "featured":  false
+}

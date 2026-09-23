@@ -1,0 +1,17 @@
+{
+    "slug":  "nikoxkx-agent-skills",
+    "name":  "Nikoxkx Agent Skills",
+    "description":  "A production-oriented collection of executable Agent Skills for software engineering workflows across multiple AI coding agents.",
+    "github":  "https://github.com/Nikoxkx/Agent-Skills",
+    "categories":  [
+                       "ai-agent-skills"
+                   ],
+    "tags":  [
+                 "agent-skills",
+                 "software-engineering",
+                 "codex",
+                 "cursor",
+                 "claude-code"
+             ],
+    "featured":  false
+}

@@ -1,0 +1,17 @@
+{
+    "slug":  "qodex-ai-agent-skills",
+    "name":  "Qodex AI Agent Skills",
+    "description":  "A large collection of specialized AI agent skills covering document processing, multi-agent orchestration, research, RAG, automation and software development.",
+    "github":  "https://github.com/qodex-ai/ai-agent-skills",
+    "categories":  [
+                       "ai-agent-skills"
+                   ],
+    "tags":  [
+                 "agent-skills",
+                 "multi-agent",
+                 "rag",
+                 "research",
+                 "automation"
+             ],
+    "featured":  false
+}

@@ -1,0 +1,17 @@
+{
+    "slug":  "emmraan-agent-skills",
+    "name":  "Emmraan Agent Skills",
+    "description":  "A broad collection of portable SKILL.md capabilities covering development, DevOps, frontend, security, documentation and AI workflows.",
+    "github":  "https://github.com/Emmraan/agent-skills",
+    "categories":  [
+                       "ai-agent-skills"
+                   ],
+    "tags":  [
+                 "agent-skills",
+                 "developer-tools",
+                 "devops",
+                 "frontend",
+                 "security"
+             ],
+    "featured":  false
+}

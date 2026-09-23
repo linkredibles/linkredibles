@@ -1,0 +1,17 @@
+{
+    "slug":  "shengyy-agent-skills",
+    "name":  "Shengyy Agent Skills",
+    "description":  "Reusable Agent Skills for coding agents such as Claude Code and Codex, built around the portable SKILL.md format.",
+    "github":  "https://github.com/shengyy/agent-skills",
+    "categories":  [
+                       "ai-agent-skills"
+                   ],
+    "tags":  [
+                 "agent-skills",
+                 "claude-code",
+                 "codex",
+                 "cursor",
+                 "skill-md"
+             ],
+    "featured":  false
+}

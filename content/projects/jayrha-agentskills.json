@@ -1,0 +1,17 @@
+{
+    "slug":  "jayrha-agentskills",
+    "name":  "AgentSkills",
+    "description":  "A community-maintained library of reusable Agent Skills with instructions, references, scripts and examples for modern coding agents.",
+    "github":  "https://github.com/JayRHa/AgentSkills",
+    "categories":  [
+                       "ai-agent-skills"
+                   ],
+    "tags":  [
+                 "agent-skills",
+                 "claude-code",
+                 "codex",
+                 "gemini",
+                 "cursor"
+             ],
+    "featured":  false
+}

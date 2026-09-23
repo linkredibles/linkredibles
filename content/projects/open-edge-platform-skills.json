@@ -1,0 +1,17 @@
+{
+    "slug":  "open-edge-platform-skills",
+    "name":  "Open Edge Platform Skills",
+    "description":  "Agent Skills guidance and tooling covering skill creation, validation, security scanning, evaluations and agent-specific best practices.",
+    "github":  "https://github.com/open-edge-platform/skills",
+    "categories":  [
+                       "ai-agent-skills"
+                   ],
+    "tags":  [
+                 "agent-skills",
+                 "skill-md",
+                 "security",
+                 "evaluation",
+                 "mcp"
+             ],
+    "featured":  false
+}

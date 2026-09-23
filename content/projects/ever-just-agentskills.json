@@ -1,0 +1,17 @@
+{
+    "slug":  "ever-just-agentskills",
+    "name":  "Ever-Just Agent Skills",
+    "description":  "A maintained library of reusable SKILL.md procedures for research, auditing, design, deployment, technical writing and production agent workflows.",
+    "github":  "https://github.com/ever-just/agentskills",
+    "categories":  [
+                       "ai-agent-skills"
+                   ],
+    "tags":  [
+                 "agent-skills",
+                 "research",
+                 "security",
+                 "deployment",
+                 "technical-writing"
+             ],
+    "featured":  false
+}

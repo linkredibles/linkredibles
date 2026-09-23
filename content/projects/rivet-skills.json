@@ -1,0 +1,17 @@
+{
+    "slug":  "rivet-skills",
+    "name":  "Rivet Skills",
+    "description":  "Agent Skills for building AI agent backends with RivetKit, including patterns for memory, messaging and streaming.",
+    "github":  "https://github.com/rivet-dev/skills",
+    "categories":  [
+                       "ai-agent-skills"
+                   ],
+    "tags":  [
+                 "agent-skills",
+                 "rivetkit",
+                 "agents",
+                 "memory",
+                 "streaming"
+             ],
+    "featured":  false
+}

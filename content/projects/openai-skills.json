@@ -1,0 +1,16 @@
+{
+    "slug":  "openai-skills",
+    "name":  "OpenAI Skills",
+    "description":  "Open-source skills and reusable capabilities for OpenAI coding agents and agentic development workflows.",
+    "github":  "https://github.com/openai/skills",
+    "categories":  [
+                       "ai-agent-skills"
+                   ],
+    "tags":  [
+                 "agent-skills",
+                 "openai",
+                 "codex",
+                 "coding-agents"
+             ],
+    "featured":  false
+}

@@ -1,0 +1,17 @@
+{
+    "slug":  "agentic-awesome-skills",
+    "name":  "Agentic Awesome Skills",
+    "description":  "A large installable library of reusable Agent Skills covering development, debugging, testing, security, infrastructure, documents and agent workflows.",
+    "github":  "https://github.com/sickn33/agentic-awesome-skills",
+    "categories":  [
+                       "ai-agent-skills"
+                   ],
+    "tags":  [
+                 "agent-skills",
+                 "claude-code",
+                 "codex",
+                 "gemini",
+                 "cursor"
+             ],
+    "featured":  false
+}

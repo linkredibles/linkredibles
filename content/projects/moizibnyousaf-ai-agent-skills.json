@@ -1,0 +1,17 @@
+{
+    "slug":  "moizibnyousaf-ai-agent-skills",
+    "name":  "Moizibnyousaf AI Agent Skills",
+    "description":  "A collection of AI agent skills spanning code review, development, documentation, research, testing, deployment and productivity workflows.",
+    "github":  "https://github.com/moizibnyousaf/ai-agent-skills",
+    "categories":  [
+                       "ai-agent-skills"
+                   ],
+    "tags":  [
+                 "agent-skills",
+                 "code-review",
+                 "testing",
+                 "documentation",
+                 "developer-tools"
+             ],
+    "featured":  false
+}
