@@ -30,21 +30,31 @@ const outputPath = path.join(process.cwd(), "content", "github-stats.json");
 
 const token = process.env.GITHUB_TOKEN;
 
-if (!token) {
-  throw new Error("GITHUB_TOKEN is required to update GitHub stats.");
-}
-
-const headers = {
+const headers: Record<string, string> = {
   Accept: "application/vnd.github+json",
-  Authorization: `Bearer ${token}`,
   "X-GitHub-Api-Version": "2022-11-28",
 };
 
+if (token) {
+  headers.Authorization = `Bearer ${token}`;
+}
+
 function getRepositoryPath(githubUrl: string): string {
-  const url = new URL(githubUrl);
+  let url: URL;
+
+  try {
+    url = new URL(githubUrl);
+  } catch {
+    throw new Error(`Invalid GitHub URL: ${githubUrl}`);
+  }
+
+  if (url.hostname !== "github.com") {
+    throw new Error(`Invalid GitHub hostname: ${githubUrl}`);
+  }
+
   const parts = url.pathname.split("/").filter(Boolean);
 
-  if (url.hostname !== "github.com" || parts.length < 2) {
+  if (parts.length < 2) {
     throw new Error(`Invalid GitHub repository URL: ${githubUrl}`);
   }
 
@@ -58,6 +68,7 @@ async function getRepository(repository: string): Promise<GitHubRepository> {
 
   if (!response.ok) {
     const body = await response.text();
+
     throw new Error(
       `GitHub API request failed for ${repository}: ${response.status} ${body}`
     );
@@ -77,26 +88,72 @@ function readProjects(): Project[] {
   });
 }
 
+function readExistingStats(): Record<string, GitHubStats> {
+  if (!fs.existsSync(outputPath)) {
+    return {};
+  }
+
+  try {
+    return JSON.parse(
+      fs.readFileSync(outputPath, "utf8")
+    ) as Record<string, GitHubStats>;
+  } catch {
+    console.warn("Could not read existing GitHub stats. Starting fresh.");
+    return {};
+  }
+}
+
 async function main() {
   const projects = readProjects();
-  const stats: Record<string, GitHubStats> = {};
+  const existingStats = readExistingStats();
+
+  const stats: Record<string, GitHubStats> = {
+    ...existingStats,
+  };
+
+  let successful = 0;
+  let failed = 0;
+
+  const failures: Array<{
+    slug: string;
+    github: string;
+    error: string;
+  }> = [];
 
   for (const project of projects) {
-    const repository = getRepositoryPath(project.github);
+    console.log(`Fetching ${project.slug} (${project.github})...`);
 
-    console.log(`Fetching ${project.slug} (${repository})...`);
+    try {
+      const repository = getRepositoryPath(project.github);
+      const data = await getRepository(repository);
 
-    const data = await getRepository(repository);
+      stats[project.slug] = {
+        stars: data.stargazers_count,
+        forks: data.forks_count,
+        language: data.language,
+        updatedAt: data.updated_at,
+        license: data.license?.name ?? data.license?.spdx_id ?? null,
+      };
+
+      successful++;
+    } catch (error) {
+      failed++;
+
+      const message =
+        error instanceof Error ? error.message : String(error);
+
+      console.warn(`⚠ Failed: ${project.slug}`);
+      console.warn(`  GitHub: ${project.github}`);
+      console.warn(`  Error: ${message}`);
+
+      failures.push({
+        slug: project.slug,
+        github: project.github,
+        error: message,
+      });
+    }
 
     await new Promise((resolve) => setTimeout(resolve, 200));
-
-    stats[project.slug] = {
-      stars: data.stargazers_count,
-      forks: data.forks_count,
-      language: data.language,
-      updatedAt: data.updated_at,
-      license: data.license?.name ?? data.license?.spdx_id ?? null,
-    };
   }
 
   fs.writeFileSync(
@@ -105,14 +162,30 @@ async function main() {
     "utf8"
   );
 
-  console.log(`Updated ${Object.keys(stats).length} GitHub projects.`);
+  console.log("");
+  console.log("GitHub stats update complete.");
+  console.log(`Projects processed: ${projects.length}`);
+  console.log(`Successfully updated: ${successful}`);
+  console.log(`Failed: ${failed}`);
+  console.log(`Stats available: ${Object.keys(stats).length}`);
   console.log(`Wrote ${outputPath}`);
+
+  if (failures.length > 0) {
+    console.log("");
+    console.log("Failed projects:");
+
+    for (const failure of failures) {
+      console.log(`- ${failure.slug}: ${failure.error}`);
+    }
+
+    console.log("");
+    console.log(
+      `${failures.length} project(s) could not be updated. Existing stats were preserved where available.`
+    );
+  }
 }
 
 main().catch((error) => {
-  console.error(error);
+  console.error("Fatal error:", error);
   process.exit(1);
 });
-
-
-
