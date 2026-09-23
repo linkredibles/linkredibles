@@ -3,6 +3,7 @@ import { notFound } from "next/navigation";
 import type { Metadata } from "next";
 
 import { getProjects } from "@/lib/projects";
+import ReportProblem from "@/app/components/report-problem";
 
 type ProjectPageProps = {
   params: Promise<{
@@ -282,6 +283,12 @@ export default async function ProjectPage({
             </div>
           </div>
         </div>
+
+        <ReportProblem
+          projectName={project.name}
+          projectSlug={project.slug}
+          githubUrl={project.github}
+        />
 
         {/* Related projects */}
         {relatedProjects.length > 0 && (
