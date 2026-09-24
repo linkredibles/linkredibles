@@ -1,0 +1,14 @@
+{
+    "slug":  "atomicbot-ai-atomic-agent",
+    "name":  "atomic-agent",
+    "description":  "Atomic Agent is a local-first AI agent. Runs open-weight models on your own machine via llama.cpp.",
+    "github":  "https://github.com/atomicbot-ai/atomic-agent",
+    "categories":  [
+                       "ai"
+                   ],
+    "tags":  [
+                 "ai-agents",
+                 "open-source"
+             ],
+    "featured":  false
+}

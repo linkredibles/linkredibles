@@ -1,0 +1,14 @@
+{
+    "slug":  "strands-agents-harness-sdk",
+    "name":  "harness-sdk",
+    "description":  "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python \u0026 TypeScript - any model, any cloud.",
+    "github":  "https://github.com/strands-agents/harness-sdk",
+    "categories":  [
+                       "ai"
+                   ],
+    "tags":  [
+                 "ai-agents",
+                 "open-source"
+             ],
+    "featured":  false
+}

@@ -1,0 +1,14 @@
+{
+    "slug":  "openai-swarm",
+    "name":  "swarm",
+    "description":  "Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.",
+    "github":  "https://github.com/openai/swarm",
+    "categories":  [
+                       "ai"
+                   ],
+    "tags":  [
+                 "ai-agents",
+                 "open-source"
+             ],
+    "featured":  false
+}

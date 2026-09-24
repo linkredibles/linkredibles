@@ -1,0 +1,15 @@
+{
+    "slug":  "nousresearch-hermes-agent",
+    "name":  "Hermes Agent",
+    "description":  "The agent that grows with you",
+    "github":  "https://github.com/NousResearch/hermes-agent",
+    "categories":  [
+                       "ai"
+                   ],
+    "tags":  [
+                 "ai-agents",
+                 "coding-agents",
+                 "llm"
+             ],
+    "featured":  false
+}

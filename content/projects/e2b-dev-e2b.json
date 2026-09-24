@@ -1,0 +1,15 @@
+{
+    "slug":  "e2b-dev-e2b",
+    "name":  "E2B",
+    "description":  "Open-source, secure environment with real-world tools for enterprise-grade agents.",
+    "github":  "https://github.com/e2b-dev/E2B",
+    "categories":  [
+                       "ai"
+                   ],
+    "tags":  [
+                 "ai-agents",
+                 "sandbox",
+                 "code-execution"
+             ],
+    "featured":  false
+}

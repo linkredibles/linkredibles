@@ -1,0 +1,15 @@
+{
+    "slug":  "weaviate-weaviate",
+    "name":  "Weaviate",
+    "description":  "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a cloud-native database​.",
+    "github":  "https://github.com/weaviate/weaviate",
+    "categories":  [
+                       "databases"
+                   ],
+    "tags":  [
+                 "vector-database",
+                 "rag",
+                 "search"
+             ],
+    "featured":  false
+}

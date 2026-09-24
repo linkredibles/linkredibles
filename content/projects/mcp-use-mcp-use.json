@@ -1,0 +1,15 @@
+{
+    "slug":  "mcp-use-mcp-use",
+    "name":  "MCP Use",
+    "description":  "The fullstack MCP framework to develop MCP Apps for ChatGPT / Claude \u0026 MCP Servers for AI Agents.",
+    "github":  "https://github.com/mcp-use/mcp-use",
+    "categories":  [
+                       "ai"
+                   ],
+    "tags":  [
+                 "mcp",
+                 "agents",
+                 "typescript"
+             ],
+    "featured":  false
+}

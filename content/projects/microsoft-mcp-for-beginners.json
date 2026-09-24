@@ -1,0 +1,15 @@
+{
+    "slug":  "microsoft-mcp-for-beginners",
+    "name":  "MCP for Beginners",
+    "description":  "This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, Rust and Python. Designed for developers, it focuses on practical techniques for building modular, scalable, and secure AI workflows from session setup to service orchestration.",
+    "github":  "https://github.com/microsoft/mcp-for-beginners",
+    "categories":  [
+                       "education"
+                   ],
+    "tags":  [
+                 "mcp",
+                 "education",
+                 "tutorials"
+             ],
+    "featured":  false
+}

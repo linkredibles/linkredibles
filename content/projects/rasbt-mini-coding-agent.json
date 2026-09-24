@@ -1,0 +1,15 @@
+{
+    "slug":  "rasbt-mini-coding-agent",
+    "name":  "mini-coding-agent",
+    "description":  "Minimal and readable coding agent harness implementation in Python to explain the core components of coding agents.",
+    "github":  "https://github.com/rasbt/mini-coding-agent",
+    "categories":  [
+                       "ai"
+                   ],
+    "tags":  [
+                 "ai-agents",
+                 "developer-tools",
+                 "open-source"
+             ],
+    "featured":  false
+}

@@ -1,0 +1,15 @@
+{
+    "slug":  "swe-gym-swe-gym",
+    "name":  "SWE-Gym",
+    "description":  "Code for Paper: Training Software Engineering Agents and Verifiers with SWE-Gym [ICML 2025]",
+    "github":  "https://github.com/SWE-Gym/SWE-Gym",
+    "categories":  [
+                       "ai"
+                   ],
+    "tags":  [
+                 "coding-agents",
+                 "software-engineering",
+                 "benchmarks"
+             ],
+    "featured":  false
+}

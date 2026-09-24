@@ -1,0 +1,15 @@
+{
+    "slug":  "pythagora-io-gpt-pilot",
+    "name":  "GPT Pilot",
+    "description":  "The first real AI developer",
+    "github":  "https://github.com/Pythagora-io/gpt-pilot",
+    "categories":  [
+                       "ai"
+                   ],
+    "tags":  [
+                 "coding-agents",
+                 "software-development",
+                 "llm"
+             ],
+    "featured":  false
+}

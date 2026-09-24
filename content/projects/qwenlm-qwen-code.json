@@ -1,0 +1,15 @@
+{
+    "slug":  "qwenlm-qwen-code",
+    "name":  "qwen-code",
+    "description":  "An open-source AI coding agent that lives in your terminal.",
+    "github":  "https://github.com/qwenlm/qwen-code",
+    "categories":  [
+                       "ai"
+                   ],
+    "tags":  [
+                 "ai-agents",
+                 "developer-tools",
+                 "open-source"
+             ],
+    "featured":  false
+}

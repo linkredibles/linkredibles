@@ -1,0 +1,14 @@
+{
+    "slug":  "desplega-ai-agent-swarm",
+    "name":  "agent-swarm",
+    "description":  "Your Company Agentic Operating System",
+    "github":  "https://github.com/desplega-ai/agent-swarm",
+    "categories":  [
+                       "ai"
+                   ],
+    "tags":  [
+                 "ai-agents",
+                 "open-source"
+             ],
+    "featured":  false
+}

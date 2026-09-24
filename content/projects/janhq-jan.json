@@ -1,0 +1,15 @@
+{
+    "slug":  "janhq-jan",
+    "name":  "Jan",
+    "description":  "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.",
+    "github":  "https://github.com/janhq/jan",
+    "categories":  [
+                       "self-hosted"
+                   ],
+    "tags":  [
+                 "local-ai",
+                 "desktop",
+                 "llm"
+             ],
+    "featured":  false
+}

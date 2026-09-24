@@ -1,0 +1,14 @@
+{
+    "slug":  "langchain-ai-deepagentsjs",
+    "name":  "deepagentsjs",
+    "description":  "The batteries included agent harness.",
+    "github":  "https://github.com/langchain-ai/deepagentsjs",
+    "categories":  [
+                       "ai"
+                   ],
+    "tags":  [
+                 "ai-agents",
+                 "open-source"
+             ],
+    "featured":  false
+}

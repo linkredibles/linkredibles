@@ -1,0 +1,15 @@
+{
+    "slug":  "milvus-io-milvus",
+    "name":  "Milvus",
+    "description":  "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "github":  "https://github.com/milvus-io/milvus",
+    "categories":  [
+                       "databases"
+                   ],
+    "tags":  [
+                 "vector-database",
+                 "rag",
+                 "embeddings"
+             ],
+    "featured":  false
+}

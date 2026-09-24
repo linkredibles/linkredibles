@@ -1,0 +1,14 @@
+{
+    "slug":  "agent-field-agentfield",
+    "name":  "agentfield",
+    "description":  "Build, run and scale AI agents like API and microservices",
+    "github":  "https://github.com/agent-field/agentfield",
+    "categories":  [
+                       "ai"
+                   ],
+    "tags":  [
+                 "ai-agents",
+                 "open-source"
+             ],
+    "featured":  false
+}

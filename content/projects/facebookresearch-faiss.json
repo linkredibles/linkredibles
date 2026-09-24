@@ -1,0 +1,15 @@
+{
+    "slug":  "facebookresearch-faiss",
+    "name":  "FAISS",
+    "description":  "A library for efficient similarity search and clustering of dense vectors.",
+    "github":  "https://github.com/facebookresearch/faiss",
+    "categories":  [
+                       "data"
+                   ],
+    "tags":  [
+                 "vector-search",
+                 "embeddings",
+                 "machine-learning"
+             ],
+    "featured":  false
+}

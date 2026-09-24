@@ -1,0 +1,15 @@
+{
+    "slug":  "oobabooga-text-generation-webui",
+    "name":  "text-generation-webui",
+    "description":  "Open-source desktop app for local LLMs. Text, vision, tool-calling, OpenAI/Anthropic-compatible API. 100% private.",
+    "github":  "https://github.com/oobabooga/text-generation-webui",
+    "categories":  [
+                       "self-hosted"
+                   ],
+    "tags":  [
+                 "local-ai",
+                 "llm",
+                 "webui"
+             ],
+    "featured":  false
+}

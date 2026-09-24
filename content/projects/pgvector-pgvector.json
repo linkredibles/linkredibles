@@ -1,0 +1,15 @@
+{
+    "slug":  "pgvector-pgvector",
+    "name":  "pgvector",
+    "description":  "Open-source vector similarity search for Postgres",
+    "github":  "https://github.com/pgvector/pgvector",
+    "categories":  [
+                       "databases"
+                   ],
+    "tags":  [
+                 "postgresql",
+                 "vector-database",
+                 "embeddings"
+             ],
+    "featured":  false
+}

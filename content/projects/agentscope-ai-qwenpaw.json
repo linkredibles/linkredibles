@@ -1,0 +1,13 @@
+{
+    "slug":  "agentscope-ai-qwenpaw",
+    "name":  "QwenPaw",
+    "description":  "Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities.",
+    "github":  "https://github.com/agentscope-ai/copaw",
+    "categories":  [
+                       "ai"
+                   ],
+    "tags":  [
+                 "open-source"
+             ],
+    "featured":  false
+}

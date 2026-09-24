@@ -1,0 +1,15 @@
+{
+    "slug":  "chroma-core-chroma",
+    "name":  "Chroma",
+    "description":  "Search infrastructure for AI",
+    "github":  "https://github.com/chroma-core/chroma",
+    "categories":  [
+                       "databases"
+                   ],
+    "tags":  [
+                 "vector-database",
+                 "rag",
+                 "embeddings"
+             ],
+    "featured":  false
+}

@@ -1,0 +1,15 @@
+{
+    "slug":  "modelcontextprotocol-typescript-sdk",
+    "name":  "MCP TypeScript SDK",
+    "description":  "The official TypeScript SDK for Model Context Protocol servers and clients",
+    "github":  "https://github.com/modelcontextprotocol/typescript-sdk",
+    "categories":  [
+                       "ai"
+                   ],
+    "tags":  [
+                 "mcp",
+                 "typescript",
+                 "sdk"
+             ],
+    "featured":  false
+}

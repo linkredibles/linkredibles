@@ -1,0 +1,15 @@
+{
+    "slug":  "tinyhumansai-openhuman",
+    "name":  "openhuman",
+    "description":  "OpenHuman is an open source agent harness with local-first memory, agent orchestration, and workflows",
+    "github":  "https://github.com/tinyhumansai/openhuman",
+    "categories":  [
+                       "ai"
+                   ],
+    "tags":  [
+                 "ai-agents",
+                 "automation",
+                 "open-source"
+             ],
+    "featured":  false
+}

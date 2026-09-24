@@ -1,0 +1,15 @@
+{
+    "slug":  "daytonaio-daytona",
+    "name":  "Daytona",
+    "description":  "Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code",
+    "github":  "https://github.com/daytonaio/daytona",
+    "categories":  [
+                       "ai"
+                   ],
+    "tags":  [
+                 "ai-agents",
+                 "sandbox",
+                 "developer-tools"
+             ],
+    "featured":  false
+}

@@ -1,0 +1,15 @@
+{
+    "slug":  "prefecthq-fastmcp",
+    "name":  "FastMCP",
+    "description":  "🚀 The fast, Pythonic way to build MCP servers and clients.",
+    "github":  "https://github.com/PrefectHQ/fastmcp",
+    "categories":  [
+                       "ai"
+                   ],
+    "tags":  [
+                 "mcp",
+                 "python",
+                 "agents"
+             ],
+    "featured":  false
+}

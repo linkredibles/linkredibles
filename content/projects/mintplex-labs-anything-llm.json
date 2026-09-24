@@ -1,0 +1,15 @@
+{
+    "slug":  "mintplex-labs-anything-llm",
+    "name":  "AnythingLLM",
+    "description":  "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience ",
+    "github":  "https://github.com/Mintplex-Labs/anything-llm",
+    "categories":  [
+                       "self-hosted"
+                   ],
+    "tags":  [
+                 "rag",
+                 "local-ai",
+                 "knowledge-base"
+             ],
+    "featured":  false
+}

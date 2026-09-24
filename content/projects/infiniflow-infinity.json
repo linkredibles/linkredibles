@@ -1,0 +1,15 @@
+{
+    "slug":  "infiniflow-infinity",
+    "name":  "Infinity",
+    "description":  "The AI-native database built for LLM applications, providing incredibly fast hybrid search of dense vector, sparse vector, tensor (multi-vector), and full-text.",
+    "github":  "https://github.com/infiniflow/infinity",
+    "categories":  [
+                       "databases"
+                   ],
+    "tags":  [
+                 "vector-database",
+                 "rag",
+                 "search"
+             ],
+    "featured":  false
+}

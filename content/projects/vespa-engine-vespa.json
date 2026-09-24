@@ -1,0 +1,15 @@
+{
+    "slug":  "vespa-engine-vespa",
+    "name":  "Vespa",
+    "description":  "The AI search platform",
+    "github":  "https://github.com/vespa-engine/vespa",
+    "categories":  [
+                       "databases"
+                   ],
+    "tags":  [
+                 "search",
+                 "vector-database",
+                 "ai"
+             ],
+    "featured":  false
+}

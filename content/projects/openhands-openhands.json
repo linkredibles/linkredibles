@@ -1,0 +1,13 @@
+{
+    "slug":  "openhands-openhands",
+    "name":  "OpenHands",
+    "description":  "🙌 OpenHands: AI-Driven Development",
+    "github":  "https://github.com/all-hands-ai/openhands",
+    "categories":  [
+                       "ai"
+                   ],
+    "tags":  [
+                 "open-source"
+             ],
+    "featured":  false
+}

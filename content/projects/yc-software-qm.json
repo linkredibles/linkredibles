@@ -1,0 +1,14 @@
+{
+    "slug":  "yc-software-qm",
+    "name":  "qm",
+    "description":  "Multiplayer agent harness for work.",
+    "github":  "https://github.com/yc-software/qm",
+    "categories":  [
+                       "ai"
+                   ],
+    "tags":  [
+                 "ai-agents",
+                 "open-source"
+             ],
+    "featured":  false
+}

@@ -1,0 +1,14 @@
+{
+    "slug":  "agentscope-ai-agentscope",
+    "name":  "agentscope",
+    "description":  "Build and run agents you can see, understand and trust.",
+    "github":  "https://github.com/agentscope-ai/agentscope",
+    "categories":  [
+                       "ai"
+                   ],
+    "tags":  [
+                 "ai-agents",
+                 "open-source"
+             ],
+    "featured":  false
+}

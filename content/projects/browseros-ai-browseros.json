@@ -1,0 +1,14 @@
+{
+    "slug":  "browseros-ai-browseros",
+    "name":  "BrowserOS",
+    "description":  "🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.",
+    "github":  "https://github.com/browseros-ai/browseros",
+    "categories":  [
+                       "ai"
+                   ],
+    "tags":  [
+                 "ai-agents",
+                 "open-source"
+             ],
+    "featured":  false
+}

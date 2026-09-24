@@ -1,0 +1,15 @@
+{
+    "slug":  "vllm-project-vllm",
+    "name":  "vLLM",
+    "description":  "A high-throughput and memory-efficient inference and serving engine for LLMs",
+    "github":  "https://github.com/vllm-project/vllm",
+    "categories":  [
+                       "self-hosted"
+                   ],
+    "tags":  [
+                 "llm",
+                 "inference",
+                 "gpu"
+             ],
+    "featured":  false
+}

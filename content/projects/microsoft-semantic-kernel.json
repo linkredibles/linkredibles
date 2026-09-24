@@ -1,0 +1,15 @@
+{
+    "slug":  "microsoft-semantic-kernel",
+    "name":  "Semantic Kernel",
+    "description":  "Integrate cutting-edge LLM technology quickly and easily into your apps",
+    "github":  "https://github.com/microsoft/semantic-kernel",
+    "categories":  [
+                       "ai"
+                   ],
+    "tags":  [
+                 "ai-agents",
+                 "llm",
+                 "sdk"
+             ],
+    "featured":  false
+}

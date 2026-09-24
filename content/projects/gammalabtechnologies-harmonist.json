@@ -1,0 +1,14 @@
+{
+    "slug":  "gammalabtechnologies-harmonist",
+    "name":  "harmonist",
+    "description":  "Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.",
+    "github":  "https://github.com/gammalabtechnologies/harmonist",
+    "categories":  [
+                       "ai"
+                   ],
+    "tags":  [
+                 "ai-agents",
+                 "open-source"
+             ],
+    "featured":  false
+}

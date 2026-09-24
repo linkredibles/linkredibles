@@ -1,0 +1,15 @@
+{
+    "slug":  "langchain-ai-open-swe",
+    "name":  "open-swe",
+    "description":  "An Open-Source Asynchronous Coding Agent",
+    "github":  "https://github.com/langchain-ai/open-swe",
+    "categories":  [
+                       "ai"
+                   ],
+    "tags":  [
+                 "ai-agents",
+                 "developer-tools",
+                 "open-source"
+             ],
+    "featured":  false
+}

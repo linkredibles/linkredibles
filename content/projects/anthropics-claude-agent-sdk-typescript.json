@@ -1,0 +1,14 @@
+{
+    "slug":  "anthropics-claude-agent-sdk-typescript",
+    "name":  "claude-agent-sdk-typescript",
+    "description":  "claude-agent-sdk-typescript is an open-source project discovered through awesome-ai-agents.",
+    "github":  "https://github.com/anthropics/claude-agent-sdk-typescript",
+    "categories":  [
+                       "ai"
+                   ],
+    "tags":  [
+                 "ai-agents",
+                 "open-source"
+             ],
+    "featured":  false
+}

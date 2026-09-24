@@ -1,0 +1,15 @@
+{
+    "slug":  "all-hands-ai-openhands-cli",
+    "name":  "OpenHands CLI",
+    "description":  "Lightweight OpenHands CLI in a binary executable",
+    "github":  "https://github.com/All-Hands-AI/OpenHands-CLI",
+    "categories":  [
+                       "ai"
+                   ],
+    "tags":  [
+                 "coding-agents",
+                 "cli",
+                 "developer-tools"
+             ],
+    "featured":  false
+}

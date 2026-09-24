@@ -1,0 +1,15 @@
+{
+    "slug":  "activepieces-activepieces",
+    "name":  "Activepieces",
+    "description":  "AI Agents \u0026 MCPs \u0026 AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows \u0026 AI Agents • MCPs for AI Agents",
+    "github":  "https://github.com/activepieces/activepieces",
+    "categories":  [
+                       "automation"
+                   ],
+    "tags":  [
+                 "automation",
+                 "workflow",
+                 "integrations"
+             ],
+    "featured":  false
+}

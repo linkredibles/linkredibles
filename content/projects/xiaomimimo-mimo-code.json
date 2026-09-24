@@ -1,0 +1,14 @@
+{
+    "slug":  "xiaomimimo-mimo-code",
+    "name":  "MiMo-Code",
+    "description":  "MiMo Code: Where Models and Agents Co-Evolve",
+    "github":  "https://github.com/xiaomimimo/mimo-code",
+    "categories":  [
+                       "ai"
+                   ],
+    "tags":  [
+                 "ai-agents",
+                 "open-source"
+             ],
+    "featured":  false
+}

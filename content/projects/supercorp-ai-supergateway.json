@@ -1,0 +1,15 @@
+{
+    "slug":  "supercorp-ai-supergateway",
+    "name":  "Supergateway",
+    "description":  "Run MCP stdio servers over HTTP streamable, SSE and SSE over stdio. AI gateway.",
+    "github":  "https://github.com/supercorp-ai/supergateway",
+    "categories":  [
+                       "ai"
+                   ],
+    "tags":  [
+                 "mcp",
+                 "servers",
+                 "stdio"
+             ],
+    "featured":  false
+}

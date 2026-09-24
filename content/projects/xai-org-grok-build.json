@@ -1,0 +1,15 @@
+{
+    "slug":  "xai-org-grok-build",
+    "name":  "grok-build",
+    "description":  "SpaceXAI\u0027s coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
+    "github":  "https://github.com/xai-org/grok-build",
+    "categories":  [
+                       "ai"
+                   ],
+    "tags":  [
+                 "ai-agents",
+                 "developer-tools",
+                 "open-source"
+             ],
+    "featured":  false
+}

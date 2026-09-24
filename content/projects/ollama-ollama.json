@@ -1,0 +1,15 @@
+{
+    "slug":  "ollama-ollama",
+    "name":  "Ollama",
+    "description":  "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+    "github":  "https://github.com/ollama/ollama",
+    "categories":  [
+                       "self-hosted"
+                   ],
+    "tags":  [
+                 "local-ai",
+                 "llm",
+                 "inference"
+             ],
+    "featured":  false
+}

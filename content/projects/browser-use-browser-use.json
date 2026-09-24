@@ -1,0 +1,15 @@
+{
+    "slug":  "browser-use-browser-use",
+    "name":  "Browser Use",
+    "description":  "Agents that use the browser.",
+    "github":  "https://github.com/browser-use/browser-use",
+    "categories":  [
+                       "ai"
+                   ],
+    "tags":  [
+                 "browser-automation",
+                 "ai-agents",
+                 "python"
+             ],
+    "featured":  false
+}

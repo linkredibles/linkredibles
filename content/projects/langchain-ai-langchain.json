@@ -1,0 +1,14 @@
+{
+    "slug":  "langchain-ai-langchain",
+    "name":  "langchain",
+    "description":  "The agent engineering platform.",
+    "github":  "https://github.com/langchain-ai/langchain",
+    "categories":  [
+                       "ai"
+                   ],
+    "tags":  [
+                 "ai-agents",
+                 "open-source"
+             ],
+    "featured":  false
+}

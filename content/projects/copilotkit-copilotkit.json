@@ -1,0 +1,15 @@
+{
+    "slug":  "copilotkit-copilotkit",
+    "name":  "CopilotKit",
+    "description":  "The Frontend Stack for Agents \u0026 Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol",
+    "github":  "https://github.com/CopilotKit/CopilotKit",
+    "categories":  [
+                       "ai"
+                   ],
+    "tags":  [
+                 "ai-agents",
+                 "react",
+                 "copilot"
+             ],
+    "featured":  false
+}

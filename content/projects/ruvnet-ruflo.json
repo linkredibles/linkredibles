@@ -1,0 +1,16 @@
+{
+    "slug":  "ruvnet-ruflo",
+    "name":  "ruflo",
+    "description":  "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+    "github":  "https://github.com/ruvnet/ruflo",
+    "categories":  [
+                       "ai"
+                   ],
+    "tags":  [
+                 "ai-agents",
+                 "rag",
+                 "automation",
+                 "open-source"
+             ],
+    "featured":  false
+}

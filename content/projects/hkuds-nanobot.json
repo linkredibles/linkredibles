@@ -1,0 +1,15 @@
+{
+    "slug":  "hkuds-nanobot",
+    "name":  "Nanobot",
+    "description":  "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-agent workflows, automation, and chat apps",
+    "github":  "https://github.com/HKUDS/nanobot",
+    "categories":  [
+                       "ai"
+                   ],
+    "tags":  [
+                 "ai-agents",
+                 "mcp",
+                 "self-hosted"
+             ],
+    "featured":  false
+}

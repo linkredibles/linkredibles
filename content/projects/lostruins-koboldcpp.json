@@ -1,0 +1,15 @@
+{
+    "slug":  "lostruins-koboldcpp",
+    "name":  "KoboldCpp",
+    "description":  "Run GGUF models easily with a KoboldAI UI. One File. Zero Install.",
+    "github":  "https://github.com/LostRuins/koboldcpp",
+    "categories":  [
+                       "self-hosted"
+                   ],
+    "tags":  [
+                 "local-ai",
+                 "llm",
+                 "cpp"
+             ],
+    "featured":  false
+}

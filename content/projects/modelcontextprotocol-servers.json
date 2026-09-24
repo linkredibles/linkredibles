@@ -1,0 +1,15 @@
+{
+    "slug":  "modelcontextprotocol-servers",
+    "name":  "MCP Servers",
+    "description":  "Model Context Protocol Servers",
+    "github":  "https://github.com/modelcontextprotocol/servers",
+    "categories":  [
+                       "ai"
+                   ],
+    "tags":  [
+                 "mcp",
+                 "mcp-servers",
+                 "tools"
+             ],
+    "featured":  false
+}

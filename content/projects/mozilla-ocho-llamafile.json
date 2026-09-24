@@ -1,0 +1,15 @@
+{
+    "slug":  "mozilla-ocho-llamafile",
+    "name":  "llamafile",
+    "description":  "Distribute and run LLMs with a single file.",
+    "github":  "https://github.com/Mozilla-Ocho/llamafile",
+    "categories":  [
+                       "self-hosted"
+                   ],
+    "tags":  [
+                 "local-ai",
+                 "llm",
+                 "portable"
+             ],
+    "featured":  false
+}

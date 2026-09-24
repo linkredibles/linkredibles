@@ -1,0 +1,15 @@
+{
+    "slug":  "lancedb-lancedb",
+    "name":  "LanceDB",
+    "description":  "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "github":  "https://github.com/lancedb/lancedb",
+    "categories":  [
+                       "databases"
+                   ],
+    "tags":  [
+                 "vector-database",
+                 "embeddings",
+                 "data"
+             ],
+    "featured":  false
+}

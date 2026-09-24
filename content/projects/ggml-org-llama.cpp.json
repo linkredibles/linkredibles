@@ -1,0 +1,15 @@
+{
+    "slug":  "ggml-org-llama.cpp",
+    "name":  "llama.cpp",
+    "description":  "LLM inference in C/C++",
+    "github":  "https://github.com/ggml-org/llama.cpp",
+    "categories":  [
+                       "self-hosted"
+                   ],
+    "tags":  [
+                 "llm",
+                 "local-ai",
+                 "inference"
+             ],
+    "featured":  false
+}

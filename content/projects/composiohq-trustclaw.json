@@ -1,0 +1,14 @@
+{
+    "slug":  "composiohq-trustclaw",
+    "name":  "trustclaw",
+    "description":  "A self-hostable personal AI agent with vector memory, Composio tools, and Telegram.",
+    "github":  "https://github.com/composiohq/trustclaw",
+    "categories":  [
+                       "ai"
+                   ],
+    "tags":  [
+                 "ai-agents",
+                 "open-source"
+             ],
+    "featured":  false
+}

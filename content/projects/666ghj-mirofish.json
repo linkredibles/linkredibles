@@ -1,0 +1,13 @@
+{
+    "slug":  "666ghj-mirofish",
+    "name":  "MiroFish",
+    "description":  "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+    "github":  "https://github.com/666ghj/mirofish",
+    "categories":  [
+                       "ai"
+                   ],
+    "tags":  [
+                 "open-source"
+             ],
+    "featured":  false
+}

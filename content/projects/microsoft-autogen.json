@@ -1,0 +1,15 @@
+{
+    "slug":  "microsoft-autogen",
+    "name":  "Microsoft AutoGen",
+    "description":  "A programming framework for agentic AI",
+    "github":  "https://github.com/microsoft/autogen",
+    "categories":  [
+                       "ai"
+                   ],
+    "tags":  [
+                 "ai-agents",
+                 "multi-agent",
+                 "microsoft"
+             ],
+    "featured":  false
+}

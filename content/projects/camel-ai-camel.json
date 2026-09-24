@@ -1,0 +1,15 @@
+{
+    "slug":  "camel-ai-camel",
+    "name":  "CAMEL-AI",
+    "description":  "🐫 CAMEL: The first and the best multi-agent framework. Finding the Scaling Law of Agents. https://www.camel-ai.org",
+    "github":  "https://github.com/camel-ai/camel",
+    "categories":  [
+                       "ai"
+                   ],
+    "tags":  [
+                 "ai-agents",
+                 "multi-agent",
+                 "llm"
+             ],
+    "featured":  false
+}

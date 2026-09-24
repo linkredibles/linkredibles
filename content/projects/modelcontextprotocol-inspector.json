@@ -1,0 +1,15 @@
+{
+    "slug":  "modelcontextprotocol-inspector",
+    "name":  "MCP Inspector",
+    "description":  "Visual testing tool for MCP servers",
+    "github":  "https://github.com/modelcontextprotocol/inspector",
+    "categories":  [
+                       "developer-tools"
+                   ],
+    "tags":  [
+                 "mcp",
+                 "debugging",
+                 "developer-tools"
+             ],
+    "featured":  false
+}

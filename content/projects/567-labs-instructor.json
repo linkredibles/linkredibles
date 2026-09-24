@@ -1,0 +1,13 @@
+{
+    "slug":  "567-labs-instructor",
+    "name":  "instructor",
+    "description":  "structured outputs for llms",
+    "github":  "https://github.com/jxnl/instructor",
+    "categories":  [
+                       "ai"
+                   ],
+    "tags":  [
+                 "open-source"
+             ],
+    "featured":  false
+}

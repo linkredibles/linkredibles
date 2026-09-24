@@ -1,0 +1,14 @@
+{
+    "slug":  "aider-ai-aider",
+    "name":  "aider",
+    "description":  "aider is AI pair programming in your terminal",
+    "github":  "https://github.com/paul-gauthier/aider",
+    "categories":  [
+                       "developer-tools"
+                   ],
+    "tags":  [
+                 "developer-tools",
+                 "open-source"
+             ],
+    "featured":  false
+}

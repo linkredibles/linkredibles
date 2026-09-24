@@ -1,0 +1,15 @@
+{
+    "slug":  "kestra-io-kestra",
+    "name":  "Kestra",
+    "description":  "Event Driven Orchestration \u0026 Scheduling Platform for Mission Critical Applications",
+    "github":  "https://github.com/kestra-io/kestra",
+    "categories":  [
+                       "automation"
+                   ],
+    "tags":  [
+                 "workflow",
+                 "automation",
+                 "orchestration"
+             ],
+    "featured":  false
+}

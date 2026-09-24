@@ -1,0 +1,14 @@
+{
+    "slug":  "anthropics-claude-agent-sdk-python",
+    "name":  "claude-agent-sdk-python",
+    "description":  "claude-agent-sdk-python is an open-source project discovered through awesome-ai-agents.",
+    "github":  "https://github.com/anthropics/claude-agent-sdk-python",
+    "categories":  [
+                       "ai"
+                   ],
+    "tags":  [
+                 "ai-agents",
+                 "open-source"
+             ],
+    "featured":  false
+}

@@ -1,0 +1,15 @@
+{
+    "slug":  "sst-opencode",
+    "name":  "OpenCode",
+    "description":  "The open source coding agent.",
+    "github":  "https://github.com/sst/opencode",
+    "categories":  [
+                       "ai"
+                   ],
+    "tags":  [
+                 "coding-agents",
+                 "terminal",
+                 "developer-tools"
+             ],
+    "featured":  false
+}

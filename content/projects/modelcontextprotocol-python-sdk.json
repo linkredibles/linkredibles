@@ -1,0 +1,15 @@
+{
+    "slug":  "modelcontextprotocol-python-sdk",
+    "name":  "MCP Python SDK",
+    "description":  "The official Python SDK for Model Context Protocol servers and clients",
+    "github":  "https://github.com/modelcontextprotocol/python-sdk",
+    "categories":  [
+                       "ai"
+                   ],
+    "tags":  [
+                 "mcp",
+                 "python",
+                 "sdk"
+             ],
+    "featured":  false
+}

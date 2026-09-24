@@ -1,0 +1,14 @@
+{
+    "slug":  "gcwing-openbitfun",
+    "name":  "OpenBitFun",
+    "description":  "OpenBitFun combines a high-performance agent runtime written in Rust with a polished desktop application. It pairs the depth of a Code Agent with open, general-purpose capabilities for work beyond software development.",
+    "github":  "https://github.com/gcwing/bitfun",
+    "categories":  [
+                       "ai"
+                   ],
+    "tags":  [
+                 "ai-agents",
+                 "open-source"
+             ],
+    "featured":  false
+}

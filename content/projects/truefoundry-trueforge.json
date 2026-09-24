@@ -1,0 +1,14 @@
+{
+    "slug":  "truefoundry-trueforge",
+    "name":  "trueforge",
+    "description":  "The open-source agent harness - the runtime layer that turns an LLM into a working agent.",
+    "github":  "https://github.com/truefoundry/trueforge",
+    "categories":  [
+                       "ai"
+                   ],
+    "tags":  [
+                 "ai-agents",
+                 "open-source"
+             ],
+    "featured":  false
+}

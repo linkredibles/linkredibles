@@ -1,0 +1,15 @@
+{
+    "slug":  "letta-ai-letta-code",
+    "name":  "Letta Code",
+    "description":  "Stateful agents that are like people, with memory, identity, and the ability to learn and adapt",
+    "github":  "https://github.com/letta-ai/letta-code",
+    "categories":  [
+                       "ai"
+                   ],
+    "tags":  [
+                 "coding-agents",
+                 "memory",
+                 "developer-tools"
+             ],
+    "featured":  false
+}

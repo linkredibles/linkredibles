@@ -1,0 +1,15 @@
+{
+    "slug":  "openai-openai-agents-python",
+    "name":  "openai-agents-python",
+    "description":  "A lightweight, powerful framework for multi-agent workflows",
+    "github":  "https://github.com/openai/openai-agents-python",
+    "categories":  [
+                       "ai"
+                   ],
+    "tags":  [
+                 "ai-agents",
+                 "automation",
+                 "open-source"
+             ],
+    "featured":  false
+}

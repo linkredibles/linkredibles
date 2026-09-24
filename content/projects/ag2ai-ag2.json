@@ -1,0 +1,14 @@
+{
+    "slug":  "ag2ai-ag2",
+    "name":  "ag2",
+    "description":  "AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x",
+    "github":  "https://github.com/ag2ai/ag2",
+    "categories":  [
+                       "ai"
+                   ],
+    "tags":  [
+                 "ai-agents",
+                 "open-source"
+             ],
+    "featured":  false
+}

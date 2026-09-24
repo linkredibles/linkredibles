@@ -1,0 +1,15 @@
+{
+    "slug":  "open-webui-pipelines",
+    "name":  "Open WebUI Pipelines",
+    "description":  "Pipelines: Versatile, UI-Agnostic OpenAI-Compatible Plugin Framework ",
+    "github":  "https://github.com/open-webui/pipelines",
+    "categories":  [
+                       "self-hosted"
+                   ],
+    "tags":  [
+                 "local-ai",
+                 "llm",
+                 "pipelines"
+             ],
+    "featured":  false
+}

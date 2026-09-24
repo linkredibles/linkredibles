@@ -1,0 +1,15 @@
+{
+    "slug":  "foundationagents-metagpt",
+    "name":  "MetaGPT",
+    "description":  "🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming",
+    "github":  "https://github.com/FoundationAgents/MetaGPT",
+    "categories":  [
+                       "ai"
+                   ],
+    "tags":  [
+                 "ai-agents",
+                 "software-development",
+                 "multi-agent"
+             ],
+    "featured":  false
+}

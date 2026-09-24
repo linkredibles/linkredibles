@@ -1,0 +1,16 @@
+{
+    "slug":  "primeintellect-ai-prime-agent",
+    "name":  "prime-agent",
+    "description":  "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+    "github":  "https://github.com/primeintellect-ai/prime-agent",
+    "categories":  [
+                       "ai"
+                   ],
+    "tags":  [
+                 "ai-agents",
+                 "automation",
+                 "developer-tools",
+                 "open-source"
+             ],
+    "featured":  false
+}

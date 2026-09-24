@@ -1,0 +1,14 @@
+{
+    "slug":  "openhands-software-agent-sdk",
+    "name":  "software-agent-sdk",
+    "description":  "A clean, modular SDK for building AI agents with OpenHands V1.",
+    "github":  "https://github.com/openhands/software-agent-sdk",
+    "categories":  [
+                       "ai"
+                   ],
+    "tags":  [
+                 "ai-agents",
+                 "open-source"
+             ],
+    "featured":  false
+}

@@ -1,0 +1,14 @@
+{
+    "slug":  "moonshotai-kimi-code",
+    "name":  "kimi-code",
+    "description":  "Kimi Code CLI  —  The Starting Point for Next-Gen Agents",
+    "github":  "https://github.com/moonshotai/kimi-code",
+    "categories":  [
+                       "ai"
+                   ],
+    "tags":  [
+                 "ai-agents",
+                 "open-source"
+             ],
+    "featured":  false
+}

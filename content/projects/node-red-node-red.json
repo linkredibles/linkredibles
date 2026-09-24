@@ -1,0 +1,15 @@
+{
+    "slug":  "node-red-node-red",
+    "name":  "Node-RED",
+    "description":  "Low-code programming for event-driven applications",
+    "github":  "https://github.com/node-red/node-red",
+    "categories":  [
+                       "automation"
+                   ],
+    "tags":  [
+                 "automation",
+                 "workflow",
+                 "iot"
+             ],
+    "featured":  false
+}

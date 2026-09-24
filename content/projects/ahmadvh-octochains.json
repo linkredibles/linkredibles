@@ -1,0 +1,13 @@
+{
+    "slug":  "ahmadvh-octochains",
+    "name":  "octochains",
+    "description":  "A lightweight Python framework for parallel, isolated, collaborative AI reasoning.",
+    "github":  "https://github.com/ahmadvh/octochains",
+    "categories":  [
+                       "ai"
+                   ],
+    "tags":  [
+                 "open-source"
+             ],
+    "featured":  false
+}

@@ -1,0 +1,13 @@
+{
+    "slug":  "deepseek-ai-deepseek-harness",
+    "name":  "deepseek-harness",
+    "description":  "DeepSeek Harness: Everything is a Plugin.",
+    "github":  "https://github.com/deepseek-ai/deepseek-harness",
+    "categories":  [
+                       "ai"
+                   ],
+    "tags":  [
+                 "open-source"
+             ],
+    "featured":  false
+}

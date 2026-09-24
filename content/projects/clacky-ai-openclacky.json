@@ -1,0 +1,14 @@
+{
+    "slug":  "clacky-ai-openclacky",
+    "name":  "openclacky",
+    "description":  "The most Token-efficient open-source AI Agent",
+    "github":  "https://github.com/clacky-ai/open-clacky",
+    "categories":  [
+                       "ai"
+                   ],
+    "tags":  [
+                 "ai-agents",
+                 "open-source"
+             ],
+    "featured":  false
+}

@@ -1,0 +1,15 @@
+{
+    "slug":  "automatisch-automatisch",
+    "name":  "Automatisch",
+    "description":  "The open source Zapier alternative. Build workflow automation without spending time and money.",
+    "github":  "https://github.com/automatisch/automatisch",
+    "categories":  [
+                       "automation"
+                   ],
+    "tags":  [
+                 "automation",
+                 "workflow",
+                 "self-hosted"
+             ],
+    "featured":  false
+}
