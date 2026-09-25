@@ -1,0 +1,23 @@
+{
+    "id":  "1d4770",
+    "slug":  "zep",
+    "name":  "Zep",
+    "description":  "A memory and context infrastructure platform for AI agents and applications.",
+    "why":  "Provide persistent context and memory capabilities for conversational AI systems.",
+    "website":  "https://www.getzep.com/",
+    "github":  "https://github.com/getzep/zep",
+    "categories":  [
+                       "ai",
+                       "databases",
+                       "developer-tools",
+                       "api"
+                   ],
+    "tags":  [
+                 "ai-memory",
+                 "agents",
+                 "context",
+                 "llm",
+                 "knowledge"
+             ],
+    "featured":  false
+}

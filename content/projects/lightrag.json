@@ -1,0 +1,23 @@
+{
+    "id":  "c4613e",
+    "slug":  "lightrag",
+    "name":  "LightRAG",
+    "description":  "A lightweight retrieval-augmented generation framework that combines graph structures with efficient retrieval.",
+    "why":  "Build RAG systems with graph-aware retrieval while keeping the architecture relatively lightweight.",
+    "website":  "https://github.com/HKUDS/LightRAG",
+    "github":  "https://github.com/HKUDS/LightRAG",
+    "categories":  [
+                       "ai",
+                       "data",
+                       "ai-frameworks",
+                       "developer-tools"
+                   ],
+    "tags":  [
+                 "rag",
+                 "graph-rag",
+                 "retrieval",
+                 "knowledge-graph",
+                 "llm"
+             ],
+    "featured":  false
+}

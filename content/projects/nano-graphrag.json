@@ -1,0 +1,22 @@
+{
+    "id":  "e007d8",
+    "slug":  "nano-graphrag",
+    "name":  "nano-graphrag",
+    "description":  "A lightweight implementation of graph-based retrieval-augmented generation.",
+    "why":  "Experiment with graph-based RAG architectures through a compact Python implementation.",
+    "website":  "https://github.com/gusye1234/nano-graphrag",
+    "github":  "https://github.com/gusye1234/nano-graphrag",
+    "categories":  [
+                       "ai",
+                       "data",
+                       "developer-tools"
+                   ],
+    "tags":  [
+                 "rag",
+                 "graph-rag",
+                 "python",
+                 "knowledge-graph",
+                 "llm"
+             ],
+    "featured":  false
+}

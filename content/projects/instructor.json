@@ -1,0 +1,22 @@
+{
+    "id":  "3ca089",
+    "slug":  "instructor",
+    "name":  "Instructor",
+    "description":  "A Python library for extracting structured data from LLM responses using typed schemas.",
+    "why":  "Turn LLM outputs into validated structured objects using familiar Python type definitions.",
+    "website":  "https://python.useinstructor.com/",
+    "github":  "https://github.com/jxnl/instructor",
+    "categories":  [
+                       "ai",
+                       "developer-tools",
+                       "api"
+                   ],
+    "tags":  [
+                 "structured-output",
+                 "pydantic",
+                 "llm",
+                 "python",
+                 "extraction"
+             ],
+    "featured":  false
+}

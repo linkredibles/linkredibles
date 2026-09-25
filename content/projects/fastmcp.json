@@ -1,0 +1,23 @@
+{
+    "id":  "aa7236",
+    "slug":  "fastmcp",
+    "name":  "FastMCP",
+    "description":  "A Python framework for building MCP servers and clients with a developer-friendly API.",
+    "why":  "Create and expose tools, resources, and prompts to AI applications through MCP.",
+    "website":  "https://gofastmcp.com/",
+    "github":  "https://github.com/jlowin/fastmcp",
+    "categories":  [
+                       "ai",
+                       "api",
+                       "developer-tools",
+                       "automation"
+                   ],
+    "tags":  [
+                 "mcp",
+                 "python",
+                 "ai-tools",
+                 "api",
+                 "agents"
+             ],
+    "featured":  false
+}

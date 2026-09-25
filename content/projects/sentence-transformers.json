@@ -1,0 +1,22 @@
+{
+    "id":  "9d4a86",
+    "slug":  "sentence-transformers",
+    "name":  "Sentence Transformers",
+    "description":  "A Python framework for generating embeddings and training models for semantic search and similarity.",
+    "why":  "Create embeddings and semantic retrieval systems for search, clustering, and RAG.",
+    "website":  "https://www.sbert.net/",
+    "github":  "https://github.com/UKPLab/sentence-transformers",
+    "categories":  [
+                       "ai",
+                       "data",
+                       "developer-tools"
+                   ],
+    "tags":  [
+                 "embeddings",
+                 "semantic-search",
+                 "nlp",
+                 "python",
+                 "rag"
+             ],
+    "featured":  false
+}

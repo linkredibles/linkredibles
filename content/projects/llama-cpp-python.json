@@ -1,0 +1,23 @@
+{
+    "id":  "ec9e99",
+    "slug":  "llama-cpp-python",
+    "name":  "llama-cpp-python",
+    "description":  "Python bindings for llama.cpp with APIs for running and serving local language models.",
+    "why":  "Run quantized LLMs locally from Python and expose model inference through APIs.",
+    "website":  "https://github.com/abetlen/llama-cpp-python",
+    "github":  "https://github.com/abetlen/llama-cpp-python",
+    "categories":  [
+                       "ai",
+                       "developer-tools",
+                       "api",
+                       "self-hosted"
+                   ],
+    "tags":  [
+                 "llama-cpp",
+                 "local-llm",
+                 "python",
+                 "inference",
+                 "gguf"
+             ],
+    "featured":  false
+}

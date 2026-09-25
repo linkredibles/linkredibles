@@ -1,0 +1,22 @@
+{
+    "id":  "e0857a",
+    "slug":  "bge-m3",
+    "name":  "FlagEmbedding",
+    "description":  "A collection of embedding and reranking models and tooling for retrieval and semantic search.",
+    "why":  "Build high-quality retrieval pipelines with embeddings, rerankers, and multilingual models.",
+    "website":  "https://github.com/FlagOpen/FlagEmbedding",
+    "github":  "https://github.com/FlagOpen/FlagEmbedding",
+    "categories":  [
+                       "ai",
+                       "data",
+                       "developer-tools"
+                   ],
+    "tags":  [
+                 "embeddings",
+                 "reranking",
+                 "retrieval",
+                 "rag",
+                 "semantic-search"
+             ],
+    "featured":  false
+}

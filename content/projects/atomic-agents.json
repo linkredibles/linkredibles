@@ -1,0 +1,23 @@
+{
+    "id":  "0b7232",
+    "slug":  "atomic-agents",
+    "name":  "Atomic Agents",
+    "description":  "A modular Python framework for building AI agents and workflows from small composable components.",
+    "why":  "Compose predictable AI workflows from focused, reusable agent components.",
+    "website":  "https://github.com/BrainBlend-AI/atomic-agents",
+    "github":  "https://github.com/BrainBlend-AI/atomic-agents",
+    "categories":  [
+                       "ai",
+                       "ai-frameworks",
+                       "developer-tools",
+                       "automation"
+                   ],
+    "tags":  [
+                 "ai-agents",
+                 "python",
+                 "modular",
+                 "llm",
+                 "workflows"
+             ],
+    "featured":  false
+}

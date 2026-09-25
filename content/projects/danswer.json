@@ -1,0 +1,24 @@
+{
+    "id":  "70c3dc",
+    "slug":  "danswer",
+    "name":  "Onyx",
+    "description":  "An open-source enterprise AI assistant with search, connectors, agents, and retrieval capabilities.",
+    "why":  "Build self-hosted enterprise search and AI assistants across internal knowledge sources.",
+    "website":  "https://www.onyx.app/",
+    "github":  "https://github.com/onyx-dot-app/onyx",
+    "categories":  [
+                       "ai",
+                       "web",
+                       "self-hosted",
+                       "data",
+                       "productivity"
+                   ],
+    "tags":  [
+                 "enterprise-search",
+                 "rag",
+                 "ai-assistant",
+                 "knowledge",
+                 "connectors"
+             ],
+    "featured":  false
+}

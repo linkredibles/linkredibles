@@ -1,0 +1,25 @@
+{
+    "id":  "e41817",
+    "slug":  "mcp-agent",
+    "name":  "mcp-agent",
+    "description":  "A framework for building agents and workflows using the Model Context Protocol.",
+    "why":  "Build MCP-native agents that can combine tools, workflows, and model providers.",
+    "website":  "https://github.com/lastmile-ai/mcp-agent",
+    "github":  "https://github.com/lastmile-ai/mcp-agent",
+    "categories":  [
+                       "ai",
+                       "ai-agent-skills",
+                       "developer-tools",
+                       "automation",
+                       "api"
+                   ],
+    "tags":  [
+                 "mcp",
+                 "ai-agent-skills",
+                 "python",
+                 "tools",
+                 "workflows",
+                 "llm"
+             ],
+    "featured":  false
+}

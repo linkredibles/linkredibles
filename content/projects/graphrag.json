@@ -1,0 +1,23 @@
+{
+    "id":  "5ba6f8",
+    "slug":  "graphrag",
+    "name":  "GraphRAG",
+    "description":  "A data pipeline and transformation suite for building graph-based retrieval-augmented generation systems.",
+    "why":  "Improve retrieval and reasoning over private datasets using graph-based representations.",
+    "website":  "https://microsoft.github.io/graphrag/",
+    "github":  "https://github.com/microsoft/graphrag",
+    "categories":  [
+                       "ai",
+                       "data",
+                       "ai-frameworks",
+                       "developer-tools"
+                   ],
+    "tags":  [
+                 "rag",
+                 "graph-rag",
+                 "knowledge-graph",
+                 "retrieval",
+                 "llm"
+             ],
+    "featured":  false
+}

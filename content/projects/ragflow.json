@@ -1,0 +1,23 @@
+{
+    "id":  "5ce904",
+    "slug":  "ragflow",
+    "name":  "RAGFlow",
+    "description":  "An open-source RAG engine designed for document understanding and retrieval-augmented generation.",
+    "why":  "Build document-centric RAG applications with parsing, retrieval, and generation pipelines.",
+    "website":  "https://ragflow.io/",
+    "github":  "https://github.com/infiniflow/ragflow",
+    "categories":  [
+                       "ai",
+                       "data",
+                       "self-hosted",
+                       "web"
+                   ],
+    "tags":  [
+                 "rag",
+                 "retrieval",
+                 "documents",
+                 "llm",
+                 "knowledge-base"
+             ],
+    "featured":  false
+}
