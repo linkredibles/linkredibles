@@ -1,0 +1,41 @@
+{
+    "name":  "busabase",
+    "description":  "Open-source database \u0026 workspace for AI agents â€” structured data, durable knowledge, reusable skills, runnable apps, and human review on the writes that matter. Local-first and self-hostable.",
+    "github":  "https://github.com/busabase/busabase",
+    "website":  "https://busabase.com",
+    "category":  "ai-agent-skills",
+    "stars":  234,
+    "language":  "TypeScript",
+    "topics":  [
+                   "agent-workspace",
+                   "agentic-ai",
+                   "ai-agents",
+                   "airtable-alternative",
+                   "audit-trail",
+                   "claude",
+                   "codex",
+                   "database",
+                   "human-in-the-loop",
+                   "knowledge-base",
+                   "local-first",
+                   "mcp",
+                   "notion",
+                   "notion-alternative",
+                   "open-source",
+                   "openapi",
+                   "self-hosted",
+                   "supabase",
+                   "system-of-record",
+                   "typescript"
+               ],
+    "slug":  "busabase",
+    "categories":  [
+                       "ai-agent-skills"
+                   ],
+    "tags":  [
+                 "ai",
+                 "agents",
+                 "busabase"
+             ],
+    "featured":  false
+}

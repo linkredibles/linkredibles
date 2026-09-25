@@ -1,0 +1,22 @@
+{
+    "name":  "compozy",
+    "description":  "An operating system for AI agents. Plug in the agent CLIs you already use (Claude Code, Codex, Gemini CLI, Cursor) and they become a team: they split the work, hand tasks to each other, run automated on jobs and loops, and share one project memory. You steer everything from the browser.",
+    "github":  "https://github.com/compozy/compozy",
+    "website":  "https://compozy.com",
+    "category":  "browser-automation",
+    "stars":  2776,
+    "language":  "Go",
+    "topics":  [
+
+               ],
+    "slug":  "compozy",
+    "categories":  [
+                       "ai-agent-skills"
+                   ],
+    "tags":  [
+                 "ai",
+                 "agents",
+                 "compozy"
+             ],
+    "featured":  false
+}

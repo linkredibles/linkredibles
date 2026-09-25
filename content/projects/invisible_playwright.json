@@ -1,0 +1,41 @@
+{
+    "name":  "invisible_playwright",
+    "description":  "Playwright that anti-bots cannot see, so no captchas: same API, anti-detect stealth headless Firefox, undetected fingerprint, bypass bot detection, Python web scraping and browser automation.",
+    "github":  "https://github.com/feder-cr/invisible_playwright",
+    "website":  "https://github.com/feder-cr/invisible_playwright",
+    "category":  "browser-automation",
+    "stars":  2969,
+    "language":  "Python",
+    "topics":  [
+                   "akamai",
+                   "antibot",
+                   "antidetect",
+                   "antidetect-browser",
+                   "arkose",
+                   "bot-management",
+                   "datadome",
+                   "fingerprintjs",
+                   "hcaptcha",
+                   "headless-browser",
+                   "imperva",
+                   "incapsula",
+                   "kasada",
+                   "perimeterx",
+                   "playwright",
+                   "recaptcha",
+                   "shadow-dom",
+                   "turnstile",
+                   "user-agent",
+                   "webscraping"
+               ],
+    "slug":  "invisible_playwright",
+    "categories":  [
+                       "ai-agent-skills"
+                   ],
+    "tags":  [
+                 "ai",
+                 "agents",
+                 "invisible_playwright"
+             ],
+    "featured":  false
+}

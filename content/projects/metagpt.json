@@ -1,0 +1,26 @@
+{
+    "name":  "MetaGPT",
+    "description":  "ðŸŒŸ The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming",
+    "github":  "https://github.com/geekan/metagpt",
+    "website":  "https://atoms.dev/",
+    "category":  "coding-agents",
+    "stars":  70602,
+    "language":  "Python",
+    "topics":  [
+                   "agent",
+                   "gpt",
+                   "llm",
+                   "metagpt",
+                   "multi-agent"
+               ],
+    "slug":  "metagpt",
+    "categories":  [
+                       "ai-agent-skills"
+                   ],
+    "tags":  [
+                 "ai",
+                 "agents",
+                 "metagpt"
+             ],
+    "featured":  false
+}

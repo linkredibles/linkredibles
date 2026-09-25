@@ -1,0 +1,35 @@
+{
+    "name":  "greywall",
+    "description":  "Container-free, deny-by-default sandbox for AI coding agents. Kernel-enforced filesystem, network, and syscall isolation for Linux and macOS",
+    "github":  "https://github.com/greyhavenhq/greywall",
+    "website":  "https://greywall.io",
+    "category":  "coding-agents",
+    "stars":  303,
+    "language":  "Go",
+    "topics":  [
+                   "agents",
+                   "ai-security",
+                   "claude-code",
+                   "developer-tools",
+                   "greyproxy",
+                   "landlock",
+                   "linux",
+                   "llm",
+                   "macos",
+                   "opencode",
+                   "sandbox",
+                   "sandbox-ai",
+                   "seccomp",
+                   "security"
+               ],
+    "slug":  "greywall",
+    "categories":  [
+                       "ai-agent-skills"
+                   ],
+    "tags":  [
+                 "ai",
+                 "agents",
+                 "greywall"
+             ],
+    "featured":  false
+}

@@ -1,0 +1,38 @@
+{
+    "name":  "aeon",
+    "description":  "Official Aeon - the open-source autonomous AI agent framework. Runs unattended on your GitHub Actions, self-healing skills, drives Claude Code, Codex, Grok \u0026 more. Not affiliated with OpenAI.",
+    "github":  "https://github.com/aeonfun/aeon",
+    "website":  "https://www.aeon.fun/",
+    "category":  "ai-agent-skills",
+    "stars":  756,
+    "language":  "Shell",
+    "topics":  [
+                   "agent-framework",
+                   "agents",
+                   "ai",
+                   "ai-agent-framework",
+                   "ai-agents",
+                   "anthropic",
+                   "automation",
+                   "autonomous-agent",
+                   "autonomous-agents",
+                   "claude",
+                   "claude-code",
+                   "devops",
+                   "github-actions",
+                   "harness",
+                   "llm",
+                   "mcp",
+                   "open-source"
+               ],
+    "slug":  "aeon",
+    "categories":  [
+                       "ai-agent-skills"
+                   ],
+    "tags":  [
+                 "ai",
+                 "agents",
+                 "aeon"
+             ],
+    "featured":  false
+}

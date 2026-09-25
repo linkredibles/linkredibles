@@ -1,0 +1,41 @@
+{
+    "name":  "cynative",
+    "description":  "Open-source security agents for cloud, code and runtime. 45 built-in agents audit AWS, GCP, Azure, Kubernetes, GitHub and GitLab for privilege escalation, public exposure, supply chain and more, or build your own in one markdown file. Live, read-only access to your infrastructure.",
+    "github":  "https://github.com/cynative/cynative",
+    "website":  "https://cynative.com",
+    "category":  "ai-agent-skills",
+    "stars":  207,
+    "language":  "Go",
+    "topics":  [
+                   "agentic-security",
+                   "ai-agent",
+                   "application-security",
+                   "aws-security",
+                   "azure-security",
+                   "cli-tool",
+                   "cloud-security",
+                   "container-security",
+                   "cybersecurity",
+                   "devsecops",
+                   "gcp-security",
+                   "product-security",
+                   "read-only",
+                   "runtime-security",
+                   "security-automation",
+                   "security-tools",
+                   "sovereign-ai",
+                   "threat-hunting",
+                   "trust-boundary",
+                   "vulnerability-management"
+               ],
+    "slug":  "cynative",
+    "categories":  [
+                       "ai-agent-skills"
+                   ],
+    "tags":  [
+                 "ai",
+                 "agents",
+                 "cynative"
+             ],
+    "featured":  false
+}

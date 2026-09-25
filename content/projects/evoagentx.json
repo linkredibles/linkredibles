@@ -1,0 +1,32 @@
+{
+    "name":  "EvoAgentX",
+    "description":  "ðŸš€ EvoAgentX: Building a Self-Evolving Ecosystem of AI Agents",
+    "github":  "https://github.com/anative-lab/evoagentx",
+    "website":  "https://anative-lab.github.io/EvoAgentX/",
+    "category":  "ai-agent-skills",
+    "stars":  3351,
+    "language":  "Python",
+    "topics":  [
+                   "agent",
+                   "ai",
+                   "ai-agents",
+                   "llms",
+                   "memory",
+                   "multi-agent-systems",
+                   "natural-language-processing",
+                   "rag",
+                   "self-evolving",
+                   "tool",
+                   "tools"
+               ],
+    "slug":  "evoagentx",
+    "categories":  [
+                       "ai-agent-skills"
+                   ],
+    "tags":  [
+                 "ai",
+                 "agents",
+                 "evoagentx"
+             ],
+    "featured":  false
+}

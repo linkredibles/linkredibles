@@ -1,0 +1,25 @@
+{
+    "name":  "Dorothy",
+    "description":  "Dorothy, the wife your AI agents needs.",
+    "github":  "https://github.com/charlie85270/dorothy",
+    "website":  "https://dorothyai.app",
+    "category":  "ai-agent-skills",
+    "stars":  347,
+    "language":  "TypeScript",
+    "topics":  [
+                   "ai",
+                   "ai-agents",
+                   "ai-tools",
+                   "orchestration"
+               ],
+    "slug":  "dorothy",
+    "categories":  [
+                       "ai-agent-skills"
+                   ],
+    "tags":  [
+                 "ai",
+                 "agents",
+                 "dorothy"
+             ],
+    "featured":  false
+}

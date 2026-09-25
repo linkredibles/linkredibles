@@ -1,0 +1,41 @@
+{
+    "name":  "cordum",
+    "description":  "The action firewall for AI agents. Enforce policy and human approval before risky tool calls, shell commands, workflows, and production changes, with auditable evidence.",
+    "github":  "https://github.com/cordum-io/cordum",
+    "website":  "https://github.com/cordum-io/cordum",
+    "category":  "ai-agent-skills",
+    "stars":  507,
+    "language":  "Go",
+    "topics":  [
+                   "agent-framework",
+                   "agentic-ai",
+                   "ai-agent",
+                   "ai-governance",
+                   "ai-orchestration",
+                   "ai-safety",
+                   "audit-trail",
+                   "autonomous-agents",
+                   "control-plane",
+                   "devops",
+                   "governance",
+                   "human-in-the-loop",
+                   "llm",
+                   "llm-agents",
+                   "mcp",
+                   "model-context-protocol",
+                   "nats",
+                   "policy-engine",
+                   "safety-kernel",
+                   "workflow-engine"
+               ],
+    "slug":  "cordum",
+    "categories":  [
+                       "ai-agent-skills"
+                   ],
+    "tags":  [
+                 "ai",
+                 "agents",
+                 "cordum"
+             ],
+    "featured":  false
+}

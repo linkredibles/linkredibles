@@ -1,0 +1,36 @@
+{
+    "name":  "caura",
+    "description":  "Caura (formerly MemClaw) â€” governed shared memory for AI agent fleets. Multi-agent, multi-tenant, MCP-native. Trust tiers, keystone policies, audit trails, knowledge graph, self-improving retrieval. Apache 2.0.",
+    "github":  "https://github.com/caura-ai/caura",
+    "website":  "https://caura.ai",
+    "category":  "rag",
+    "stars":  535,
+    "language":  "Python",
+    "topics":  [
+                   "agent-memory",
+                   "agentic-ai",
+                   "ai-agents",
+                   "ai-infrastructure",
+                   "claude",
+                   "fastapi",
+                   "knowledge-graph",
+                   "llm-memory",
+                   "mcp",
+                   "mcp-server",
+                   "memory-management",
+                   "multi-agent-systems",
+                   "openai",
+                   "pgvector",
+                   "rag"
+               ],
+    "slug":  "caura",
+    "categories":  [
+                       "ai-agent-skills"
+                   ],
+    "tags":  [
+                 "ai",
+                 "agents",
+                 "caura"
+             ],
+    "featured":  false
+}

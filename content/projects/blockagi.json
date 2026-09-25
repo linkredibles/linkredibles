@@ -1,0 +1,27 @@
+{
+    "name":  "BlockAGI",
+    "description":  "Your Self-Hosted, Hackable Research Agent Inspired by AutoGPT",
+    "github":  "https://github.com/blockpipe/blockagi",
+    "website":  "https://github.com/blockpipe/blockagi",
+    "category":  "ai-agent-skills",
+    "stars":  325,
+    "language":  "Python",
+    "topics":  [
+                   "ai",
+                   "autogpt",
+                   "babyagi",
+                   "gpt-4",
+                   "llm",
+                   "openai"
+               ],
+    "slug":  "blockagi",
+    "categories":  [
+                       "ai-agent-skills"
+                   ],
+    "tags":  [
+                 "ai",
+                 "agents",
+                 "blockagi"
+             ],
+    "featured":  false
+}

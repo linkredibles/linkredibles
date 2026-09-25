@@ -1,0 +1,22 @@
+{
+    "name":  "pyCodeAGI",
+    "description":  "Open-source AI project from chakkaradeep/pycodeagi.",
+    "github":  "https://github.com/chakkaradeep/pycodeagi",
+    "website":  "https://github.com/chakkaradeep/pycodeagi",
+    "category":  "ai-agent-skills",
+    "stars":  184,
+    "language":  "Python",
+    "topics":  [
+
+               ],
+    "slug":  "pycodeagi",
+    "categories":  [
+                       "ai-agent-skills"
+                   ],
+    "tags":  [
+                 "ai",
+                 "agents",
+                 "pycodeagi"
+             ],
+    "featured":  false
+}

@@ -1,0 +1,30 @@
+{
+    "name":  "ctop",
+    "description":  "CTOP - Interactive Process Viewer for AI Coding Agents",
+    "github":  "https://github.com/aakashadesara/ctop",
+    "website":  "https://ctop.dev/",
+    "category":  "coding-agents",
+    "stars":  93,
+    "language":  "JavaScript",
+    "topics":  [
+                   "ai-agents",
+                   "claude",
+                   "claude-ai",
+                   "claude-code",
+                   "codex",
+                   "codex-cli",
+                   "coding-agent",
+                   "terminal-based",
+                   "tui"
+               ],
+    "slug":  "ctop",
+    "categories":  [
+                       "ai-agent-skills"
+                   ],
+    "tags":  [
+                 "ai",
+                 "agents",
+                 "ctop"
+             ],
+    "featured":  false
+}

@@ -1,0 +1,36 @@
+{
+    "name":  "fim-one",
+    "description":  "Open-source agent platform for Global Ã— China enterprises â€” wire every system through one agent core. Self-hosted, any LLM.",
+    "github":  "https://github.com/fim-ai/fim-agent",
+    "website":  "https://one.fim.ai",
+    "category":  "ai-agent-skills",
+    "stars":  1535,
+    "language":  "Python",
+    "topics":  [
+                   "ai",
+                   "ai-agent",
+                   "ai-agents",
+                   "connector",
+                   "dag",
+                   "fastapi",
+                   "function-calling",
+                   "llm",
+                   "mcp",
+                   "nextjs",
+                   "openai-compatible",
+                   "python",
+                   "rag",
+                   "react-agent",
+                   "tool-use"
+               ],
+    "slug":  "fim-one",
+    "categories":  [
+                       "ai-agent-skills"
+                   ],
+    "tags":  [
+                 "ai",
+                 "agents",
+                 "fim-one"
+             ],
+    "featured":  false
+}

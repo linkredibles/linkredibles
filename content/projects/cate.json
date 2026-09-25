@@ -1,0 +1,22 @@
+{
+    "name":  "cate",
+    "description":  "An infinite zoomable canvas for coding. Editor, terminal, and browser panels in a spatial workspace.",
+    "github":  "https://github.com/0-ai-ug/cate",
+    "website":  "https://cate.cero-ai.com",
+    "category":  "browser-automation",
+    "stars":  2150,
+    "language":  "TypeScript",
+    "topics":  [
+
+               ],
+    "slug":  "cate",
+    "categories":  [
+                       "ai-agent-skills"
+                   ],
+    "tags":  [
+                 "ai",
+                 "agents",
+                 "cate"
+             ],
+    "featured":  false
+}

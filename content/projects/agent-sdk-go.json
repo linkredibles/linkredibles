@@ -1,0 +1,41 @@
+{
+    "name":  "agent-sdk-go",
+    "description":  "Durable execution framework for AI agents in Go. Keeps agent state, tool calls, and execution loops resilient across process crashes.",
+    "github":  "https://github.com/agenticenv/agent-sdk-go",
+    "website":  "https://docs.agenticenv.ai/",
+    "category":  "ai-agent-skills",
+    "stars":  56,
+    "language":  "Go",
+    "topics":  [
+                   "a2a",
+                   "ag-ui",
+                   "agent-harness",
+                   "agent-sdk",
+                   "agent-sdk-go",
+                   "agentic-ai",
+                   "ai",
+                   "ai-agents",
+                   "ai-agents-framework",
+                   "distributed-agents",
+                   "durable-agents",
+                   "durable-execution",
+                   "framework",
+                   "golang",
+                   "in-process",
+                   "mcp",
+                   "restate",
+                   "restatedotdev",
+                   "temporal",
+                   "workflow"
+               ],
+    "slug":  "agent-sdk-go",
+    "categories":  [
+                       "ai-agent-skills"
+                   ],
+    "tags":  [
+                 "ai",
+                 "agents",
+                 "agent-sdk-go"
+             ],
+    "featured":  false
+}

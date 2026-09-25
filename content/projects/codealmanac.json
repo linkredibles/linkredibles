@@ -1,0 +1,32 @@
+{
+    "name":  "codealmanac",
+    "description":  "A codebase wiki for AI coding agents. Captures what the code can\u0027t say: decisions, flows, invariants, gotchas.",
+    "github":  "https://github.com/almanaccode/codealmanac",
+    "website":  "https://codealmanac.com",
+    "category":  "coding-agents",
+    "stars":  994,
+    "language":  "TypeScript",
+    "topics":  [
+                   "ai",
+                   "claude",
+                   "cli",
+                   "codebase",
+                   "codex",
+                   "coding-agents",
+                   "developer-tools",
+                   "documentation",
+                   "knowledge-base",
+                   "typescript",
+                   "wiki"
+               ],
+    "slug":  "codealmanac",
+    "categories":  [
+                       "ai-agent-skills"
+                   ],
+    "tags":  [
+                 "ai",
+                 "agents",
+                 "codealmanac"
+             ],
+    "featured":  false
+}

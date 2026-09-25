@@ -1,0 +1,41 @@
+{
+    "name":  "giselle",
+    "description":  "Giselle: AI App Builder. Open Source.",
+    "github":  "https://github.com/giselles-ai/giselle",
+    "website":  "https://giselles.ai",
+    "category":  "ai-agent-skills",
+    "stars":  554,
+    "language":  "TypeScript",
+    "topics":  [
+                   "agent",
+                   "agent-builder",
+                   "agentic-ai",
+                   "ai",
+                   "ai-agent",
+                   "ai-agents",
+                   "anthropic",
+                   "gemini",
+                   "genai",
+                   "generative-ai",
+                   "multiagent",
+                   "nextjs",
+                   "no-code",
+                   "open-source",
+                   "openai",
+                   "pnpm",
+                   "rag",
+                   "typescript",
+                   "vercel",
+                   "workflow"
+               ],
+    "slug":  "giselle",
+    "categories":  [
+                       "ai-agent-skills"
+                   ],
+    "tags":  [
+                 "ai",
+                 "agents",
+                 "giselle"
+             ],
+    "featured":  false
+}

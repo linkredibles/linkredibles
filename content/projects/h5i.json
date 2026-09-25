@@ -1,0 +1,41 @@
+{
+    "name":  "h5i",
+    "description":  "An agent-native red-teaming workspace with a fast browser, direct HTTP traffic control, sandboxed execution, and auditable sessions. Pure Rust.",
+    "github":  "https://github.com/h5i-dev/h5i",
+    "website":  "https://h5i.dev",
+    "category":  "browser-automation",
+    "stars":  653,
+    "language":  "Rust",
+    "topics":  [
+                   "agentic-ai",
+                   "agentic-workflow",
+                   "ai-hacking",
+                   "ai-safety",
+                   "ai-security",
+                   "audit-trail",
+                   "browser-automation",
+                   "browser-security",
+                   "bug-bounty",
+                   "claude-code",
+                   "codex",
+                   "ctf",
+                   "ethical-hacking",
+                   "hacking",
+                   "microvm",
+                   "offensive-security",
+                   "red-team",
+                   "security",
+                   "security-automation",
+                   "web-security"
+               ],
+    "slug":  "h5i",
+    "categories":  [
+                       "ai-agent-skills"
+                   ],
+    "tags":  [
+                 "ai",
+                 "agents",
+                 "h5i"
+             ],
+    "featured":  false
+}

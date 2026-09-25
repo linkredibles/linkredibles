@@ -1,0 +1,26 @@
+{
+    "name":  "uAgents",
+    "description":  "A fast and lightweight framework for creating decentralized agents with ease.",
+    "github":  "https://github.com/fetchai/uagents",
+    "website":  "https://github.com/fetchai/uagents",
+    "category":  "ai-agent-skills",
+    "stars":  1639,
+    "language":  "Python",
+    "topics":  [
+                   "agents",
+                   "ai",
+                   "ai-agents",
+                   "llm",
+                   "multi-agent-systems"
+               ],
+    "slug":  "uagents",
+    "categories":  [
+                       "ai-agent-skills"
+                   ],
+    "tags":  [
+                 "ai",
+                 "agents",
+                 "uagents"
+             ],
+    "featured":  false
+}

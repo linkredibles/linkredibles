@@ -1,0 +1,22 @@
+{
+    "name":  "ailoy",
+    "description":  "A comprehensive library for building intelligent AI agents and applications",
+    "github":  "https://github.com/brekkylab/ailoy",
+    "website":  "https://brekkylab.github.io/ailoy/",
+    "category":  "ai-agent-skills",
+    "stars":  150,
+    "language":  "Rust",
+    "topics":  [
+
+               ],
+    "slug":  "ailoy",
+    "categories":  [
+                       "ai-agent-skills"
+                   ],
+    "tags":  [
+                 "ai",
+                 "agents",
+                 "ailoy"
+             ],
+    "featured":  false
+}

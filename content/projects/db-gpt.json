@@ -1,0 +1,33 @@
+{
+    "name":  "DB-GPT",
+    "description":  "open-source agentic AI data assistant for the next generation of AI + Data products.",
+    "github":  "https://github.com/csunny/db-gpt",
+    "website":  "http://docs.dbgpt.cn",
+    "category":  "ai-agent-skills",
+    "stars":  20047,
+    "language":  "Python",
+    "topics":  [
+                   "agents",
+                   "bgi",
+                   "database",
+                   "deepseek",
+                   "gpt",
+                   "gpt-4",
+                   "hacktoberfest",
+                   "llm",
+                   "private",
+                   "rag",
+                   "security",
+                   "vicuna"
+               ],
+    "slug":  "db-gpt",
+    "categories":  [
+                       "ai-agent-skills"
+                   ],
+    "tags":  [
+                 "ai",
+                 "agents",
+                 "db-gpt"
+             ],
+    "featured":  false
+}

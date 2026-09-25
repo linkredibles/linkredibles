@@ -1,0 +1,40 @@
+{
+    "name":  "LoongFlow",
+    "description":  "LoongFlow is an expert-grade Agent framework for Loop Engineering. Through a Plan-Execute-Summary loop and structured experiential memory, it enables AI to continuously think, execute, reflect, and evolve across complex software engineering, mathematical, and machine learning tasks.",
+    "github":  "https://github.com/baidu-baige/loongflow",
+    "website":  "https://arxiv.org/abs/2512.24077",
+    "category":  "memory",
+    "stars":  479,
+    "language":  "Python",
+    "topics":  [
+                   "agent",
+                   "ai",
+                   "ai-agent",
+                   "baidu",
+                   "discovery",
+                   "evolutionary-algorithms",
+                   "evolutionary-computation",
+                   "evolve",
+                   "genetic-algorithm",
+                   "iterative-methods",
+                   "iterative-refinement",
+                   "llm",
+                   "llm-ensemble",
+                   "loongflow",
+                   "loop-engineering",
+                   "multi-agent",
+                   "openevolve-alternative",
+                   "optimize",
+                   "sota"
+               ],
+    "slug":  "loongflow",
+    "categories":  [
+                       "ai-agent-skills"
+                   ],
+    "tags":  [
+                 "ai",
+                 "agents",
+                 "loongflow"
+             ],
+    "featured":  false
+}

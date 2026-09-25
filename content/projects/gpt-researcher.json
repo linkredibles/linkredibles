@@ -1,0 +1,32 @@
+{
+    "name":  "gpt-researcher",
+    "description":  "An autonomous agent that conducts deep research on any data using any LLM providers",
+    "github":  "https://github.com/assafelovic/gpt-researcher",
+    "website":  "https://gptr.dev",
+    "category":  "ai-agent-skills",
+    "stars":  29614,
+    "language":  "Python",
+    "topics":  [
+                   "agent",
+                   "ai",
+                   "automation",
+                   "deepresearch",
+                   "llms",
+                   "mcp",
+                   "mcp-server",
+                   "python",
+                   "research",
+                   "search",
+                   "webscraping"
+               ],
+    "slug":  "gpt-researcher",
+    "categories":  [
+                       "ai-agent-skills"
+                   ],
+    "tags":  [
+                 "ai",
+                 "agents",
+                 "gpt-researcher"
+             ],
+    "featured":  false
+}

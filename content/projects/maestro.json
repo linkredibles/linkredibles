@@ -1,0 +1,22 @@
+{
+    "name":  "maestro",
+    "description":  "A framework for Claude Opus to intelligently orchestrate subagents.",
+    "github":  "https://github.com/doriandarko/maestro",
+    "website":  "https://github.com/doriandarko/maestro",
+    "category":  "ai-agent-skills",
+    "stars":  4359,
+    "language":  "Python",
+    "topics":  [
+
+               ],
+    "slug":  "maestro",
+    "categories":  [
+                       "ai-agent-skills"
+                   ],
+    "tags":  [
+                 "ai",
+                 "agents",
+                 "maestro"
+             ],
+    "featured":  false
+}

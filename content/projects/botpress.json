@@ -1,0 +1,33 @@
+{
+    "name":  "botpress",
+    "description":  "The open-source hub to build \u0026 deploy GPT/LLM Agents âš¡ï¸",
+    "github":  "https://github.com/botpress/botpress",
+    "website":  "https://botpress.com",
+    "category":  "ai-agent-skills",
+    "stars":  14923,
+    "language":  "TypeScript",
+    "topics":  [
+                   "agent",
+                   "ai",
+                   "botpress",
+                   "chatbot",
+                   "chatgpt",
+                   "gpt",
+                   "gpt-4",
+                   "langchain",
+                   "llm",
+                   "nlp",
+                   "openai",
+                   "prompt"
+               ],
+    "slug":  "botpress",
+    "categories":  [
+                       "ai-agent-skills"
+                   ],
+    "tags":  [
+                 "ai",
+                 "agents",
+                 "botpress"
+             ],
+    "featured":  false
+}

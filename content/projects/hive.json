@@ -1,0 +1,35 @@
+{
+    "name":  "hive",
+    "description":  "Multi-Agent Harness for Production AI",
+    "github":  "https://github.com/aden-hive/hive",
+    "website":  "https://github.com/aden-hive/hive",
+    "category":  "ai-agent-skills",
+    "stars":  11071,
+    "language":  "Python",
+    "topics":  [
+                   "agent",
+                   "agent-framework",
+                   "agent-skills",
+                   "anthropic",
+                   "automation",
+                   "autonomous-agents",
+                   "claude",
+                   "harness",
+                   "harness-engineering",
+                   "human-in-the-loop",
+                   "openai",
+                   "python",
+                   "self-hosted",
+                   "self-improving"
+               ],
+    "slug":  "hive",
+    "categories":  [
+                       "ai-agent-skills"
+                   ],
+    "tags":  [
+                 "ai",
+                 "agents",
+                 "hive"
+             ],
+    "featured":  false
+}

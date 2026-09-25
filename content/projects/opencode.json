@@ -1,0 +1,22 @@
+{
+    "name":  "opencode",
+    "description":  "The open source coding agent.",
+    "github":  "https://github.com/anomalyco/opencode",
+    "website":  "https://opencode.ai",
+    "category":  "coding-agents",
+    "stars":  209940,
+    "language":  "TypeScript",
+    "topics":  [
+
+               ],
+    "slug":  "opencode",
+    "categories":  [
+                       "ai-agent-skills"
+                   ],
+    "tags":  [
+                 "ai",
+                 "agents",
+                 "opencode"
+             ],
+    "featured":  false
+}

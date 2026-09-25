@@ -1,0 +1,22 @@
+{
+    "name":  "orca-agent",
+    "description":  "Orca is a DeepSeek-native coding agent.",
+    "github":  "https://github.com/echovic/orca-agent",
+    "website":  "https://github.com/echovic/orca-agent",
+    "category":  "coding-agents",
+    "stars":  509,
+    "language":  "Rust",
+    "topics":  [
+
+               ],
+    "slug":  "orca-agent",
+    "categories":  [
+                       "ai-agent-skills"
+                   ],
+    "tags":  [
+                 "ai",
+                 "agents",
+                 "orca-agent"
+             ],
+    "featured":  false
+}

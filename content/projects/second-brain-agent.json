@@ -1,0 +1,30 @@
+{
+    "name":  "second-brain-agent",
+    "description":  "ðŸ§  Second Brain AI agent",
+    "github":  "https://github.com/flepied/second-brain-agent",
+    "website":  "https://github.com/flepied/second-brain-agent",
+    "category":  "ai-agent-skills",
+    "stars":  311,
+    "language":  "Python",
+    "topics":  [
+                   "artificial-intelligence",
+                   "chatgpt",
+                   "chatgpt-api",
+                   "chatgpt-bot",
+                   "langchain",
+                   "langchain-python",
+                   "personal-knowledge-management",
+                   "pkm",
+                   "second-brain"
+               ],
+    "slug":  "second-brain-agent",
+    "categories":  [
+                       "ai-agent-skills"
+                   ],
+    "tags":  [
+                 "ai",
+                 "agents",
+                 "second-brain-agent"
+             ],
+    "featured":  false
+}

@@ -1,0 +1,40 @@
+{
+    "name":  "gobii-platform",
+    "description":  "Your easy to use, always-on AI workforce ðŸ‘¾",
+    "github":  "https://github.com/gobii-ai/gobii-platform",
+    "website":  "https://gobii.ai",
+    "category":  "ai-agent-skills",
+    "stars":  496,
+    "language":  "Python",
+    "topics":  [
+                   "agentic-ai",
+                   "ai",
+                   "anthropic",
+                   "automation",
+                   "deepseek",
+                   "docker",
+                   "easy",
+                   "gemini",
+                   "gemma",
+                   "gpt",
+                   "litellm",
+                   "llm",
+                   "manus-ai",
+                   "manus-alternative",
+                   "openclaw-alternative",
+                   "openclaw-alternative-with-full-settings-ui",
+                   "openrouter",
+                   "oss",
+                   "python"
+               ],
+    "slug":  "gobii-platform",
+    "categories":  [
+                       "ai-agent-skills"
+                   ],
+    "tags":  [
+                 "ai",
+                 "agents",
+                 "gobii-platform"
+             ],
+    "featured":  false
+}

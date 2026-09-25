@@ -1,0 +1,28 @@
+{
+    "name":  "webcmd",
+    "description":  "Self-learning agent browser",
+    "github":  "https://github.com/agentrhq/webcmd",
+    "website":  "https://webcmd.dev",
+    "category":  "browser-automation",
+    "stars":  2513,
+    "language":  "TypeScript",
+    "topics":  [
+                   "ai-agents",
+                   "browser-automation",
+                   "browser-use",
+                   "cli",
+                   "developer-tools",
+                   "playwright",
+                   "self-learning-ai"
+               ],
+    "slug":  "webcmd",
+    "categories":  [
+                       "ai-agent-skills"
+                   ],
+    "tags":  [
+                 "ai",
+                 "agents",
+                 "webcmd"
+             ],
+    "featured":  false
+}

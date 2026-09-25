@@ -1,0 +1,25 @@
+{
+    "name":  "dust",
+    "description":  "Custom AI agent platform to speed up your work.",
+    "github":  "https://github.com/dust-tt/dust",
+    "website":  "https://dust.tt",
+    "category":  "ai-agent-skills",
+    "stars":  1473,
+    "language":  "TypeScript",
+    "topics":  [
+                   "agents",
+                   "large-language-models",
+                   "llm",
+                   "rust"
+               ],
+    "slug":  "dust",
+    "categories":  [
+                       "ai-agent-skills"
+                   ],
+    "tags":  [
+                 "ai",
+                 "agents",
+                 "dust"
+             ],
+    "featured":  false
+}

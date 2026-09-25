@@ -1,0 +1,34 @@
+{
+    "name":  "OpenBitFun",
+    "description":  "OpenBitFun combines a high-performance agent runtime written in Rust with a polished desktop application. It pairs the depth of a Code Agent with open, general-purpose capabilities for work beyond software development.",
+    "github":  "https://github.com/gcwing/openbitfun",
+    "category":  "coding-agents",
+    "stars":  2325,
+    "language":  "Rust",
+    "topics":  [
+                   "agent-teams",
+                   "agentic",
+                   "agentic-os",
+                   "agentic-runtime",
+                   "ai-coding",
+                   "ai-ide",
+                   "ai-sdk",
+                   "bitfun",
+                   "computer-use-agent",
+                   "cowork",
+                   "dsh-plugin",
+                   "openclaw",
+                   "vibe-coding"
+               ],
+    "slug":  "openbitfun",
+    "categories":  [
+                       "ai-agent-skills"
+                   ],
+    "tags":  [
+                 "ai",
+                 "agents",
+                 "openbitfun"
+             ],
+    "featured":  false,
+    "website":  "https://github.com/gcwing/openbitfun"
+}

@@ -1,0 +1,25 @@
+{
+    "name":  "slicc",
+    "description":  "A browser-native AI agent (claw) for everyone that loves ice cream",
+    "github":  "https://github.com/ai-ecoverse/slicc",
+    "website":  "https://www.sliccy.com/",
+    "category":  "browser-automation",
+    "stars":  32,
+    "language":  "TypeScript",
+    "topics":  [
+                   "ai-agents",
+                   "browser-automation",
+                   "openclaw-alternative",
+                   "pi-agent"
+               ],
+    "slug":  "slicc",
+    "categories":  [
+                       "ai-agent-skills"
+                   ],
+    "tags":  [
+                 "ai",
+                 "agents",
+                 "slicc"
+             ],
+    "featured":  false
+}

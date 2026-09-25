@@ -1,0 +1,33 @@
+{
+    "name":  "agentset",
+    "description":  "The open-source RAG platform: built-in citations, deep research, 22+ file formats, partitions, MCP server, and more.",
+    "github":  "https://github.com/agentset-ai/agentset",
+    "website":  "https://agentset.ai",
+    "category":  "rag",
+    "stars":  2096,
+    "language":  "TypeScript",
+    "topics":  [
+                   "agentic-rag",
+                   "ai",
+                   "ai-agents",
+                   "ai-sdk",
+                   "chatbots",
+                   "embeddings",
+                   "genai",
+                   "llms",
+                   "memory",
+                   "memory-management",
+                   "rag",
+                   "vercel-ai-sdk"
+               ],
+    "slug":  "agentset",
+    "categories":  [
+                       "ai-agent-skills"
+                   ],
+    "tags":  [
+                 "ai",
+                 "agents",
+                 "agentset"
+             ],
+    "featured":  false
+}

@@ -1,0 +1,32 @@
+{
+    "name":  "AgentsMesh",
+    "description":  "The AI Agent Workforce Platform. Run a hundred AI coding agents across your own machines â€” schedule, isolate, and steer them all from one console.",
+    "github":  "https://github.com/agentsmesh/agentsmesh",
+    "website":  "https://agentsmesh.ai",
+    "category":  "coding-agents",
+    "stars":  2355,
+    "language":  "Go",
+    "topics":  [
+                   "agent-orchestration",
+                   "agentsmesh",
+                   "ai-agent",
+                   "ai-agent-workforce-platform",
+                   "ai-coding",
+                   "aider",
+                   "claude-code",
+                   "codex-cli",
+                   "gemini-cli",
+                   "multi-agent",
+                   "self-hosted"
+               ],
+    "slug":  "agentsmesh",
+    "categories":  [
+                       "ai-agent-skills"
+                   ],
+    "tags":  [
+                 "ai",
+                 "agents",
+                 "agentsmesh"
+             ],
+    "featured":  false
+}

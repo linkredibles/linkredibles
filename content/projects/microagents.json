@@ -1,0 +1,24 @@
+{
+    "name":  "microagents",
+    "description":  "Self-improving Agents",
+    "github":  "https://github.com/aymenfurter/microagents",
+    "website":  "https://github.com/aymenfurter/microagents",
+    "category":  "ai-agent-skills",
+    "stars":  826,
+    "language":  "Python",
+    "topics":  [
+                   "gpt-4-turbo",
+                   "llm",
+                   "openai"
+               ],
+    "slug":  "microagents",
+    "categories":  [
+                       "ai-agent-skills"
+                   ],
+    "tags":  [
+                 "ai",
+                 "agents",
+                 "microagents"
+             ],
+    "featured":  false
+}

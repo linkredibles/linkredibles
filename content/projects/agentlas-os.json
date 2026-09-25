@@ -1,0 +1,40 @@
+{
+    "name":  "Agentlas-OS",
+    "description":  "Agent OS: keep specialist agents in a hub, spin up a temporary orchestrator per task. Local-first, works with any model.",
+    "github":  "https://github.com/agentlas-ai/agentlas-os",
+    "website":  "https://agentlas.cloud",
+    "category":  "ai-agent-skills",
+    "stars":  1086,
+    "language":  "Python",
+    "topics":  [
+                   "a2a",
+                   "agent",
+                   "agent-framework",
+                   "agent-os-desktop",
+                   "agent-skills",
+                   "agentic-ai",
+                   "agentic-workflow",
+                   "agentos",
+                   "agents",
+                   "agents-team",
+                   "agentshub",
+                   "ai-agents",
+                   "autonomous-agents",
+                   "llm",
+                   "llm-agents",
+                   "llm-tools",
+                   "mcp",
+                   "multi-agent-systems",
+                   "ochestration"
+               ],
+    "slug":  "agentlas-os",
+    "categories":  [
+                       "ai-agent-skills"
+                   ],
+    "tags":  [
+                 "ai",
+                 "agents",
+                 "agentlas-os"
+             ],
+    "featured":  false
+}
