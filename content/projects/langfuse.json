@@ -1,0 +1,22 @@
+{
+    "slug":  "langfuse",
+    "name":  "Langfuse",
+    "description":  "Open-source observability and evaluation platform for LLM applications.",
+    "why":  "Trace, monitor and evaluate AI applications in development and production.",
+    "website":  "https://github.com/langfuse/langfuse",
+    "github":  "https://github.com/langfuse/langfuse",
+    "categories":  [
+                       "ai",
+                       "developer-tools",
+                       "data",
+                       "self-hosted"
+                   ],
+    "tags":  [
+                 "llm",
+                 "observability",
+                 "tracing",
+                 "evaluation",
+                 "analytics"
+             ],
+    "featured":  false
+}

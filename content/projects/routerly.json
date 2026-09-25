@@ -1,0 +1,23 @@
+{
+    "slug":  "routerly",
+    "name":  "Routerly",
+    "description":  "A self-hosted LLM gateway with intelligent routing, cost tracking and budget enforcement.",
+    "why":  "Manage multiple AI providers through a single compatible gateway.",
+    "website":  "https://github.com/Inebrio/Routerly",
+    "github":  "https://github.com/Inebrio/Routerly",
+    "categories":  [
+                       "ai",
+                       "api",
+                       "automation",
+                       "self-hosted"
+                   ],
+    "tags":  [
+                 "llm",
+                 "gateway",
+                 "routing",
+                 "budget",
+                 "openai",
+                 "anthropic"
+             ],
+    "featured":  false
+}

@@ -1,0 +1,23 @@
+{
+    "slug":  "routiium",
+    "name":  "Routiium",
+    "description":  "A self-hosted OpenAI-compatible LLM gateway with policy routing, rate limits and analytics.",
+    "why":  "Add managed authentication, routing and controls to LLM applications.",
+    "website":  "https://github.com/labiium/routiium",
+    "github":  "https://github.com/labiium/routiium",
+    "categories":  [
+                       "ai",
+                       "api",
+                       "security",
+                       "self-hosted"
+                   ],
+    "tags":  [
+                 "llm",
+                 "gateway",
+                 "routing",
+                 "mcp",
+                 "authentication",
+                 "analytics"
+             ],
+    "featured":  false
+}

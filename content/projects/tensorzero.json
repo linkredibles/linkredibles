@@ -1,0 +1,22 @@
+{
+    "slug":  "tensorzero",
+    "name":  "TensorZero",
+    "description":  "An open-source stack for building production LLM applications with observability, evaluation and optimization.",
+    "why":  "Build production-grade LLM systems with inference and optimization infrastructure.",
+    "website":  "https://github.com/tensorzero/tensorzero",
+    "github":  "https://github.com/tensorzero/tensorzero",
+    "categories":  [
+                       "ai",
+                       "developer-tools",
+                       "data",
+                       "self-hosted"
+                   ],
+    "tags":  [
+                 "llm",
+                 "inference",
+                 "observability",
+                 "evaluation",
+                 "optimization"
+             ],
+    "featured":  false
+}

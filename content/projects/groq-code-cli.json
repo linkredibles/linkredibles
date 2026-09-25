@@ -1,0 +1,22 @@
+{
+    "slug":  "groq-code-cli",
+    "name":  "Groq Code CLI",
+    "description":  "A lightweight open-source coding CLI powered by Groq.",
+    "why":  "Build and customize a terminal coding agent using Groq models.",
+    "website":  "https://github.com/build-with-groq/groq-code-cli",
+    "github":  "https://github.com/build-with-groq/groq-code-cli",
+    "categories":  [
+                       "ai",
+                       "developer-tools",
+                       "cli",
+                       "automation"
+                   ],
+    "tags":  [
+                 "groq",
+                 "llm",
+                 "coding-agent",
+                 "cli",
+                 "typescript"
+             ],
+    "featured":  false
+}

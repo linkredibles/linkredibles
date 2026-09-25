@@ -1,0 +1,23 @@
+{
+    "slug":  "llmrelay",
+    "name":  "LLM Relay",
+    "description":  "A self-hosted LLM gateway and model router supporting OpenAI and Anthropic APIs.",
+    "why":  "Route requests across cloud and local LLM providers from one lightweight service.",
+    "website":  "https://github.com/llmrelay/relay",
+    "github":  "https://github.com/llmrelay/relay",
+    "categories":  [
+                       "ai",
+                       "api",
+                       "self-hosted",
+                       "cli"
+                   ],
+    "tags":  [
+                 "llm",
+                 "gateway",
+                 "router",
+                 "openai",
+                 "anthropic",
+                 "groq"
+             ],
+    "featured":  false
+}

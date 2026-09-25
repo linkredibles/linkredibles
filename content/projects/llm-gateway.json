@@ -1,0 +1,23 @@
+{
+    "slug":  "llm-gateway",
+    "name":  "LLM Gateway",
+    "description":  "An OpenAI-compatible API gateway with semantic caching, RAG and token authentication.",
+    "why":  "Add caching, retrieval and authentication to LLM API traffic.",
+    "website":  "https://github.com/lxbme/llm_gateway",
+    "github":  "https://github.com/lxbme/llm_gateway",
+    "categories":  [
+                       "ai",
+                       "api",
+                       "data",
+                       "security"
+                   ],
+    "tags":  [
+                 "llm",
+                 "gateway",
+                 "rag",
+                 "caching",
+                 "qdrant",
+                 "openai"
+             ],
+    "featured":  false
+}

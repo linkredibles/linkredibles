@@ -1,0 +1,22 @@
+{
+    "slug":  "grok-cli",
+    "name":  "Grok CLI",
+    "description":  "An open-source terminal coding agent supporting Grok and other LLM providers.",
+    "why":  "Use a terminal-based coding agent across cloud and local model providers.",
+    "website":  "https://github.com/stevederico/grok-cli",
+    "github":  "https://github.com/stevederico/grok-cli",
+    "categories":  [
+                       "ai",
+                       "developer-tools",
+                       "cli",
+                       "automation"
+                   ],
+    "tags":  [
+                 "llm",
+                 "coding-agent",
+                 "grok",
+                 "mcp",
+                 "ollama"
+             ],
+    "featured":  false
+}

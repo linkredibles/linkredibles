@@ -1,0 +1,23 @@
+{
+    "slug":  "atlas",
+    "name":  "Atlas",
+    "description":  "A self-hosted LLM inference platform exposing Anthropic- and OpenAI-compatible APIs over multiple inference engines.",
+    "why":  "Run agent-ready LLM inference on your own hardware.",
+    "website":  "https://github.com/orchestra-hq/atlas",
+    "github":  "https://github.com/orchestra-hq/atlas",
+    "categories":  [
+                       "ai",
+                       "self-hosted",
+                       "developer-tools",
+                       "api"
+                   ],
+    "tags":  [
+                 "llm",
+                 "inference",
+                 "vllm",
+                 "sglang",
+                 "llama-cpp",
+                 "mlx"
+             ],
+    "featured":  false
+}

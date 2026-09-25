@@ -1,0 +1,22 @@
+{
+    "slug":  "grok-cli-superagent",
+    "name":  "Grok CLI",
+    "description":  "An open-source terminal coding agent for the Grok API with sub-agents and web search.",
+    "why":  "Experiment with an agentic coding workflow built around the Grok API.",
+    "website":  "https://github.com/superagent-ai/grok-cli",
+    "github":  "https://github.com/superagent-ai/grok-cli",
+    "categories":  [
+                       "ai",
+                       "developer-tools",
+                       "cli",
+                       "automation"
+                   ],
+    "tags":  [
+                 "grok",
+                 "coding-agent",
+                 "subagents",
+                 "web-search",
+                 "bun"
+             ],
+    "featured":  false
+}

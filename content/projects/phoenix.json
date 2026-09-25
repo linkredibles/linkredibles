@@ -1,0 +1,22 @@
+{
+    "slug":  "phoenix",
+    "name":  "Phoenix",
+    "description":  "Open-source AI observability and evaluation platform for LLM applications and agents.",
+    "why":  "Debug and evaluate LLM applications using traces and evaluation workflows.",
+    "website":  "https://github.com/Arize-ai/phoenix",
+    "github":  "https://github.com/Arize-ai/phoenix",
+    "categories":  [
+                       "ai",
+                       "developer-tools",
+                       "data",
+                       "self-hosted"
+                   ],
+    "tags":  [
+                 "llm",
+                 "observability",
+                 "agents",
+                 "tracing",
+                 "evaluation"
+             ],
+    "featured":  false
+}

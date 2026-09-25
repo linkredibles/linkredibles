@@ -1,0 +1,23 @@
+{
+    "slug":  "freeport",
+    "name":  "Freeport",
+    "description":  "A self-hosted OpenAI-compatible LLM gateway with multi-provider routing, fallback, caching and guardrails.",
+    "why":  "Add routing, budgets, caching and security controls between applications and LLM providers.",
+    "website":  "https://github.com/ReallyArtificial/freeport",
+    "github":  "https://github.com/ReallyArtificial/freeport",
+    "categories":  [
+                       "ai",
+                       "api",
+                       "security",
+                       "self-hosted"
+                   ],
+    "tags":  [
+                 "llm",
+                 "gateway",
+                 "openai",
+                 "groq",
+                 "routing",
+                 "caching"
+             ],
+    "featured":  false
+}

@@ -1,0 +1,22 @@
+{
+    "slug":  "promptfoo",
+    "name":  "Promptfoo",
+    "description":  "Open-source testing and evaluation framework for LLM applications.",
+    "why":  "Test prompts, models and AI applications for quality, reliability and security.",
+    "website":  "https://github.com/promptfoo/promptfoo",
+    "github":  "https://github.com/promptfoo/promptfoo",
+    "categories":  [
+                       "ai",
+                       "developer-tools",
+                       "security",
+                       "cli"
+                   ],
+    "tags":  [
+                 "llm",
+                 "testing",
+                 "evaluation",
+                 "red-team",
+                 "prompts"
+             ],
+    "featured":  false
+}

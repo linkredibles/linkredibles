@@ -1,0 +1,23 @@
+{
+    "slug":  "portway",
+    "name":  "Portway",
+    "description":  "A self-hosted gateway that routes and meters traffic across local LLMs behind an OpenAI-compatible API.",
+    "why":  "Expose multiple local inference servers through one metered API.",
+    "website":  "https://github.com/dalenguyen/portway",
+    "github":  "https://github.com/dalenguyen/portway",
+    "categories":  [
+                       "ai",
+                       "api",
+                       "self-hosted",
+                       "devops"
+                   ],
+    "tags":  [
+                 "llm",
+                 "gateway",
+                 "vllm",
+                 "llama-cpp",
+                 "openai",
+                 "routing"
+             ],
+    "featured":  false
+}

@@ -1,0 +1,23 @@
+{
+    "slug":  "xinference",
+    "name":  "Xinference",
+    "description":  "An open-source inference platform for language, speech and multimodal models with OpenAI-compatible APIs.",
+    "why":  "Deploy and serve many kinds of AI models through a unified API.",
+    "website":  "https://github.com/xorbitsai/inference",
+    "github":  "https://github.com/xorbitsai/inference",
+    "categories":  [
+                       "ai",
+                       "self-hosted",
+                       "api",
+                       "developer-tools"
+                   ],
+    "tags":  [
+                 "inference",
+                 "llm",
+                 "multimodal",
+                 "openai",
+                 "gpu",
+                 "python"
+             ],
+    "featured":  false
+}

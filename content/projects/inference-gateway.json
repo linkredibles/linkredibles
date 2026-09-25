@@ -1,0 +1,23 @@
+{
+    "slug":  "inference-gateway",
+    "name":  "Inference Gateway",
+    "description":  "An open-source gateway that unifies multiple LLM providers behind an OpenAI-compatible API.",
+    "why":  "Connect applications to Groq, OpenAI, Anthropic, Ollama and other providers through one API.",
+    "website":  "https://github.com/inference-gateway/inference-gateway",
+    "github":  "https://github.com/inference-gateway/inference-gateway",
+    "categories":  [
+                       "ai",
+                       "api",
+                       "developer-tools",
+                       "self-hosted"
+                   ],
+    "tags":  [
+                 "llm",
+                 "gateway",
+                 "groq",
+                 "openai",
+                 "mcp",
+                 "routing"
+             ],
+    "featured":  false
+}

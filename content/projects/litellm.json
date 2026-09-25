@@ -1,0 +1,23 @@
+{
+    "slug":  "litellm",
+    "name":  "LiteLLM",
+    "description":  "A unified interface and proxy for calling hundreds of LLM providers through an OpenAI-compatible API.",
+    "why":  "Integrate multiple model providers without rewriting application code.",
+    "website":  "https://github.com/BerriAI/litellm",
+    "github":  "https://github.com/BerriAI/litellm",
+    "categories":  [
+                       "ai",
+                       "api",
+                       "developer-tools",
+                       "automation"
+                   ],
+    "tags":  [
+                 "llm",
+                 "gateway",
+                 "openai",
+                 "groq",
+                 "proxy",
+                 "routing"
+             ],
+    "featured":  false
+}

@@ -1,0 +1,23 @@
+{
+    "slug":  "inferencemesh",
+    "name":  "InferenceMesh",
+    "description":  "An OpenAI-compatible LLM router that selects providers based on cost, capability, privacy and health.",
+    "why":  "Route LLM requests intelligently across multiple providers.",
+    "website":  "https://github.com/gdalabs/inferencemesh",
+    "github":  "https://github.com/gdalabs/inferencemesh",
+    "categories":  [
+                       "ai",
+                       "api",
+                       "developer-tools",
+                       "automation"
+                   ],
+    "tags":  [
+                 "llm",
+                 "router",
+                 "groq",
+                 "openai",
+                 "failover",
+                 "routing"
+             ],
+    "featured":  false
+}

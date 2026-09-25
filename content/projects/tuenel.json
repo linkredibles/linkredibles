@@ -1,0 +1,23 @@
+{
+    "slug":  "tuenel",
+    "name":  "Tuenel",
+    "description":  "A self-hosted identity-aware AI gateway for OpenAI-compatible inference and authorized MCP access.",
+    "why":  "Secure AI inference and MCP access behind an identity-aware gateway.",
+    "website":  "https://github.com/mirrabase/tuenel",
+    "github":  "https://github.com/mirrabase/tuenel",
+    "categories":  [
+                       "ai",
+                       "security",
+                       "api",
+                       "self-hosted"
+                   ],
+    "tags":  [
+                 "llm",
+                 "gateway",
+                 "mcp",
+                 "security",
+                 "openai",
+                 "self-hosted"
+             ],
+    "featured":  false
+}

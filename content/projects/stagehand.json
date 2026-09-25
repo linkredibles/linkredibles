@@ -1,0 +1,22 @@
+{
+    "slug":  "stagehand",
+    "name":  "Stagehand",
+    "description":  "An AI browser automation framework for building reliable browser agents.",
+    "why":  "Combine browser automation with AI reasoning for web workflows.",
+    "website":  "https://github.com/browserbase/stagehand",
+    "github":  "https://github.com/browserbase/stagehand",
+    "categories":  [
+                       "ai",
+                       "automation",
+                       "web",
+                       "developer-tools"
+                   ],
+    "tags":  [
+                 "browser-automation",
+                 "agents",
+                 "web",
+                 "playwright",
+                 "llm"
+             ],
+    "featured":  false
+}

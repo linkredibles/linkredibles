@@ -1,0 +1,23 @@
+{
+    "slug":  "lunargate",
+    "name":  "LunarGate",
+    "description":  "A self-hosted AI gateway with OpenAI-compatible APIs, routing, retries and streaming.",
+    "why":  "Provide a stable API while routing requests across different model providers.",
+    "website":  "https://github.com/lunargate-ai/gateway",
+    "github":  "https://github.com/lunargate-ai/gateway",
+    "categories":  [
+                       "ai",
+                       "api",
+                       "self-hosted",
+                       "developer-tools"
+                   ],
+    "tags":  [
+                 "llm",
+                 "gateway",
+                 "openai",
+                 "routing",
+                 "ollama",
+                 "go"
+             ],
+    "featured":  false
+}

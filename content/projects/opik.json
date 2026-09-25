@@ -1,0 +1,22 @@
+{
+    "slug":  "opik",
+    "name":  "Opik",
+    "description":  "Open-source platform for evaluating and monitoring LLM applications.",
+    "why":  "Monitor AI applications and evaluate LLM behavior in development and production.",
+    "website":  "https://github.com/comet-ml/opik",
+    "github":  "https://github.com/comet-ml/opik",
+    "categories":  [
+                       "ai",
+                       "developer-tools",
+                       "data",
+                       "self-hosted"
+                   ],
+    "tags":  [
+                 "llm",
+                 "observability",
+                 "evaluation",
+                 "monitoring",
+                 "agents"
+             ],
+    "featured":  false
+}
