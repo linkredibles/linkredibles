@@ -1,0 +1,22 @@
+{
+    "slug":  "langserve",
+    "name":  "LangServe",
+    "description":  "A tool for deploying LangChain applications as APIs.",
+    "why":  "Expose LangChain chains and applications through production-ready HTTP APIs.",
+    "website":  "https://github.com/langchain-ai/langserve",
+    "github":  "https://github.com/langchain-ai/langserve",
+    "categories":  [
+                       "ai",
+                       "api",
+                       "ai-frameworks",
+                       "developer-tools"
+                   ],
+    "tags":  [
+                 "langchain",
+                 "api",
+                 "llm",
+                 "deployment",
+                 "python"
+             ],
+    "featured":  false
+}

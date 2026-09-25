@@ -1,0 +1,22 @@
+{
+    "slug":  "outlines",
+    "name":  "Outlines",
+    "description":  "A framework for structured generation from language models.",
+    "why":  "Constrain model outputs to reliable formats such as JSON, regexes, and grammars.",
+    "website":  "https://github.com/dottxt-ai/outlines",
+    "github":  "https://github.com/dottxt-ai/outlines",
+    "categories":  [
+                       "ai",
+                       "ai-frameworks",
+                       "developer-tools",
+                       "api"
+                   ],
+    "tags":  [
+                 "llm",
+                 "structured-output",
+                 "json",
+                 "generation",
+                 "python"
+             ],
+    "featured":  false
+}

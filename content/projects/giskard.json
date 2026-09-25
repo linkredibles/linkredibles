@@ -1,0 +1,23 @@
+{
+    "slug":  "giskard",
+    "name":  "Giskard",
+    "description":  "An open-source testing framework for AI and machine learning models.",
+    "why":  "Test AI systems for performance, robustness, bias, and potential vulnerabilities.",
+    "website":  "https://github.com/Giskard-AI/giskard",
+    "github":  "https://github.com/Giskard-AI/giskard",
+    "categories":  [
+                       "ai",
+                       "security",
+                       "developer-tools",
+                       "data"
+                   ],
+    "tags":  [
+                 "ai-testing",
+                 "llm",
+                 "evaluation",
+                 "security",
+                 "ml",
+                 "quality"
+             ],
+    "featured":  false
+}

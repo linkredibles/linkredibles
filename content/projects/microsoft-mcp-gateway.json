@@ -1,0 +1,24 @@
+{
+    "slug":  "microsoft-mcp-gateway",
+    "name":  "Microsoft MCP Gateway",
+    "description":  "A reverse proxy and management layer for MCP servers with routing and lifecycle management.",
+    "why":  "Deploy and manage MCP servers at scale with centralized routing and access control.",
+    "website":  "https://github.com/microsoft/mcp-gateway",
+    "github":  "https://github.com/microsoft/mcp-gateway",
+    "categories":  [
+                       "ai",
+                       "api",
+                       "devops",
+                       "developer-tools",
+                       "self-hosted"
+                   ],
+    "tags":  [
+                 "mcp",
+                 "gateway",
+                 "kubernetes",
+                 "routing",
+                 "microsoft",
+                 "ai-infrastructure"
+             ],
+    "featured":  false
+}

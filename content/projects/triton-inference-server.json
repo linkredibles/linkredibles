@@ -1,0 +1,22 @@
+{
+    "slug":  "triton-inference-server",
+    "name":  "Triton Inference Server",
+    "description":  "NVIDIA\u0027s open-source inference server for deploying machine learning models.",
+    "why":  "Serve multiple model frameworks through a standardized high-performance inference platform.",
+    "website":  "https://github.com/triton-inference-server/server",
+    "github":  "https://github.com/triton-inference-server/server",
+    "categories":  [
+                       "ai",
+                       "devops",
+                       "developer-tools",
+                       "api"
+                   ],
+    "tags":  [
+                 "inference",
+                 "nvidia",
+                 "gpu",
+                 "model-serving",
+                 "production"
+             ],
+    "featured":  false
+}

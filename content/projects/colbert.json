@@ -1,0 +1,22 @@
+{
+    "slug":  "colbert",
+    "name":  "ColBERT",
+    "description":  "A retrieval model and toolkit for efficient neural information retrieval.",
+    "why":  "Build high-quality semantic retrieval systems for search and RAG applications.",
+    "website":  "https://github.com/stanford-futuredata/ColBERT",
+    "github":  "https://github.com/stanford-futuredata/ColBERT",
+    "categories":  [
+                       "ai",
+                       "data",
+                       "ai-frameworks",
+                       "developer-tools"
+                   ],
+    "tags":  [
+                 "rag",
+                 "retrieval",
+                 "search",
+                 "embeddings",
+                 "information-retrieval"
+             ],
+    "featured":  false
+}

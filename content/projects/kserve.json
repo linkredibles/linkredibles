@@ -1,0 +1,22 @@
+{
+    "slug":  "kserve",
+    "name":  "KServe",
+    "description":  "A Kubernetes-native platform for serving machine learning and AI models.",
+    "why":  "Deploy scalable inference services with Kubernetes-native model serving.",
+    "website":  "https://github.com/kserve/kserve",
+    "github":  "https://github.com/kserve/kserve",
+    "categories":  [
+                       "ai",
+                       "devops",
+                       "developer-tools",
+                       "self-hosted"
+                   ],
+    "tags":  [
+                 "kubernetes",
+                 "model-serving",
+                 "inference",
+                 "mlops",
+                 "gpu"
+             ],
+    "featured":  false
+}

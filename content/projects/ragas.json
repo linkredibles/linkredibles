@@ -1,0 +1,22 @@
+{
+    "slug":  "ragas",
+    "name":  "Ragas",
+    "description":  "An evaluation framework for LLM applications with a strong focus on RAG evaluation.",
+    "why":  "Measure retrieval, generation, faithfulness, relevance, and other AI application qualities.",
+    "website":  "https://github.com/explodinggradients/ragas",
+    "github":  "https://github.com/explodinggradients/ragas",
+    "categories":  [
+                       "ai",
+                       "data",
+                       "developer-tools",
+                       "ai-frameworks"
+                   ],
+    "tags":  [
+                 "rag",
+                 "llm-evaluation",
+                 "retrieval",
+                 "testing",
+                 "benchmarks"
+             ],
+    "featured":  false
+}

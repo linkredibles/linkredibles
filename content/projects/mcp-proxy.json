@@ -1,0 +1,22 @@
+{
+    "slug":  "mcp-proxy",
+    "name":  "MCP Proxy",
+    "description":  "A proxy for Model Context Protocol servers and clients.",
+    "why":  "Connect and manage MCP servers across local and remote environments.",
+    "website":  "https://github.com/sparfenyuk/mcp-proxy",
+    "github":  "https://github.com/sparfenyuk/mcp-proxy",
+    "categories":  [
+                       "ai",
+                       "api",
+                       "developer-tools",
+                       "self-hosted"
+                   ],
+    "tags":  [
+                 "mcp",
+                 "proxy",
+                 "gateway",
+                 "python",
+                 "automation"
+             ],
+    "featured":  false
+}

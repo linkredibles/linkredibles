@@ -1,0 +1,22 @@
+{
+    "slug":  "mlx",
+    "name":  "MLX",
+    "description":  "Apple\u0027s array framework designed for efficient machine learning on Apple silicon.",
+    "why":  "Run and develop machine learning workloads efficiently on Apple devices.",
+    "website":  "https://github.com/apple/mlx",
+    "github":  "https://github.com/apple/mlx",
+    "categories":  [
+                       "ai",
+                       "ai-frameworks",
+                       "desktop",
+                       "developer-tools"
+                   ],
+    "tags":  [
+                 "apple-silicon",
+                 "machine-learning",
+                 "gpu",
+                 "python",
+                 "metal"
+             ],
+    "featured":  false
+}

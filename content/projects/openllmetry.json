@@ -1,0 +1,23 @@
+{
+    "slug":  "openllmetry",
+    "name":  "OpenLLMetry",
+    "description":  "OpenTelemetry instrumentation for LLM applications and AI agents.",
+    "why":  "Add standardized traces and telemetry to LLM applications using OpenTelemetry.",
+    "website":  "https://github.com/traceloop/openllmetry",
+    "github":  "https://github.com/traceloop/openllmetry",
+    "categories":  [
+                       "ai",
+                       "developer-tools",
+                       "data",
+                       "automation"
+                   ],
+    "tags":  [
+                 "llm",
+                 "opentelemetry",
+                 "tracing",
+                 "observability",
+                 "agents",
+                 "telemetry"
+             ],
+    "featured":  false
+}

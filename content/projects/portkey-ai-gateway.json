@@ -1,0 +1,24 @@
+{
+    "slug":  "portkey-ai-gateway",
+    "name":  "Portkey AI Gateway",
+    "description":  "An open-source AI gateway for routing requests across large numbers of language and multimodal models.",
+    "why":  "Connect applications to many model providers with retries, fallbacks, routing, and governance.",
+    "website":  "https://github.com/Portkey-AI/gateway",
+    "github":  "https://github.com/Portkey-AI/gateway",
+    "categories":  [
+                       "ai",
+                       "api",
+                       "developer-tools",
+                       "automation",
+                       "security"
+                   ],
+    "tags":  [
+                 "ai-gateway",
+                 "llm",
+                 "routing",
+                 "fallbacks",
+                 "providers",
+                 "openai-compatible"
+             ],
+    "featured":  false
+}

@@ -1,0 +1,22 @@
+{
+    "slug":  "semantic-router",
+    "name":  "Semantic Router",
+    "description":  "A fast decision layer for routing requests based on semantic intent.",
+    "why":  "Route AI requests to different models or workflows based on meaning instead of simple rules.",
+    "website":  "https://github.com/vllm-project/semantic-router",
+    "github":  "https://github.com/vllm-project/semantic-router",
+    "categories":  [
+                       "ai",
+                       "ai-frameworks",
+                       "developer-tools",
+                       "automation"
+                   ],
+    "tags":  [
+                 "semantic-routing",
+                 "llm",
+                 "routing",
+                 "classification",
+                 "agents"
+             ],
+    "featured":  false
+}

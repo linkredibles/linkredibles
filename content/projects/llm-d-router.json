@@ -1,0 +1,23 @@
+{
+    "slug":  "llm-d-router",
+    "name":  "llm-d Router",
+    "description":  "An intelligent inference router for LLM traffic with load-aware and cache-aware routing.",
+    "why":  "Optimize inference traffic using model, load, cache, and scheduling signals.",
+    "website":  "https://github.com/llm-d/llm-d-router",
+    "github":  "https://github.com/llm-d/llm-d-router",
+    "categories":  [
+                       "ai",
+                       "devops",
+                       "developer-tools",
+                       "automation"
+                   ],
+    "tags":  [
+                 "llm",
+                 "inference",
+                 "routing",
+                 "kubernetes",
+                 "gpu",
+                 "performance"
+             ],
+    "featured":  false
+}

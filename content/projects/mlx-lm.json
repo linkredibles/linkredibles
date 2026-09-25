@@ -1,0 +1,22 @@
+{
+    "slug":  "mlx-lm",
+    "name":  "MLX LM",
+    "description":  "Language model utilities built on Apple\u0027s MLX framework.",
+    "why":  "Run, fine-tune, and experiment with language models locally on Apple silicon.",
+    "website":  "https://github.com/ml-explore/mlx-lm",
+    "github":  "https://github.com/ml-explore/mlx-lm",
+    "categories":  [
+                       "ai",
+                       "ai-frameworks",
+                       "desktop",
+                       "developer-tools"
+                   ],
+    "tags":  [
+                 "llm",
+                 "apple-silicon",
+                 "local-ai",
+                 "fine-tuning",
+                 "python"
+             ],
+    "featured":  false
+}

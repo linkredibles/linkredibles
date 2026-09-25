@@ -1,0 +1,22 @@
+{
+    "slug":  "guardrails",
+    "name":  "Guardrails AI",
+    "description":  "A framework for adding validation and safety checks to LLM applications.",
+    "why":  "Validate model outputs and enforce structured, reliable AI application behavior.",
+    "website":  "https://github.com/guardrails-ai/guardrails",
+    "github":  "https://github.com/guardrails-ai/guardrails",
+    "categories":  [
+                       "ai",
+                       "security",
+                       "ai-frameworks",
+                       "developer-tools"
+                   ],
+    "tags":  [
+                 "llm",
+                 "guardrails",
+                 "validation",
+                 "structured-output",
+                 "safety"
+             ],
+    "featured":  false
+}

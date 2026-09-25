@@ -1,0 +1,22 @@
+{
+    "slug":  "tensorrt-llm",
+    "name":  "TensorRT-LLM",
+    "description":  "NVIDIA\u0027s toolkit for high-performance large language model inference.",
+    "why":  "Optimize and deploy LLM inference workloads on NVIDIA GPUs.",
+    "website":  "https://github.com/NVIDIA/TensorRT-LLM",
+    "github":  "https://github.com/NVIDIA/TensorRT-LLM",
+    "categories":  [
+                       "ai",
+                       "devops",
+                       "developer-tools"
+                   ],
+    "tags":  [
+                 "llm",
+                 "inference",
+                 "nvidia",
+                 "gpu",
+                 "cuda",
+                 "performance"
+             ],
+    "featured":  false
+}

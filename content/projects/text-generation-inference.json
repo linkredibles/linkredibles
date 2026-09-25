@@ -1,0 +1,22 @@
+{
+    "slug":  "text-generation-inference",
+    "name":  "Text Generation Inference",
+    "description":  "Hugging Face\u0027s toolkit for deploying and serving large language models.",
+    "why":  "Run production-grade LLM inference with optimized serving and hardware support.",
+    "website":  "https://github.com/huggingface/text-generation-inference",
+    "github":  "https://github.com/huggingface/text-generation-inference",
+    "categories":  [
+                       "ai",
+                       "devops",
+                       "developer-tools"
+                   ],
+    "tags":  [
+                 "llm",
+                 "inference",
+                 "huggingface",
+                 "serving",
+                 "gpu",
+                 "production"
+             ],
+    "featured":  false
+}

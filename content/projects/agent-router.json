@@ -1,0 +1,24 @@
+{
+    "slug":  "agent-router",
+    "name":  "Agent Router",
+    "description":  "An OpenAI-compatible gateway for hosted models, self-hosted inference, tools, and MCP servers.",
+    "why":  "Centralize model routing, credentials, quotas, failover, and usage attribution.",
+    "website":  "https://github.com/theagentrouter/agent-router",
+    "github":  "https://github.com/theagentrouter/agent-router",
+    "categories":  [
+                       "ai",
+                       "api",
+                       "developer-tools",
+                       "devops",
+                       "automation"
+                   ],
+    "tags":  [
+                 "ai-gateway",
+                 "llm",
+                 "mcp",
+                 "routing",
+                 "openai-compatible",
+                 "envoy"
+             ],
+    "featured":  false
+}

@@ -1,0 +1,23 @@
+{
+    "slug":  "weave",
+    "name":  "Weave",
+    "description":  "An open-source toolkit for evaluating, tracing, and monitoring LLM applications.",
+    "why":  "Track AI application behavior and evaluate model and agent workflows.",
+    "website":  "https://github.com/wandb/weave",
+    "github":  "https://github.com/wandb/weave",
+    "categories":  [
+                       "ai",
+                       "data",
+                       "developer-tools",
+                       "productivity"
+                   ],
+    "tags":  [
+                 "llm",
+                 "evaluation",
+                 "tracing",
+                 "observability",
+                 "agents",
+                 "wandb"
+             ],
+    "featured":  false
+}

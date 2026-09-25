@@ -1,0 +1,22 @@
+{
+    "slug":  "unsloth",
+    "name":  "Unsloth",
+    "description":  "A toolkit for faster and more memory-efficient LLM fine-tuning and reinforcement learning.",
+    "why":  "Fine-tune and train language models more efficiently on consumer and datacenter GPUs.",
+    "website":  "https://github.com/unslothai/unsloth",
+    "github":  "https://github.com/unslothai/unsloth",
+    "categories":  [
+                       "ai",
+                       "ai-frameworks",
+                       "developer-tools"
+                   ],
+    "tags":  [
+                 "llm",
+                 "fine-tuning",
+                 "lora",
+                 "training",
+                 "gpu",
+                 "python"
+             ],
+    "featured":  false
+}

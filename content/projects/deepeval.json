@@ -1,0 +1,23 @@
+{
+    "slug":  "deepeval",
+    "name":  "DeepEval",
+    "description":  "An open-source evaluation framework for LLM applications, agents, and RAG systems.",
+    "why":  "Test AI systems with automated metrics and evaluation workflows similar to unit testing.",
+    "website":  "https://github.com/confident-ai/deepeval",
+    "github":  "https://github.com/confident-ai/deepeval",
+    "categories":  [
+                       "ai",
+                       "ai-frameworks",
+                       "developer-tools",
+                       "automation"
+                   ],
+    "tags":  [
+                 "llm-evaluation",
+                 "agents",
+                 "rag",
+                 "testing",
+                 "pytest",
+                 "benchmarks"
+             ],
+    "featured":  false
+}

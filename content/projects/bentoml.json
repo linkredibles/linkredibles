@@ -1,0 +1,22 @@
+{
+    "slug":  "bentoml",
+    "name":  "BentoML",
+    "description":  "An open-source platform for serving and deploying AI and machine learning models.",
+    "why":  "Package, serve, scale, and deploy model inference services.",
+    "website":  "https://github.com/bentoml/BentoML",
+    "github":  "https://github.com/bentoml/BentoML",
+    "categories":  [
+                       "ai",
+                       "devops",
+                       "developer-tools",
+                       "api"
+                   ],
+    "tags":  [
+                 "model-serving",
+                 "inference",
+                 "deployment",
+                 "python",
+                 "production"
+             ],
+    "featured":  false
+}

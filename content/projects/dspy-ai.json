@@ -1,0 +1,21 @@
+{
+    "slug":  "dspy-ai",
+    "name":  "DSPy AI",
+    "description":  "Tools for programming and optimizing language-model applications.",
+    "why":  "Build optimized LLM pipelines and agent systems with declarative components.",
+    "website":  "https://github.com/dspy-ai/dspy",
+    "github":  "https://github.com/dspy-ai/dspy",
+    "categories":  [
+                       "ai",
+                       "ai-frameworks",
+                       "developer-tools"
+                   ],
+    "tags":  [
+                 "llm",
+                 "agents",
+                 "optimization",
+                 "rag",
+                 "python"
+             ],
+    "featured":  false
+}

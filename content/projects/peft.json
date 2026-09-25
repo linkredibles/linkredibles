@@ -1,0 +1,21 @@
+{
+    "slug":  "peft",
+    "name":  "PEFT",
+    "description":  "A Hugging Face library for parameter-efficient fine-tuning of large models.",
+    "why":  "Fine-tune large models with methods that reduce compute and memory requirements.",
+    "website":  "https://github.com/huggingface/peft",
+    "github":  "https://github.com/huggingface/peft",
+    "categories":  [
+                       "ai",
+                       "ai-frameworks",
+                       "developer-tools"
+                   ],
+    "tags":  [
+                 "llm",
+                 "fine-tuning",
+                 "lora",
+                 "huggingface",
+                 "pytorch"
+             ],
+    "featured":  false
+}

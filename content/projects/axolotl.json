@@ -1,0 +1,21 @@
+{
+    "slug":  "axolotl",
+    "name":  "Axolotl",
+    "description":  "An open-source toolkit for fine-tuning and post-training language models.",
+    "why":  "Configure and run LLM fine-tuning workflows without building training infrastructure from scratch.",
+    "website":  "https://github.com/axolotl-ai-cloud/axolotl",
+    "github":  "https://github.com/axolotl-ai-cloud/axolotl",
+    "categories":  [
+                       "ai",
+                       "ai-frameworks",
+                       "developer-tools"
+                   ],
+    "tags":  [
+                 "llm",
+                 "fine-tuning",
+                 "training",
+                 "lora",
+                 "pytorch"
+             ],
+    "featured":  false
+}

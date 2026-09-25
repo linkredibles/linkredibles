@@ -1,0 +1,22 @@
+{
+    "slug":  "mcpjam-inspector",
+    "name":  "MCPJam Inspector",
+    "description":  "A developer interface for inspecting and debugging MCP servers and tools.",
+    "why":  "Develop, test, inspect, and troubleshoot MCP integrations.",
+    "website":  "https://github.com/MCPJam/mcpjam-inspector",
+    "github":  "https://github.com/MCPJam/mcpjam-inspector",
+    "categories":  [
+                       "ai",
+                       "developer-tools",
+                       "desktop",
+                       "developer-tools"
+                   ],
+    "tags":  [
+                 "mcp",
+                 "debugging",
+                 "developer-tools",
+                 "developer-tools",
+                 "inspector"
+             ],
+    "featured":  false
+}

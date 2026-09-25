@@ -1,0 +1,24 @@
+{
+    "slug":  "crawl4ai",
+    "name":  "Crawl4AI",
+    "description":  "An open-source web crawler and scraping framework designed for AI and LLM workflows.",
+    "why":  "Turn websites into clean structured data for RAG, agents, and AI pipelines.",
+    "website":  "https://github.com/unclecode/crawl4ai",
+    "github":  "https://github.com/unclecode/crawl4ai",
+    "categories":  [
+                       "ai",
+                       "data",
+                       "web",
+                       "developer-tools",
+                       "automation"
+                   ],
+    "tags":  [
+                 "web-scraping",
+                 "crawler",
+                 "rag",
+                 "llm",
+                 "agents",
+                 "python"
+             ],
+    "featured":  false
+}

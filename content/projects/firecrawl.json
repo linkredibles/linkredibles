@@ -1,0 +1,24 @@
+{
+    "slug":  "firecrawl",
+    "name":  "Firecrawl",
+    "description":  "An open-source web crawling and scraping platform designed for AI applications.",
+    "why":  "Convert websites into LLM-ready data for RAG and research agents.",
+    "website":  "https://github.com/mendableai/firecrawl",
+    "github":  "https://github.com/mendableai/firecrawl",
+    "categories":  [
+                       "ai",
+                       "data",
+                       "web",
+                       "api",
+                       "developer-tools"
+                   ],
+    "tags":  [
+                 "web-crawler",
+                 "scraping",
+                 "rag",
+                 "llm",
+                 "agents",
+                 "api"
+             ],
+    "featured":  false
+}

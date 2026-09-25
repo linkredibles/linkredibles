@@ -1,0 +1,21 @@
+{
+    "slug":  "mcp-registry",
+    "name":  "MCP Registry",
+    "description":  "An open registry ecosystem for discovering Model Context Protocol servers.",
+    "why":  "Discover and integrate MCP servers into AI development workflows.",
+    "website":  "https://github.com/Tessl/mcp-registry",
+    "github":  "https://github.com/Tessl/mcp-registry",
+    "categories":  [
+                       "ai",
+                       "developer-tools",
+                       "open-source-lists"
+                   ],
+    "tags":  [
+                 "mcp",
+                 "registry",
+                 "discovery",
+                 "servers",
+                 "agents"
+             ],
+    "featured":  false
+}

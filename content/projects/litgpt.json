@@ -1,0 +1,22 @@
+{
+    "slug":  "litgpt",
+    "name":  "LitGPT",
+    "description":  "A lightweight toolkit for pretraining, fine-tuning, and deploying large language models.",
+    "why":  "Train and customize modern LLMs with a readable and flexible PyTorch stack.",
+    "website":  "https://github.com/Lightning-AI/litgpt",
+    "github":  "https://github.com/Lightning-AI/litgpt",
+    "categories":  [
+                       "ai",
+                       "ai-frameworks",
+                       "developer-tools",
+                       "education"
+                   ],
+    "tags":  [
+                 "llm",
+                 "fine-tuning",
+                 "pytorch",
+                 "training",
+                 "python"
+             ],
+    "featured":  false
+}

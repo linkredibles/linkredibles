@@ -1,0 +1,22 @@
+{
+    "slug":  "mlflow",
+    "name":  "MLflow",
+    "description":  "An open-source platform for managing machine learning and AI development lifecycles.",
+    "why":  "Track experiments, models, evaluations, deployments, and AI application workflows.",
+    "website":  "https://github.com/mlflow/mlflow",
+    "github":  "https://github.com/mlflow/mlflow",
+    "categories":  [
+                       "ai",
+                       "data",
+                       "devops",
+                       "developer-tools"
+                   ],
+    "tags":  [
+                 "mlops",
+                 "llm",
+                 "experiments",
+                 "models",
+                 "evaluation"
+             ],
+    "featured":  false
+}

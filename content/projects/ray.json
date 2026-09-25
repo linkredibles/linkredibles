@@ -1,0 +1,23 @@
+{
+    "slug":  "ray",
+    "name":  "Ray",
+    "description":  "A distributed computing framework for scaling AI and Python workloads.",
+    "why":  "Scale model training, inference, data processing, and AI applications across clusters.",
+    "website":  "https://github.com/ray-project/ray",
+    "github":  "https://github.com/ray-project/ray",
+    "categories":  [
+                       "ai",
+                       "data",
+                       "devops",
+                       "developer-tools"
+                   ],
+    "tags":  [
+                 "distributed",
+                 "python",
+                 "gpu",
+                 "inference",
+                 "training",
+                 "ray"
+             ],
+    "featured":  false
+}

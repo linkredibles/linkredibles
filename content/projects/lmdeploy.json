@@ -1,0 +1,21 @@
+{
+    "slug":  "lmdeploy",
+    "name":  "LMDeploy",
+    "description":  "A toolkit for compressing, deploying, and serving large language models.",
+    "why":  "Run efficient LLM inference with optimized serving and model deployment tools.",
+    "website":  "https://github.com/InternLM/lmdeploy",
+    "github":  "https://github.com/InternLM/lmdeploy",
+    "categories":  [
+                       "ai",
+                       "devops",
+                       "developer-tools"
+                   ],
+    "tags":  [
+                 "llm",
+                 "inference",
+                 "serving",
+                 "quantization",
+                 "gpu"
+             ],
+    "featured":  false
+}

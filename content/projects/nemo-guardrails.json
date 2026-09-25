@@ -1,0 +1,23 @@
+{
+    "slug":  "nemo-guardrails",
+    "name":  "NeMo Guardrails",
+    "description":  "An open-source toolkit for adding programmable guardrails to conversational AI systems.",
+    "why":  "Control dialogue, topics, tool usage, and safety behavior in LLM applications.",
+    "website":  "https://github.com/NVIDIA/NeMo-Guardrails",
+    "github":  "https://github.com/NVIDIA/NeMo-Guardrails",
+    "categories":  [
+                       "ai",
+                       "security",
+                       "ai-frameworks",
+                       "developer-tools"
+                   ],
+    "tags":  [
+                 "llm",
+                 "guardrails",
+                 "nvidia",
+                 "safety",
+                 "agents",
+                 "chatbots"
+             ],
+    "featured":  false
+}

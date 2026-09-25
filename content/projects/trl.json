@@ -1,0 +1,21 @@
+{
+    "slug":  "trl",
+    "name":  "TRL",
+    "description":  "A Hugging Face library for reinforcement learning and post-training of language models.",
+    "why":  "Fine-tune and align language models using modern post-training techniques.",
+    "website":  "https://github.com/huggingface/trl",
+    "github":  "https://github.com/huggingface/trl",
+    "categories":  [
+                       "ai",
+                       "ai-frameworks",
+                       "developer-tools"
+                   ],
+    "tags":  [
+                 "llm",
+                 "fine-tuning",
+                 "rlhf",
+                 "huggingface",
+                 "pytorch"
+             ],
+    "featured":  false
+}

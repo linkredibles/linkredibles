@@ -1,0 +1,24 @@
+{
+    "slug":  "helicone",
+    "name":  "Helicone",
+    "description":  "An open-source observability and monitoring platform for AI applications.",
+    "why":  "Monitor LLM requests, costs, latency, usage, and application behavior.",
+    "website":  "https://github.com/Helicone/helicone",
+    "github":  "https://github.com/Helicone/helicone",
+    "categories":  [
+                       "ai",
+                       "data",
+                       "developer-tools",
+                       "productivity",
+                       "self-hosted"
+                   ],
+    "tags":  [
+                 "llm",
+                 "observability",
+                 "monitoring",
+                 "analytics",
+                 "costs",
+                 "tracing"
+             ],
+    "featured":  false
+}

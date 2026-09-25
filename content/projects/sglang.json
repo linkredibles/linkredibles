@@ -1,0 +1,22 @@
+{
+    "slug":  "sglang",
+    "name":  "SGLang",
+    "description":  "A fast serving framework for large language models and multimodal models.",
+    "why":  "Deploy and serve modern LLMs efficiently with optimized inference runtimes.",
+    "website":  "https://github.com/sgl-project/sglang",
+    "github":  "https://github.com/sgl-project/sglang",
+    "categories":  [
+                       "ai",
+                       "ai-frameworks",
+                       "devops",
+                       "developer-tools"
+                   ],
+    "tags":  [
+                 "llm-inference",
+                 "serving",
+                 "gpu",
+                 "multimodal",
+                 "python"
+             ],
+    "featured":  false
+}

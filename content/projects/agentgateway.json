@@ -1,0 +1,24 @@
+{
+    "slug":  "agentgateway",
+    "name":  "Agentgateway",
+    "description":  "An open-source proxy for agent-to-LLM, agent-to-tool, and agent-to-agent communication.",
+    "why":  "Route and govern LLM, MCP, and A2A traffic through a unified AI-native gateway.",
+    "website":  "https://github.com/agentgateway/agentgateway",
+    "github":  "https://github.com/agentgateway/agentgateway",
+    "categories":  [
+                       "ai",
+                       "api",
+                       "developer-tools",
+                       "security",
+                       "automation"
+                   ],
+    "tags":  [
+                 "ai-gateway",
+                 "mcp",
+                 "a2a",
+                 "llm",
+                 "routing",
+                 "observability"
+             ],
+    "featured":  false
+}
