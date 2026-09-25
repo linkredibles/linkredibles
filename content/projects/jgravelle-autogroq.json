@@ -6,8 +6,8 @@
   "website": "https://autogroq.streamlit.app/",
   "github": "https://github.com/jgravelle/AutoGroq",
   "categories": [
-    "ai-agents",
     "ai",
+    "ai-frameworks",
     "developer-tools",
     "automation"
   ],
