@@ -1,0 +1,17 @@
+{
+    "slug":  "outline",
+    "name":  "Outline",
+    "description":  "The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible. - outline/outline",
+    "why":  "Improve personal or team productivity with an open-source tool.",
+    "website":  "https://github.com/outline/outline",
+    "github":  "https://github.com/outline/outline",
+    "categories":  [
+                       "productivity"
+                   ],
+    "tags":  [
+                 "open-source",
+                 "github",
+                 "productivity"
+             ],
+    "featured":  false
+}

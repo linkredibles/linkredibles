@@ -1,0 +1,16 @@
+{
+    "slug":  "ghost",
+    "name":  "Ghost",
+    "description":  "Independent technology for modern publishing, memberships, subscriptions and newsletters.",
+    "why":  "Add a practical open-source tool to a developer workflow.",
+    "website":  "https://github.com/TryGhost/Ghost",
+    "github":  "https://github.com/TryGhost/Ghost",
+    "categories":  [
+                       "developer-tools"
+                   ],
+    "tags":  [
+                 "open-source",
+                 "developer-tools"
+             ],
+    "featured":  false
+}

@@ -1,0 +1,17 @@
+{
+    "slug":  "appsmith",
+    "name":  "Appsmith",
+    "description":  "Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API. - appsmithorg/appsmith",
+    "why":  "Work with modern open-source database infrastructure and data applications.",
+    "website":  "https://github.com/appsmithorg/appsmith",
+    "github":  "https://github.com/appsmithorg/appsmith",
+    "categories":  [
+                       "databases"
+                   ],
+    "tags":  [
+                 "open-source",
+                 "github",
+                 "databases"
+             ],
+    "featured":  false
+}

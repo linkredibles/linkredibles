@@ -1,0 +1,16 @@
+{
+    "slug":  "harness",
+    "name":  "Harness",
+    "description":  "Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries.",
+    "why":  "Add a practical open-source tool to a developer workflow.",
+    "website":  "https://github.com/harness/harness",
+    "github":  "https://github.com/harness/harness",
+    "categories":  [
+                       "developer-tools"
+                   ],
+    "tags":  [
+                 "open-source",
+                 "developer-tools"
+             ],
+    "featured":  false
+}

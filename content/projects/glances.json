@@ -1,0 +1,17 @@
+{
+    "slug":  "glances",
+    "name":  "Glances",
+    "description":  "Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, macOS and Windows operating systems. - nicolargo/glances",
+    "why":  "Add a practical open-source tool to a developer workflow.",
+    "website":  "https://github.com/nicolargo/glances",
+    "github":  "https://github.com/nicolargo/glances",
+    "categories":  [
+                       "developer-tools"
+                   ],
+    "tags":  [
+                 "open-source",
+                 "github",
+                 "developer-tools"
+             ],
+    "featured":  false
+}

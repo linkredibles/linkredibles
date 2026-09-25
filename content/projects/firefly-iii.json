@@ -1,0 +1,17 @@
+{
+    "slug":  "firefly-iii",
+    "name":  "Firefly Iii",
+    "description":  "Firefly III: a personal finances manager. Contribute to firefly-iii/firefly-iii development by creating an account on GitHub.",
+    "why":  "Add a practical open-source tool to a developer workflow.",
+    "website":  "https://github.com/firefly-iii/firefly-iii",
+    "github":  "https://github.com/firefly-iii/firefly-iii",
+    "categories":  [
+                       "developer-tools"
+                   ],
+    "tags":  [
+                 "open-source",
+                 "github",
+                 "developer-tools"
+             ],
+    "featured":  false
+}

@@ -1,0 +1,18 @@
+{
+    "slug":  "tooljet",
+    "name":  "Tooljet",
+    "description":  "Open-source foundation of ToolJet AI - the enterprise app generation platform for internal tools, dashboards, business applications, workflows and AI agents. Build visually, from a prompt, or from Claude Code, Codex and Cursor over MCP 🚀 - ToolJet/ToolJet",
+    "why":  "Explore an open-source AI tool or AI-enabled developer workflow.",
+    "website":  "https://github.com/ToolJet/ToolJet",
+    "github":  "https://github.com/ToolJet/ToolJet",
+    "categories":  [
+                       "ai"
+                   ],
+    "tags":  [
+                 "open-source",
+                 "github",
+                 "ai",
+                 "automation"
+             ],
+    "featured":  false
+}

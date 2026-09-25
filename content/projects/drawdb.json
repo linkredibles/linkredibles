@@ -1,0 +1,17 @@
+{
+    "slug":  "drawdb",
+    "name":  "Drawdb",
+    "description":  "Free, simple, and intuitive online database diagram editor and SQL generator. - drawdb-io/drawdb",
+    "why":  "Work with modern open-source database infrastructure and data applications.",
+    "website":  "https://github.com/drawdb-io/drawdb",
+    "github":  "https://github.com/drawdb-io/drawdb",
+    "categories":  [
+                       "databases"
+                   ],
+    "tags":  [
+                 "open-source",
+                 "github",
+                 "databases"
+             ],
+    "featured":  false
+}

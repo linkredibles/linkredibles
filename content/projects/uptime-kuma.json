@@ -1,0 +1,18 @@
+{
+    "slug":  "uptime-kuma",
+    "name":  "Uptime Kuma",
+    "description":  "A fancy self-hosted monitoring tool. Contribute to louislam/uptime-kuma development by creating an account on GitHub.",
+    "why":  "Useful open-source software for developers, teams, or self-hosted workflows.",
+    "website":  "https://github.com/louislam/uptime-kuma",
+    "github":  "https://github.com/louislam/uptime-kuma",
+    "categories":  [
+                       "devops"
+                   ],
+    "tags":  [
+                 "open-source",
+                 "github",
+                 "devops",
+                 "self-hosted"
+             ],
+    "featured":  false
+}

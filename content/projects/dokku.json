@@ -1,0 +1,17 @@
+{
+    "slug":  "dokku",
+    "name":  "Dokku",
+    "description":  "A docker-powered PaaS that helps you build and manage the lifecycle of applications - dokku/dokku",
+    "why":  "Add a practical open-source tool to a developer workflow.",
+    "website":  "https://github.com/dokku/dokku",
+    "github":  "https://github.com/dokku/dokku",
+    "categories":  [
+                       "developer-tools"
+                   ],
+    "tags":  [
+                 "open-source",
+                 "github",
+                 "developer-tools"
+             ],
+    "featured":  false
+}

@@ -1,0 +1,17 @@
+{
+    "slug":  "jellyfin",
+    "name":  "Jellyfin",
+    "description":  "The Free Software Media System - Server Backend \u0026 API - jellyfin/jellyfin",
+    "why":  "Useful open-source software for developers, teams, or self-hosted workflows.",
+    "website":  "https://github.com/jellyfin/jellyfin",
+    "github":  "https://github.com/jellyfin/jellyfin",
+    "categories":  [
+                       "api"
+                   ],
+    "tags":  [
+                 "open-source",
+                 "github",
+                 "api"
+             ],
+    "featured":  false
+}

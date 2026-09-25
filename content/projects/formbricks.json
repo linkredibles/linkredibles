@@ -1,0 +1,16 @@
+{
+    "slug":  "formbricks",
+    "name":  "Formbricks",
+    "description":  "Open Source Qualtrics Alternative",
+    "why":  "Add a practical open-source tool to a developer workflow.",
+    "website":  "https://github.com/formbricks/formbricks",
+    "github":  "https://github.com/formbricks/formbricks",
+    "categories":  [
+                       "developer-tools"
+                   ],
+    "tags":  [
+                 "open-source",
+                 "developer-tools"
+             ],
+    "featured":  false
+}

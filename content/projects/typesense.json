@@ -1,0 +1,17 @@
+{
+    "slug":  "typesense",
+    "name":  "Typesense",
+    "description":  "Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences - typesense/typesense",
+    "why":  "Add a practical open-source tool to a developer workflow.",
+    "website":  "https://github.com/typesense/typesense",
+    "github":  "https://github.com/typesense/typesense",
+    "categories":  [
+                       "developer-tools"
+                   ],
+    "tags":  [
+                 "open-source",
+                 "github",
+                 "developer-tools"
+             ],
+    "featured":  false
+}

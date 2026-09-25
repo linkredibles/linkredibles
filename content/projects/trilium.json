@@ -1,0 +1,17 @@
+{
+    "slug":  "trilium",
+    "name":  "Trilium",
+    "description":  "Build your personal knowledge base with Trilium Notes - TriliumNext/Trilium",
+    "why":  "Improve personal or team productivity with an open-source tool.",
+    "website":  "https://github.com/TriliumNext/Trilium",
+    "github":  "https://github.com/TriliumNext/Trilium",
+    "categories":  [
+                       "productivity"
+                   ],
+    "tags":  [
+                 "open-source",
+                 "github",
+                 "productivity"
+             ],
+    "featured":  false
+}

@@ -1,0 +1,18 @@
+{
+    "slug":  "supabase",
+    "name":  "Supabase",
+    "description":  "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. - supabase/supabase",
+    "why":  "Work with modern open-source database infrastructure and data applications.",
+    "website":  "https://github.com/supabase/supabase",
+    "github":  "https://github.com/supabase/supabase",
+    "categories":  [
+                       "databases"
+                   ],
+    "tags":  [
+                 "open-source",
+                 "github",
+                 "databases",
+                 "ai"
+             ],
+    "featured":  false
+}

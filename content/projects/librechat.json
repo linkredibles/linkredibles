@@ -1,0 +1,18 @@
+{
+    "slug":  "librechat",
+    "name":  "Librechat",
+    "description":  "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active - LibreChat-AI/LibreChat",
+    "why":  "Explore an open-source AI tool or AI-enabled developer workflow.",
+    "website":  "https://github.com/danny-avila/LibreChat",
+    "github":  "https://github.com/danny-avila/LibreChat",
+    "categories":  [
+                       "ai"
+                   ],
+    "tags":  [
+                 "open-source",
+                 "github",
+                 "ai",
+                 "self-hosted"
+             ],
+    "featured":  false
+}

@@ -1,0 +1,17 @@
+{
+    "slug":  "documenso",
+    "name":  "Documenso",
+    "description":  "The Open Source DocuSign Alternative. Contribute to documenso/documenso development by creating an account on GitHub.",
+    "why":  "Add a practical open-source tool to a developer workflow.",
+    "website":  "https://github.com/documenso/documenso",
+    "github":  "https://github.com/documenso/documenso",
+    "categories":  [
+                       "developer-tools"
+                   ],
+    "tags":  [
+                 "open-source",
+                 "github",
+                 "developer-tools"
+             ],
+    "featured":  false
+}

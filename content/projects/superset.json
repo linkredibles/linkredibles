@@ -1,0 +1,17 @@
+{
+    "slug":  "superset",
+    "name":  "Superset",
+    "description":  "Apache Superset is a Data Visualization and Data Exploration Platform - apache/superset",
+    "why":  "Build dashboards, analytics, or data workflows with open-source software.",
+    "website":  "https://github.com/apache/superset",
+    "github":  "https://github.com/apache/superset",
+    "categories":  [
+                       "data"
+                   ],
+    "tags":  [
+                 "open-source",
+                 "github",
+                 "data"
+             ],
+    "featured":  false
+}

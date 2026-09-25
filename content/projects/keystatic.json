@@ -1,0 +1,22 @@
+{
+    "slug":  "keystatic",
+    "name":  "Keystatic",
+    "description":  "Git-based content management system for modern websites and applications.",
+    "why":  "Manage structured website content directly from a developer-friendly Git-based workflow.",
+    "website":  "https://keystatic.com/",
+    "github":  "https://github.com/Thinkmill/keystatic",
+    "categories":  [
+                       "web",
+                       "developer-tools",
+                       "productivity"
+                   ],
+    "tags":  [
+                 "open-source",
+                 "cms",
+                 "git",
+                 "content-management",
+                 "web",
+                 "typescript"
+             ],
+    "featured":  false
+}

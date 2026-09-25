@@ -1,0 +1,17 @@
+{
+    "slug":  "memos",
+    "name":  "Memos",
+    "description":  "Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours. - usememos/memos",
+    "why":  "Run useful software yourself with an open-source, self-hosted deployment.",
+    "website":  "https://github.com/usememos/memos",
+    "github":  "https://github.com/usememos/memos",
+    "categories":  [
+                       "self-hosted"
+                   ],
+    "tags":  [
+                 "open-source",
+                 "github",
+                 "self-hosted"
+             ],
+    "featured":  false
+}

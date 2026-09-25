@@ -1,0 +1,17 @@
+{
+    "slug":  "kotaemon",
+    "name":  "Kotaemon",
+    "description":  "An open-source RAG-based tool for chatting with your documents. - Cinnamon/kotaemon",
+    "why":  "Explore an open-source AI tool or AI-enabled developer workflow.",
+    "website":  "https://github.com/Cinnamon/kotaemon",
+    "github":  "https://github.com/Cinnamon/kotaemon",
+    "categories":  [
+                       "ai"
+                   ],
+    "tags":  [
+                 "open-source",
+                 "github",
+                 "ai"
+             ],
+    "featured":  false
+}

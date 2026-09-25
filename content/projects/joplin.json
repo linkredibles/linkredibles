@@ -1,0 +1,22 @@
+{
+    "slug":  "joplin",
+    "name":  "Joplin",
+    "description":  "Open-source note-taking and to-do application with synchronization and end-to-end encryption.",
+    "why":  "Keep notes and tasks synchronized across devices with an open-source and privacy-focused workflow.",
+    "website":  "https://joplinapp.org/",
+    "github":  "https://github.com/laurent22/joplin",
+    "categories":  [
+                       "productivity",
+                       "desktop",
+                       "mobile"
+                   ],
+    "tags":  [
+                 "open-source",
+                 "notes",
+                 "markdown",
+                 "productivity",
+                 "privacy",
+                 "sync"
+             ],
+    "featured":  false
+}

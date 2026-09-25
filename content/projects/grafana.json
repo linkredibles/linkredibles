@@ -1,0 +1,17 @@
+{
+    "slug":  "grafana",
+    "name":  "Grafana",
+    "description":  "The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. - GitHub - grafana/grafana: The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.",
+    "why":  "Useful open-source software for developers, teams, or self-hosted workflows.",
+    "website":  "https://github.com/grafana/grafana",
+    "github":  "https://github.com/grafana/grafana",
+    "categories":  [
+                       "devops"
+                   ],
+    "tags":  [
+                 "open-source",
+                 "github",
+                 "devops"
+             ],
+    "featured":  false
+}

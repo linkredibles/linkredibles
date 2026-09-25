@@ -1,0 +1,17 @@
+{
+    "slug":  "paperless-ngx",
+    "name":  "Paperless Ngx",
+    "description":  "A community-supported supercharged document management system: scan, index and archive all your documents - paperless-ngx/paperless-ngx",
+    "why":  "Add a practical open-source tool to a developer workflow.",
+    "website":  "https://github.com/paperless-ngx/paperless-ngx",
+    "github":  "https://github.com/paperless-ngx/paperless-ngx",
+    "categories":  [
+                       "developer-tools"
+                   ],
+    "tags":  [
+                 "open-source",
+                 "github",
+                 "developer-tools"
+             ],
+    "featured":  false
+}

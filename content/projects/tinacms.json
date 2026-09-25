@@ -1,0 +1,16 @@
+{
+    "slug":  "tinacms",
+    "name":  "Tinacms",
+    "description":  "TinaCMS is the leading open-source headless CMS that supports Markdown and Visual Editing. Your content is stored in your own GitHub repo 🦙 ❤️",
+    "why":  "Add a practical open-source tool to a developer workflow.",
+    "website":  "https://github.com/tinacms/tinacms",
+    "github":  "https://github.com/tinacms/tinacms",
+    "categories":  [
+                       "developer-tools"
+                   ],
+    "tags":  [
+                 "open-source",
+                 "developer-tools"
+             ],
+    "featured":  false
+}

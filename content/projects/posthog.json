@@ -1,0 +1,17 @@
+{
+    "slug":  "posthog",
+    "name":  "Posthog",
+    "description":  ":hedgehog: PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP. - PostHog/posthog",
+    "why":  "Explore an open-source AI tool or AI-enabled developer workflow.",
+    "website":  "https://github.com/posthog/posthog",
+    "github":  "https://github.com/posthog/posthog",
+    "categories":  [
+                       "ai"
+                   ],
+    "tags":  [
+                 "open-source",
+                 "github",
+                 "ai"
+             ],
+    "featured":  false
+}

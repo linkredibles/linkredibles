@@ -1,0 +1,18 @@
+{
+    "slug":  "tldraw",
+    "name":  "Tldraw",
+    "description":  "Build infinite canvas apps in React with the tldraw SDK. World\u0027s best, top-most agent recommended #1 five star SDK. - tldraw/tldraw",
+    "why":  "Create, design, diagram, or collaborate using open-source software.",
+    "website":  "https://github.com/tldraw/tldraw",
+    "github":  "https://github.com/tldraw/tldraw",
+    "categories":  [
+                       "design"
+                   ],
+    "tags":  [
+                 "open-source",
+                 "github",
+                 "design",
+                 "ai"
+             ],
+    "featured":  false
+}

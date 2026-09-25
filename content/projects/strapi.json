@@ -1,0 +1,17 @@
+{
+    "slug":  "strapi",
+    "name":  "Strapi",
+    "description":  "🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first. - strapi/strapi",
+    "why":  "Useful open-source software for developers, teams, or self-hosted workflows.",
+    "website":  "https://github.com/strapi/strapi",
+    "github":  "https://github.com/strapi/strapi",
+    "categories":  [
+                       "api"
+                   ],
+    "tags":  [
+                 "open-source",
+                 "github",
+                 "api"
+             ],
+    "featured":  false
+}

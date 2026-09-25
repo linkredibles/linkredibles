@@ -1,0 +1,17 @@
+{
+    "slug":  "linkwarden",
+    "name":  "Linkwarden",
+    "description":  "⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place. - linkwarden/linkwarden",
+    "why":  "Run useful software yourself with an open-source, self-hosted deployment.",
+    "website":  "https://github.com/linkwarden/linkwarden",
+    "github":  "https://github.com/linkwarden/linkwarden",
+    "categories":  [
+                       "self-hosted"
+                   ],
+    "tags":  [
+                 "open-source",
+                 "github",
+                 "self-hosted"
+             ],
+    "featured":  false
+}

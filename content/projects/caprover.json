@@ -1,0 +1,17 @@
+{
+    "slug":  "caprover",
+    "name":  "Caprover",
+    "description":  "Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids - caprover/caprover",
+    "why":  "Automate workflows, integrations, and repetitive tasks with open-source software.",
+    "website":  "https://github.com/caprover/caprover",
+    "github":  "https://github.com/caprover/caprover",
+    "categories":  [
+                       "automation"
+                   ],
+    "tags":  [
+                 "open-source",
+                 "github",
+                 "automation"
+             ],
+    "featured":  false
+}

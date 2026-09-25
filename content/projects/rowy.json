@@ -1,0 +1,18 @@
+{
+    "slug":  "rowy",
+    "name":  "Rowy",
+    "description":  "Low-code backend platform. Manage database on spreadsheet-like UI and build cloud functions workflows in JS/TS, all in your browser. - buildship-ai/rowy",
+    "why":  "Automate workflows, integrations, and repetitive tasks with open-source software.",
+    "website":  "https://github.com/rowyio/rowy",
+    "github":  "https://github.com/rowyio/rowy",
+    "categories":  [
+                       "automation"
+                   ],
+    "tags":  [
+                 "open-source",
+                 "github",
+                 "automation",
+                 "ai"
+             ],
+    "featured":  false
+}

@@ -1,0 +1,17 @@
+{
+    "slug":  "v2",
+    "name":  "V2",
+    "description":  "Minimalist and opinionated feed reader. Contribute to miniflux/v2 development by creating an account on GitHub.",
+    "why":  "Add a practical open-source tool to a developer workflow.",
+    "website":  "https://github.com/miniflux/v2",
+    "github":  "https://github.com/miniflux/v2",
+    "categories":  [
+                       "developer-tools"
+                   ],
+    "tags":  [
+                 "open-source",
+                 "github",
+                 "developer-tools"
+             ],
+    "featured":  false
+}

@@ -1,0 +1,17 @@
+{
+    "slug":  "silverbullet",
+    "name":  "Silverbullet",
+    "description":  "The malleable knowledge base for you and your team. Powered by Markdown and Lua. - silverbulletmd/silverbullet",
+    "why":  "Improve personal or team productivity with an open-source tool.",
+    "website":  "https://github.com/silverbulletmd/silverbullet",
+    "github":  "https://github.com/silverbulletmd/silverbullet",
+    "categories":  [
+                       "productivity"
+                   ],
+    "tags":  [
+                 "open-source",
+                 "github",
+                 "productivity"
+             ],
+    "featured":  false
+}

@@ -1,0 +1,18 @@
+{
+    "slug":  "flagsmith",
+    "name":  "Flagsmith",
+    "description":  "Flagsmith is an open-source feature flag platform with remote config, experimentation, and self-hosted or cloud deployment options. - Flagsmith/flagsmith",
+    "why":  "Useful open-source software for developers, teams, or self-hosted workflows.",
+    "website":  "https://github.com/flagsmith/flagsmith",
+    "github":  "https://github.com/flagsmith/flagsmith",
+    "categories":  [
+                       "devops"
+                   ],
+    "tags":  [
+                 "open-source",
+                 "github",
+                 "devops",
+                 "self-hosted"
+             ],
+    "featured":  false
+}

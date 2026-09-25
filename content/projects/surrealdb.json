@@ -1,0 +1,17 @@
+{
+    "slug":  "surrealdb",
+    "name":  "Surrealdb",
+    "description":  "A scalable, distributed, collaborative, document-graph database, for the realtime web - surrealdb/surrealdb",
+    "why":  "Work with modern open-source database infrastructure and data applications.",
+    "website":  "https://github.com/surrealdb/surrealdb",
+    "github":  "https://github.com/surrealdb/surrealdb",
+    "categories":  [
+                       "databases"
+                   ],
+    "tags":  [
+                 "open-source",
+                 "github",
+                 "databases"
+             ],
+    "featured":  false
+}

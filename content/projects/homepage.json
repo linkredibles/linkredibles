@@ -1,0 +1,17 @@
+{
+    "slug":  "homepage",
+    "name":  "Homepage",
+    "description":  "A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations. - gethomepage/homepage",
+    "why":  "Useful open-source software for developers, teams, or self-hosted workflows.",
+    "website":  "https://github.com/gethomepage/homepage",
+    "github":  "https://github.com/gethomepage/homepage",
+    "categories":  [
+                       "api"
+                   ],
+    "tags":  [
+                 "open-source",
+                 "github",
+                 "api"
+             ],
+    "featured":  false
+}

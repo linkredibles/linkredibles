@@ -1,0 +1,17 @@
+{
+    "slug":  "logseq",
+    "name":  "Logseq",
+    "description":  "A privacy-first, open-source platform for knowledge management and collaboration. Download link: http://github.com/logseq/logseq/releases. roadmap: https://logseq.io/p/NX4mc_ggEV - logseq/logseq",
+    "why":  "Useful open-source software for developers, teams, or self-hosted workflows.",
+    "website":  "https://github.com/logseq/logseq",
+    "github":  "https://github.com/logseq/logseq",
+    "categories":  [
+                       "security"
+                   ],
+    "tags":  [
+                 "open-source",
+                 "github",
+                 "security"
+             ],
+    "featured":  false
+}

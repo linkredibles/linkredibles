@@ -1,0 +1,18 @@
+{
+    "slug":  "medusa",
+    "name":  "Medusa",
+    "description":  "The world\u0027s most flexible commerce platform for agents and developers - medusajs/medusa",
+    "why":  "Add a practical open-source tool to a developer workflow.",
+    "website":  "https://github.com/medusajs/medusa",
+    "github":  "https://github.com/medusajs/medusa",
+    "categories":  [
+                       "developer-tools"
+                   ],
+    "tags":  [
+                 "open-source",
+                 "github",
+                 "developer-tools",
+                 "ai"
+             ],
+    "featured":  false
+}

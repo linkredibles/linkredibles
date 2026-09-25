@@ -1,0 +1,17 @@
+{
+    "slug":  "payload",
+    "name":  "Payload",
+    "description":  "Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building powerful applications. - payloadcms/payload",
+    "why":  "Add a practical open-source tool to a developer workflow.",
+    "website":  "https://github.com/payloadcms/payload",
+    "github":  "https://github.com/payloadcms/payload",
+    "categories":  [
+                       "developer-tools"
+                   ],
+    "tags":  [
+                 "open-source",
+                 "github",
+                 "developer-tools"
+             ],
+    "featured":  false
+}

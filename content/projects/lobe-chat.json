@@ -1,0 +1,18 @@
+{
+    "slug":  "lobe-chat",
+    "name":  "Lobe Chat",
+    "description":  "🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team. - lobehub/lobehub",
+    "why":  "Add a practical open-source tool to a developer workflow.",
+    "website":  "https://github.com/lobehub/lobe-chat",
+    "github":  "https://github.com/lobehub/lobe-chat",
+    "categories":  [
+                       "developer-tools"
+                   ],
+    "tags":  [
+                 "open-source",
+                 "github",
+                 "developer-tools",
+                 "ai"
+             ],
+    "featured":  false
+}

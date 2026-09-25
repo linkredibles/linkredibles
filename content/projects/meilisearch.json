@@ -1,0 +1,18 @@
+{
+    "slug":  "meilisearch",
+    "name":  "Meilisearch",
+    "description":  "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications. - meilisearch/meilisearch",
+    "why":  "Useful open-source software for developers, teams, or self-hosted workflows.",
+    "website":  "https://github.com/meilisearch/meilisearch",
+    "github":  "https://github.com/meilisearch/meilisearch",
+    "categories":  [
+                       "api"
+                   ],
+    "tags":  [
+                 "open-source",
+                 "github",
+                 "api",
+                 "ai"
+             ],
+    "featured":  false
+}

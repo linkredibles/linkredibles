@@ -1,0 +1,16 @@
+{
+    "slug":  "cal-diy",
+    "name":  "Cal.Diy",
+    "description":  "Scheduling infrastructure for absolutely everyone.",
+    "why":  "Add a practical open-source tool to a developer workflow.",
+    "website":  "https://github.com/calcom/cal.diy",
+    "github":  "https://github.com/calcom/cal.diy",
+    "categories":  [
+                       "developer-tools"
+                   ],
+    "tags":  [
+                 "open-source",
+                 "developer-tools"
+             ],
+    "featured":  false
+}

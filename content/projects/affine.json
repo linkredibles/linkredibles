@@ -1,0 +1,21 @@
+{
+    "slug":  "affine",
+    "name":  "AFFiNE",
+    "description":  "Open-source workspace for knowledge management, whiteboarding, and project collaboration.",
+    "why":  "Combine documents, knowledge management, whiteboards, and collaborative workflows in one open-source workspace.",
+    "website":  "https://affine.pro/",
+    "github":  "https://github.com/toeverything/AFFiNE",
+    "categories":  [
+                       "productivity",
+                       "web",
+                       "design"
+                   ],
+    "tags":  [
+                 "open-source",
+                 "knowledge-management",
+                 "workspace",
+                 "whiteboard",
+                 "productivity"
+             ],
+    "featured":  false
+}

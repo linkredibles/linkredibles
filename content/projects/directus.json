@@ -1,0 +1,17 @@
+{
+    "slug":  "directus",
+    "name":  "Directus",
+    "description":  "The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth \u0026 more. - directus/directus",
+    "why":  "Useful open-source software for developers, teams, or self-hosted workflows.",
+    "website":  "https://github.com/directus/directus",
+    "github":  "https://github.com/directus/directus",
+    "categories":  [
+                       "api"
+                   ],
+    "tags":  [
+                 "open-source",
+                 "github",
+                 "api"
+             ],
+    "featured":  false
+}

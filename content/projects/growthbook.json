@@ -1,0 +1,17 @@
+{
+    "slug":  "growthbook",
+    "name":  "Growthbook",
+    "description":  "Open Source Feature Flags, Experimentation, and Product Analytics - growthbook/growthbook",
+    "why":  "Build dashboards, analytics, or data workflows with open-source software.",
+    "website":  "https://github.com/growthbook/growthbook",
+    "github":  "https://github.com/growthbook/growthbook",
+    "categories":  [
+                       "data"
+                   ],
+    "tags":  [
+                 "open-source",
+                 "github",
+                 "data"
+             ],
+    "featured":  false
+}

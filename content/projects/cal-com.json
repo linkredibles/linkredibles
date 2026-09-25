@@ -1,0 +1,17 @@
+{
+    "slug":  "cal-com",
+    "name":  "Cal.Com",
+    "description":  "Scheduling infrastructure for absolutely everyone. - calcom/cal.diy",
+    "why":  "Useful open-source software for developers, teams, or self-hosted workflows.",
+    "website":  "https://github.com/calcom/cal.com",
+    "github":  "https://github.com/calcom/cal.com",
+    "categories":  [
+                       "devops"
+                   ],
+    "tags":  [
+                 "open-source",
+                 "github",
+                 "devops"
+             ],
+    "featured":  false
+}

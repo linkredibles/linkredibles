@@ -1,0 +1,17 @@
+{
+    "slug":  "stirling-pdf",
+    "name":  "Stirling PDF",
+    "description":  "#1 PDF Application on GitHub that lets you edit PDFs on any device anywhere - Stirling-Tools/Stirling-PDF",
+    "why":  "Add a practical open-source tool to a developer workflow.",
+    "website":  "https://github.com/Stirling-Tools/Stirling-PDF",
+    "github":  "https://github.com/Stirling-Tools/Stirling-PDF",
+    "categories":  [
+                       "developer-tools"
+                   ],
+    "tags":  [
+                 "open-source",
+                 "github",
+                 "developer-tools"
+             ],
+    "featured":  false
+}

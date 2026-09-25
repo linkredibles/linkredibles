@@ -1,0 +1,17 @@
+{
+    "slug":  "metabase",
+    "name":  "Metabase",
+    "description":  "The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart: - metabase/metabase",
+    "why":  "Build dashboards, analytics, or data workflows with open-source software.",
+    "website":  "https://github.com/metabase/metabase",
+    "github":  "https://github.com/metabase/metabase",
+    "categories":  [
+                       "data"
+                   ],
+    "tags":  [
+                 "open-source",
+                 "github",
+                 "data"
+             ],
+    "featured":  false
+}

@@ -1,0 +1,22 @@
+{
+    "slug":  "khoj",
+    "name":  "Khoj",
+    "description":  "AI-powered personal assistant that can search, organize, and interact with your personal knowledge.",
+    "why":  "Build a private AI assistant around your own documents, notes, and knowledge.",
+    "website":  "https://khoj.dev/",
+    "github":  "https://github.com/khoj-ai/khoj",
+    "categories":  [
+                       "ai",
+                       "productivity",
+                       "self-hosted"
+                   ],
+    "tags":  [
+                 "open-source",
+                 "ai",
+                 "personal-assistant",
+                 "rag",
+                 "knowledge",
+                 "self-hosted"
+             ],
+    "featured":  false
+}
