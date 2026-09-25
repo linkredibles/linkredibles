@@ -38,6 +38,13 @@ export default function SiteHeader() {
           </Link>
 
           <Link
+            href="/news"
+            className="transition-colors hover:text-zinc-950"
+          >
+            News
+          </Link>
+
+          <Link
             href="/#about"
             className="transition-colors hover:text-zinc-950"
           >
@@ -145,6 +152,14 @@ export default function SiteHeader() {
               className="rounded-lg px-3 py-3 transition-colors hover:bg-zinc-100 hover:text-zinc-950"
             >
               Categories
+            </Link>
+
+            <Link
+              href="/news"
+              onClick={() => setMenuOpen(false)}
+              className="rounded-lg px-3 py-3 transition-colors hover:bg-zinc-100 hover:text-zinc-950"
+            >
+              News
             </Link>
 
             <Link
