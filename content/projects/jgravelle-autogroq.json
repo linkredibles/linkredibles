@@ -1,0 +1,24 @@
+{
+  "slug": "jgravelle-autogroq",
+  "name": "AutoGroq",
+  "description": "An open-source AI assistant that dynamically generates tailored teams of AI agents based on your project requirements.",
+  "why": "Create customized teams of AI agents and workflows without manually configuring every agent.",
+  "website": "https://autogroq.streamlit.app/",
+  "github": "https://github.com/jgravelle/AutoGroq",
+  "categories": [
+    "ai-agents",
+    "ai",
+    "developer-tools",
+    "automation"
+  ],
+  "tags": [
+    "ai-agents",
+    "autogen",
+    "groq",
+    "llm",
+    "multi-agent",
+    "python",
+    "crewai"
+  ],
+  "featured": false
+}
