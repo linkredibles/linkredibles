@@ -1,0 +1,23 @@
+{
+  "slug": "aigo-framework-studio",
+  "name": "AIGO Framework Studio",
+  "description": "AIGO Framework Studio is an open-source workspace for structuring and documenting AI governance activities throughout the AI system lifecycle. It provides dedicated workspaces for AI system inventories, governance classification, evaluation records, reviews and approvals, validation checks, risk and control management, monitoring plans, change and incident records, and assurance evidence.\n\nThe project helps teams organize governance information, maintain traceable records, and support human review and accountability. Version 1 focuses on structured governance workflows and record management rather than claiming to automate compliance or independently certify AI systems.",
+  "why": "AI governance is often discussed through policies and principles, but teams also need practical ways to organize the records and activities that support those principles.\n\nAIGO Framework Studio brings key governance activities into one structured workspace, helping teams document responsibilities, evaluations, risks, controls, review decisions, changes, incidents, and assurance evidence in a more consistent way.\n\nIts lifecycle-oriented approach makes it useful for AI developers, governance practitioners, researchers, and organizations exploring responsible AI practices. As an open-source project, it also offers a foundation for community feedback, experimentation, and future improvements to practical AI governance tooling.\n\nThe project is designed to support governance work and human decision-making, not to replace expert judgment, legal review, or independent compliance assessment.",
+  "website": "https://aigoframework.com/",
+  "github": "https://github.com/BindBrain/aigo-framework-studio",
+  "categories": [
+    "ai"
+  ],
+  "tags": [
+    "aigo",
+    "ai governance",
+    "responsible ai",
+    "ai safety",
+    "machine learning",
+    "risk management",
+    "open source",
+    "compliance",
+    "governance tools"
+  ],
+  "featured": false
+}
