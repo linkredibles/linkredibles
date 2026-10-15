@@ -1,0 +1,22 @@
+{
+  "slug": "rea",
+  "name": "REA",
+  "description": "REA is an open-source reverse-engineering toolkit that connects AI coding agents to tools for investigating software, from JavaScript and Electron applications to compiled native binaries. Through a CLI and MCP server, agents can trace code paths, inspect functions, analyze binaries, and gather evidence to explain how a feature works—even when the original source code is unavailable. They can then use those findings to help implement similar functionality in another project.",
+  "why": "REA bridges the gap between understanding existing software and building something new. For example, you can ask an AI coding agent to investigate how offline search works in a desktop Notes app, trace the relevant functions, and use the findings to help build a similar feature with your own technology stack. Instead of relying only on guesses, the agent can use evidence gathered during the investigation. REA is especially interesting for developers working on interoperability, software maintenance, security research, and software preservation.",
+  "website": "https://rea.tools/",
+  "github": "https://github.com/morluto/rea",
+  "categories": [
+    "developer-tools"
+  ],
+  "tags": [
+    "ai agents",
+    "reverse engineering",
+    "mcp",
+    "developer tools",
+    "binary analysis",
+    "static analysis",
+    "cli",
+    "open source"
+  ],
+  "featured": false
+}
