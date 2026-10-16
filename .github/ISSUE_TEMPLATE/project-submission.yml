@@ -65,11 +65,28 @@ body:
       description: Choose the category that best fits the project.
       options:
         - AI
+        - AI Agent Skills & Automation
         - Developer Tools
         - Web
+        - Mobile
+        - Desktop
         - Self-Hosted
+        - Databases
+        - DevOps & Infrastructure
+        - Automation
+        - APIs & Backend
+        - Security
+        - Data & Analytics
         - Design
         - Productivity
+        - Education
+        - Communication
+        - Media
+        - Blockchain & Web3
+        - Gaming
+        - CLI & Terminal
+        - Open-Source Lists & Resources
+        - AI Frameworks & SDKs
     validations:
       required: true
 
