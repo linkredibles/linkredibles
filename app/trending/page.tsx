@@ -119,7 +119,23 @@ export default async function TrendingPage() {
     month: growthForWindow(projects, history, 30, now),
   };
 
-  const growthByPeriod = verifiedGrowthByPeriod;
+  // Use verified star growth when available. Otherwise, show real catalogue
+  // projects ranked by current stars, clearly labelled as discovery fallback.
+  const fallbackTrending = mostStarred.map((project) => ({
+    ...toGrowthProject(project),
+    rankingLabel: "Most starred",
+  }));
+  const growthByPeriod = {
+    today: verifiedGrowthByPeriod.today.length
+      ? verifiedGrowthByPeriod.today
+      : fallbackTrending,
+    week: verifiedGrowthByPeriod.week.length
+      ? verifiedGrowthByPeriod.week
+      : fallbackTrending,
+    month: verifiedGrowthByPeriod.month.length
+      ? verifiedGrowthByPeriod.month
+      : fallbackTrending,
+  };
 
   const discoveryProjects = {
     recentlyUpdated: recentlyUpdated.map((project) => ({
@@ -164,7 +180,7 @@ export default async function TrendingPage() {
         <section className="mt-14">
           <h2 className="text-2xl font-semibold tracking-tight">Rising repositories</h2>
           <p className="mt-2 text-sm leading-6 text-zinc-600">
-            Rankings use recorded star-count snapshots, not guesses based on total stars.
+            Verified growth uses recorded star-count snapshots. Until enough history is available, the list shows popular projects from the Linkredibles collection.
           </p>
           <div className="mt-5">
             <TrendingPeriodTabs growthByPeriod={growthByPeriod} discoveryProjects={discoveryProjects} />
