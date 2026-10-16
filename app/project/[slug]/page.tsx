@@ -60,14 +60,18 @@ export default async function ProjectPage({
   }
 
   const formatUpdatedDate = (date: string) => {
-    const days = Math.round(
-      (new Date(date).getTime() - Date.now()) /
-        (1000 * 60 * 60 * 24)
-    );
+    const timestamp = new Date(date);
 
-    return new Intl.RelativeTimeFormat("en", {
-      numeric: "auto",
-    }).format(days, "day");
+    if (Number.isNaN(timestamp.getTime())) {
+      return "Unknown";
+    }
+
+    return new Intl.DateTimeFormat("en", {
+      year: "numeric",
+      month: "short",
+      day: "numeric",
+      timeZone: "UTC",
+    }).format(timestamp);
   };
 
   const relatedProjects = projects

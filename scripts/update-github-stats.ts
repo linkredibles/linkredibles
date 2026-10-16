@@ -25,8 +25,14 @@ type GitHubStats = {
   license: string | null;
 };
 
+type StarSnapshot = {
+  date: string;
+  stars: number;
+};
+
 const projectsDirectory = path.join(process.cwd(), "content", "projects");
 const outputPath = path.join(process.cwd(), "content", "github-stats.json");
+const historyPath = path.join(process.cwd(), "content", "github-star-history.json");
 
 const token = process.env.GITHUB_TOKEN;
 
@@ -111,6 +117,8 @@ async function main() {
     ...existingStats,
   };
 
+  const successfulSlugs = new Set<string>();
+
   let successful = 0;
   let failed = 0;
 
@@ -135,6 +143,7 @@ async function main() {
         license: data.license?.name ?? data.license?.spdx_id ?? null,
       };
 
+      successfulSlugs.add(project.slug);
       successful++;
     } catch (error) {
       failed++;
@@ -161,6 +170,48 @@ async function main() {
     `${JSON.stringify(stats, null, 2)}\n`,
     "utf8"
   );
+
+  let history: Record<string, StarSnapshot[]> = {};
+
+  if (fs.existsSync(historyPath)) {
+    history = JSON.parse(
+      fs.readFileSync(historyPath, "utf8")
+    ) as Record<string, StarSnapshot[]>;
+  }
+
+  const snapshotDate = new Date().toISOString().slice(0, 10);
+  const cutoffDate = new Date(Date.now() - 400 * 24 * 60 * 60 * 1000)
+    .toISOString()
+    .slice(0, 10);
+
+  let snapshotsUpdated = 0;
+
+  for (const slug of successfulSlugs) {
+    const currentStats = stats[slug];
+    const snapshots = Array.isArray(history[slug]) ? history[slug] : [];
+
+    const retained = snapshots.filter(
+      (snapshot) => snapshot.date >= cutoffDate && snapshot.date !== snapshotDate
+    );
+
+    retained.push({
+      date: snapshotDate,
+      stars: currentStats.stars,
+    });
+
+    retained.sort((a, b) => a.date.localeCompare(b.date));
+    history[slug] = retained;
+    snapshotsUpdated++;
+  }
+
+  fs.writeFileSync(
+    historyPath,
+    `${JSON.stringify(history, null, 2)}\n`,
+    "utf8"
+  );
+
+  console.log(`Star history snapshots updated: ${snapshotsUpdated}`);
+  console.log(`Wrote ${historyPath}`);
 
   console.log("");
   console.log("GitHub stats update complete.");
