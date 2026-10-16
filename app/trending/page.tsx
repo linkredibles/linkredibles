@@ -119,22 +119,59 @@ export default async function TrendingPage() {
     month: growthForWindow(projects, history, 30, now),
   };
 
-  // Use verified star growth when available. Otherwise, show real catalogue
-  // projects ranked by current stars, clearly labelled as discovery fallback.
-  const fallbackTrending = mostStarred.map((project) => ({
+  // Use verified star growth when available. Otherwise, use real repository
+  // update timestamps to provide a period-specific activity ranking.
+  const activityForWindow = (
+    days: number,
+    nowLabel: string
+  ): GrowthProject[] => {
+    const cutoff = now.getTime() - days * 24 * 60 * 60 * 1000;
+    return projects
+      .filter((project) => {
+        const updatedAt = project.githubData?.updatedAt;
+        if (!updatedAt) return false;
+        const updatedTime = Date.parse(updatedAt);
+        return Number.isFinite(updatedTime) &&
+          updatedTime >= cutoff &&
+          updatedTime <= now.getTime();
+      })
+      .sort((a, b) =>
+        (b.githubData?.updatedAt ?? "").localeCompare(a.githubData?.updatedAt ?? "")
+      )
+      .slice(0, 20)
+      .map((project) => ({
+        ...toGrowthProject(project),
+        rankingLabel: nowLabel,
+      }));
+  };
+
+  const popularFallback = mostStarred.map((project) => ({
     ...toGrowthProject(project),
     rankingLabel: "Most starred",
   }));
+
+  const activityByPeriod = {
+    today: activityForWindow(1, "Recently updated"),
+    week: activityForWindow(7, "Recently updated"),
+    month: activityForWindow(30, "Recently updated"),
+  };
+
   const growthByPeriod = {
     today: verifiedGrowthByPeriod.today.length
       ? verifiedGrowthByPeriod.today
-      : fallbackTrending,
+      : activityByPeriod.today.length
+        ? activityByPeriod.today
+        : popularFallback,
     week: verifiedGrowthByPeriod.week.length
       ? verifiedGrowthByPeriod.week
-      : fallbackTrending,
+      : activityByPeriod.week.length
+        ? activityByPeriod.week
+        : popularFallback,
     month: verifiedGrowthByPeriod.month.length
       ? verifiedGrowthByPeriod.month
-      : fallbackTrending,
+      : activityByPeriod.month.length
+        ? activityByPeriod.month
+        : popularFallback,
   };
 
   const discoveryProjects = {
