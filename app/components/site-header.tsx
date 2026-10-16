@@ -44,6 +44,20 @@ export default function SiteHeader() {
             News
           </Link>
 
+<Link
+  href="/trending"
+  className="transition-colors hover:text-zinc-950"
+>
+  Trending
+</Link>
+
+<Link
+  href="/insights"
+  className="transition-colors hover:text-zinc-950"
+>
+  Insights
+</Link>
+
           <Link
             href="/#about"
             className="transition-colors hover:text-zinc-950"
@@ -161,6 +175,20 @@ export default function SiteHeader() {
             >
               News
             </Link>
+
+<Link
+  href="/trending"
+  className="transition-colors hover:text-zinc-950"
+>
+  Trending
+</Link>
+
+<Link
+  href="/insights"
+  className="transition-colors hover:text-zinc-950"
+>
+  Insights
+</Link>
 
             <Link
               href="/#about"
