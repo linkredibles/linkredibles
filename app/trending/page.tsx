@@ -122,18 +122,29 @@ export default async function TrendingPage() {
   // Use verified star growth when available. Otherwise, use real repository
   // update timestamps to provide a period-specific activity ranking.
   const activityForWindow = (
-    days: number,
+    minDaysAgo: number,
+    maxDaysAgo: number,
     nowLabel: string
   ): GrowthProject[] => {
-    const cutoff = now.getTime() - days * 24 * 60 * 60 * 1000;
+    const millisecondsPerDay = 24 * 60 * 60 * 1000;
+    const newestAllowed = now.getTime() - minDaysAgo * millisecondsPerDay;
+    const oldestAllowed = now.getTime() - maxDaysAgo * millisecondsPerDay;
+
     return projects
       .filter((project) => {
         const updatedAt = project.githubData?.updatedAt;
         if (!updatedAt) return false;
+
         const updatedTime = Date.parse(updatedAt);
-        return Number.isFinite(updatedTime) &&
-          updatedTime >= cutoff &&
-          updatedTime <= now.getTime();
+        if (!Number.isFinite(updatedTime)) return false;
+
+        const isWithinOldestLimit = updatedTime >= oldestAllowed;
+        const isWithinNewestLimit =
+          minDaysAgo === 0
+            ? updatedTime <= now.getTime()
+            : updatedTime < newestAllowed;
+
+        return isWithinOldestLimit && isWithinNewestLimit;
       })
       .sort((a, b) =>
         (b.githubData?.updatedAt ?? "").localeCompare(a.githubData?.updatedAt ?? "")
@@ -151,9 +162,9 @@ export default async function TrendingPage() {
   }));
 
   const activityByPeriod = {
-    today: activityForWindow(1, "Recently updated"),
-    week: activityForWindow(7, "Recently updated"),
-    month: activityForWindow(30, "Recently updated"),
+    today: activityForWindow(0, 1, "Recently updated"),
+    week: activityForWindow(1, 7, "Recently updated"),
+    month: activityForWindow(7, 30, "Recently updated"),
   };
 
   const growthByPeriod = {
