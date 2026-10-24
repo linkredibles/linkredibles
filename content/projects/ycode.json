@@ -1,0 +1,15 @@
+{
+  "slug": "ycode",
+  "name": "ycode",
+  "description": "Ycode is an open-source visual website builder and content management system (CMS) that lets you design, build, and manage responsive websites without writing every component by hand. It features a drag-and-drop visual editor, dynamic CMS collections, forms, localization, animations, and reusable components. Self-host it using your own infrastructure or use Ycode Cloud for a managed experience.",
+  "why": "Ycode combines visual website design with a built-in CMS while keeping the option to self-host the open-source version. It is an interesting alternative for creators and developers who want more design control without building everything from scratch. Features such as localization, reusable components, and AI assistant integration make it useful for building and managing modern websites. Its MIT license also makes it appealing to developers who want to inspect, customize, and contribute to the codebase.",
+  "website": "https://ycode.com/",
+  "github": "https://github.com/ycode/ycode",
+  "categories": [
+    "web"
+  ],
+  "tags": [
+    "open-source  website-builder  cms  visual-editor  no-code  web-development  self-hosted  typescript  next.js"
+  ],
+  "featured": false
+}
