@@ -1,79 +1,79 @@
 {
   "actual-budget": {
-    "stars": 29694,
-    "forks": 3197,
+    "stars": 29713,
+    "forks": 3202,
     "language": "TypeScript",
-    "updatedAt": "2026-10-23T08:10:44Z",
+    "updatedAt": "2026-10-24T06:23:18Z",
     "license": "MIT License"
   },
   "addy-osmani-agent-skills": {
-    "stars": 109756,
-    "forks": 11447,
+    "stars": 110044,
+    "forks": 11485,
     "language": "JavaScript",
-    "updatedAt": "2026-10-23T08:20:46Z",
+    "updatedAt": "2026-10-24T07:57:24Z",
     "license": "MIT License"
   },
   "agent-browser": {
-    "stars": 44457,
-    "forks": 3042,
+    "stars": 44502,
+    "forks": 3049,
     "language": "Rust",
-    "updatedAt": "2026-10-23T08:19:55Z",
+    "updatedAt": "2026-10-24T07:05:24Z",
     "license": "Apache License 2.0"
   },
   "agent-reach": {
-    "stars": 101145,
-    "forks": 8917,
+    "stars": 101435,
+    "forks": 8947,
     "language": "Python",
-    "updatedAt": "2026-10-23T08:19:36Z",
+    "updatedAt": "2026-10-24T07:58:05Z",
     "license": "MIT License"
   },
   "agentscope": {
-    "stars": 33720,
-    "forks": 3705,
+    "stars": 33797,
+    "forks": 3713,
     "language": "Python",
-    "updatedAt": "2026-10-23T08:18:03Z",
+    "updatedAt": "2026-10-24T07:29:17Z",
     "license": "Apache License 2.0"
   },
   "agno": {
-    "stars": 42871,
-    "forks": 6177,
+    "stars": 42875,
+    "forks": 6180,
     "language": "Python",
-    "updatedAt": "2026-10-23T06:02:14Z",
+    "updatedAt": "2026-10-24T06:16:42Z",
     "license": "Apache License 2.0"
   },
   "aider": {
-    "stars": 49706,
-    "forks": 5100,
+    "stars": 49730,
+    "forks": 5102,
     "language": "Python",
-    "updatedAt": "2026-10-23T07:42:30Z",
+    "updatedAt": "2026-10-24T06:05:32Z",
     "license": "Apache License 2.0"
   },
   "anthropic-skills": {
-    "stars": 183132,
-    "forks": 21687,
+    "stars": 183368,
+    "forks": 21715,
     "language": "Python",
-    "updatedAt": "2026-10-23T08:21:31Z",
+    "updatedAt": "2026-10-24T07:57:15Z",
     "license": null
   },
   "appflowy": {
-    "stars": 77670,
-    "forks": 6083,
+    "stars": 77699,
+    "forks": 6084,
     "language": "Dart",
-    "updatedAt": "2026-10-23T07:50:00Z",
+    "updatedAt": "2026-10-24T07:57:15Z",
     "license": "GNU Affero General Public License v3.0"
   },
   "appwrite": {
-    "stars": 57752,
-    "forks": 5817,
+    "stars": 57762,
+    "forks": 5818,
     "language": "TypeScript",
-    "updatedAt": "2026-10-23T08:21:31Z",
+    "updatedAt": "2026-10-24T07:16:57Z",
     "license": "BSD 3-Clause \"New\" or \"Revised\" License"
   },
   "awesome-claude-skills": {
-    "stars": 77720,
-    "forks": 9289,
+    "stars": 77791,
+    "forks": 9304,
     "language": "Python",
-    "updatedAt": "2026-10-23T08:15:06Z",
+    "updatedAt": "2026-10-24T07:47:15Z",
     "license": null
   },
   "awwesome": {
@@ -91,24 +91,24 @@
     "license": "MIT License"
   },
   "cline": {
-    "stars": 70759,
-    "forks": 7726,
+    "stars": 70798,
+    "forks": 7730,
     "language": "TypeScript",
-    "updatedAt": "2026-10-23T08:13:12Z",
+    "updatedAt": "2026-10-24T07:58:18Z",
     "license": "Apache License 2.0"
   },
   "cloudflare-skills": {
-    "stars": 3149,
-    "forks": 320,
+    "stars": 3159,
+    "forks": 324,
     "language": "Shell",
-    "updatedAt": "2026-10-23T07:38:34Z",
+    "updatedAt": "2026-10-24T06:45:32Z",
     "license": "Apache License 2.0"
   },
   "continue": {
-    "stars": 36289,
-    "forks": 5509,
+    "stars": 36307,
+    "forks": 5514,
     "language": "TypeScript",
-    "updatedAt": "2026-10-23T07:55:22Z",
+    "updatedAt": "2026-10-24T07:41:29Z",
     "license": "Apache License 2.0"
   },
   "convex-agent-plugins": {
@@ -119,304 +119,304 @@
     "license": "MIT License"
   },
   "crewai": {
-    "stars": 60014,
-    "forks": 8844,
+    "stars": 60050,
+    "forks": 8858,
     "language": "Python",
-    "updatedAt": "2026-10-23T08:21:20Z",
+    "updatedAt": "2026-10-24T07:29:26Z",
     "license": "MIT License"
   },
   "dspy": {
-    "stars": 38747,
-    "forks": 3448,
+    "stars": 38763,
+    "forks": 3452,
     "language": "Python",
-    "updatedAt": "2026-10-23T08:21:45Z",
+    "updatedAt": "2026-10-24T07:42:43Z",
     "license": "MIT License"
   },
   "dub": {
-    "stars": 24926,
+    "stars": 24936,
     "forks": 3336,
     "language": "TypeScript",
-    "updatedAt": "2026-10-23T07:25:27Z",
+    "updatedAt": "2026-10-24T07:03:32Z",
     "license": "Other"
   },
   "excalidraw": {
-    "stars": 134417,
-    "forks": 15800,
+    "stars": 134459,
+    "forks": 15808,
     "language": "TypeScript",
-    "updatedAt": "2026-10-23T08:14:15Z",
+    "updatedAt": "2026-10-24T07:31:18Z",
     "license": "MIT License"
   },
   "expo-skills": {
-    "stars": 2989,
+    "stars": 3000,
     "forks": 195,
     "language": "Shell",
-    "updatedAt": "2026-10-23T08:21:26Z",
+    "updatedAt": "2026-10-24T03:49:42Z",
     "license": "MIT License"
   },
   "google-adk": {
-    "stars": 21975,
-    "forks": 4218,
+    "stars": 21983,
+    "forks": 4225,
     "language": "Python",
-    "updatedAt": "2026-10-23T07:18:29Z",
+    "updatedAt": "2026-10-24T06:34:33Z",
     "license": "Apache License 2.0"
   },
   "google-stitch-skills": {
-    "stars": 8543,
-    "forks": 1048,
+    "stars": 8560,
+    "forks": 1051,
     "language": "TypeScript",
-    "updatedAt": "2026-10-23T05:59:17Z",
+    "updatedAt": "2026-10-24T06:45:04Z",
     "license": "Apache License 2.0"
   },
   "goose": {
-    "stars": 55560,
-    "forks": 6428,
+    "stars": 55613,
+    "forks": 6435,
     "language": "Rust",
-    "updatedAt": "2026-10-23T07:56:43Z",
+    "updatedAt": "2026-10-24T07:52:20Z",
     "license": "Apache License 2.0"
   },
   "haystack": {
-    "stars": 26816,
-    "forks": 3328,
+    "stars": 26821,
+    "forks": 3333,
     "language": "Python",
-    "updatedAt": "2026-10-23T07:51:31Z",
+    "updatedAt": "2026-10-24T07:40:28Z",
     "license": "Apache License 2.0"
   },
   "hoppscotch": {
-    "stars": 80680,
-    "forks": 6176,
+    "stars": 80678,
+    "forks": 6178,
     "language": "TypeScript",
-    "updatedAt": "2026-10-23T08:13:35Z",
+    "updatedAt": "2026-10-24T07:44:07Z",
     "license": "MIT License"
   },
   "immich": {
-    "stars": 116971,
-    "forks": 7310,
+    "stars": 117047,
+    "forks": 7324,
     "language": "TypeScript",
-    "updatedAt": "2026-10-23T08:15:37Z",
+    "updatedAt": "2026-10-24T07:48:14Z",
     "license": "GNU Affero General Public License v3.0"
   },
   "jeffallan-claude-skills": {
-    "stars": 12016,
+    "stars": 12032,
     "forks": 1151,
     "language": "Python",
-    "updatedAt": "2026-10-23T07:23:26Z",
+    "updatedAt": "2026-10-24T07:45:18Z",
     "license": "MIT License"
   },
   "kotlin-agent-skills": {
-    "stars": 1090,
+    "stars": 1091,
     "forks": 43,
     "language": "Shell",
-    "updatedAt": "2026-10-21T03:45:42Z",
+    "updatedAt": "2026-10-23T17:25:21Z",
     "license": "Apache License 2.0"
   },
   "langflow": {
-    "stars": 155946,
-    "forks": 10241,
+    "stars": 155975,
+    "forks": 10242,
     "language": "Python",
-    "updatedAt": "2026-10-23T08:03:02Z",
+    "updatedAt": "2026-10-24T07:16:28Z",
     "license": "MIT License"
   },
   "langgraph": {
-    "stars": 43764,
-    "forks": 7508,
+    "stars": 43804,
+    "forks": 7521,
     "language": "Python",
-    "updatedAt": "2026-10-23T08:02:16Z",
+    "updatedAt": "2026-10-24T07:46:43Z",
     "license": "MIT License"
   },
   "letta": {
-    "stars": 25234,
-    "forks": 2654,
+    "stars": 25242,
+    "forks": 2655,
     "language": null,
-    "updatedAt": "2026-10-23T04:50:24Z",
+    "updatedAt": "2026-10-24T06:41:47Z",
     "license": "Apache License 2.0"
   },
   "llamaindex": {
-    "stars": 52633,
-    "forks": 8417,
+    "stars": 52641,
+    "forks": 8421,
     "language": "Python",
-    "updatedAt": "2026-10-23T08:01:49Z",
+    "updatedAt": "2026-10-24T06:59:09Z",
     "license": "MIT License"
   },
   "mastra": {
-    "stars": 29028,
-    "forks": 3035,
+    "stars": 29042,
+    "forks": 3039,
     "language": "TypeScript",
-    "updatedAt": "2026-10-23T08:15:18Z",
+    "updatedAt": "2026-10-24T07:15:51Z",
     "license": "Other"
   },
   "matt-pocock-skills": {
-    "stars": 301231,
-    "forks": 25321,
+    "stars": 302010,
+    "forks": 25395,
     "language": "Shell",
-    "updatedAt": "2026-10-23T08:21:48Z",
+    "updatedAt": "2026-10-24T07:58:03Z",
     "license": "MIT License"
   },
   "microsoft-agent-framework": {
-    "stars": 14284,
-    "forks": 2502,
+    "stars": 14299,
+    "forks": 2507,
     "language": "Python",
-    "updatedAt": "2026-10-23T07:48:56Z",
+    "updatedAt": "2026-10-24T07:12:13Z",
     "license": "MIT License"
   },
   "obsidian-skills": {
-    "stars": 49953,
-    "forks": 3534,
+    "stars": 49993,
+    "forks": 3536,
     "language": null,
-    "updatedAt": "2026-10-23T08:01:51Z",
+    "updatedAt": "2026-10-24T07:40:08Z",
     "license": "MIT License"
   },
   "open-interpreter": {
-    "stars": 68638,
+    "stars": 68652,
     "forks": 5907,
     "language": "Rust",
-    "updatedAt": "2026-10-23T07:46:02Z",
+    "updatedAt": "2026-10-24T06:42:13Z",
     "license": "Apache License 2.0"
   },
   "open-webui": {
-    "stars": 156524,
-    "forks": 22780,
+    "stars": 156612,
+    "forks": 22792,
     "language": "Python",
-    "updatedAt": "2026-10-23T08:18:56Z",
+    "updatedAt": "2026-10-24T07:43:41Z",
     "license": "Other"
   },
   "openai-agents-sdk-skills": {
-    "stars": 7551,
+    "stars": 7567,
     "forks": 965,
     "language": "JavaScript",
-    "updatedAt": "2026-10-23T03:32:20Z",
+    "updatedAt": "2026-10-24T07:16:53Z",
     "license": null
   },
   "openhands": {
-    "stars": 91612,
-    "forks": 12162,
+    "stars": 91699,
+    "forks": 12166,
     "language": "TypeScript",
-    "updatedAt": "2026-10-23T08:19:11Z",
+    "updatedAt": "2026-10-24T07:57:22Z",
     "license": "MIT License"
   },
   "openskills": {
-    "stars": 10807,
+    "stars": 10806,
     "forks": 668,
     "language": "TypeScript",
-    "updatedAt": "2026-10-23T03:09:56Z",
+    "updatedAt": "2026-10-24T04:56:03Z",
     "license": "Other"
   },
   "penpot": {
-    "stars": 61523,
-    "forks": 4263,
+    "stars": 61566,
+    "forks": 4265,
     "language": "Clojure",
-    "updatedAt": "2026-10-23T08:16:18Z",
+    "updatedAt": "2026-10-24T07:57:16Z",
     "license": "Mozilla Public License 2.0"
   },
   "plane": {
-    "stars": 61322,
-    "forks": 6157,
+    "stars": 61353,
+    "forks": 6166,
     "language": "TypeScript",
-    "updatedAt": "2026-10-23T08:21:22Z",
+    "updatedAt": "2026-10-24T07:57:05Z",
     "license": "GNU Affero General Public License v3.0"
   },
   "pocketbase": {
-    "stars": 61553,
-    "forks": 3737,
+    "stars": 61573,
+    "forks": 3738,
     "language": "Go",
-    "updatedAt": "2026-10-23T07:37:16Z",
+    "updatedAt": "2026-10-24T07:58:07Z",
     "license": "MIT License"
   },
   "pydantic-ai": {
-    "stars": 20807,
-    "forks": 3001,
+    "stars": 20826,
+    "forks": 3011,
     "language": "Python",
-    "updatedAt": "2026-10-23T07:59:15Z",
+    "updatedAt": "2026-10-24T07:12:16Z",
     "license": "MIT License"
   },
   "refly": {
-    "stars": 7536,
+    "stars": 7537,
     "forks": 728,
     "language": "TypeScript",
-    "updatedAt": "2026-10-23T07:17:53Z",
+    "updatedAt": "2026-10-23T16:07:05Z",
     "license": "Other"
   },
   "remotion-agent-skills": {
-    "stars": 5551,
-    "forks": 617,
+    "stars": 5587,
+    "forks": 621,
     "language": "TypeScript",
-    "updatedAt": "2026-10-23T08:21:28Z",
+    "updatedAt": "2026-10-24T07:12:19Z",
     "license": null
   },
   "scientific-agent-skills": {
-    "stars": 54009,
-    "forks": 4766,
+    "stars": 54318,
+    "forks": 4787,
     "language": "Python",
-    "updatedAt": "2026-10-23T08:23:44Z",
+    "updatedAt": "2026-10-24T07:57:24Z",
     "license": "MIT License"
   },
   "smolagents": {
-    "stars": 30002,
-    "forks": 3131,
+    "stars": 30018,
+    "forks": 3134,
     "language": "Python",
-    "updatedAt": "2026-10-23T08:21:21Z",
+    "updatedAt": "2026-10-24T04:23:44Z",
     "license": "Apache License 2.0"
   },
   "strands-agents": {
-    "stars": 8929,
-    "forks": 1416,
+    "stars": 8935,
+    "forks": 1422,
     "language": "Python",
-    "updatedAt": "2026-10-23T06:54:53Z",
+    "updatedAt": "2026-10-23T23:06:02Z",
     "license": "Apache License 2.0"
   },
   "stripe-ai": {
     "stars": 1966,
     "forks": 375,
     "language": "TypeScript",
-    "updatedAt": "2026-10-23T06:03:33Z",
+    "updatedAt": "2026-10-24T00:44:32Z",
     "license": "MIT License"
   },
   "supabase-agent-skills": {
-    "stars": 2911,
+    "stars": 2918,
     "forks": 253,
     "language": "TypeScript",
-    "updatedAt": "2026-10-23T08:14:50Z",
+    "updatedAt": "2026-10-24T03:49:58Z",
     "license": "MIT License"
   },
   "superpowers": {
-    "stars": 303902,
-    "forks": 27070,
+    "stars": 304364,
+    "forks": 27109,
     "language": "Shell",
-    "updatedAt": "2026-10-23T08:21:41Z",
+    "updatedAt": "2026-10-24T08:00:07Z",
     "license": "MIT License"
   },
   "swe-agent": {
-    "stars": 20620,
-    "forks": 2261,
+    "stars": 20629,
+    "forks": 2263,
     "language": "Python",
-    "updatedAt": "2026-10-23T06:44:12Z",
+    "updatedAt": "2026-10-24T06:07:47Z",
     "license": "MIT License"
   },
   "umami": {
-    "stars": 39575,
-    "forks": 8372,
+    "stars": 39611,
+    "forks": 8389,
     "language": "TypeScript",
-    "updatedAt": "2026-10-23T08:09:57Z",
+    "updatedAt": "2026-10-24T07:38:16Z",
     "license": "MIT License"
   },
   "vercel-agent-skills": {
-    "stars": 32856,
-    "forks": 2872,
+    "stars": 32920,
+    "forks": 2880,
     "language": "JavaScript",
-    "updatedAt": "2026-10-23T08:21:36Z",
+    "updatedAt": "2026-10-24T07:47:30Z",
     "license": null
   },
   "agentic-awesome-skills": {
-    "stars": 48356,
-    "forks": 7036,
+    "stars": 48423,
+    "forks": 7037,
     "language": "Python",
-    "updatedAt": "2026-10-23T08:18:26Z",
+    "updatedAt": "2026-10-24T07:51:36Z",
     "license": "MIT License"
   },
   "awesome-github-copilot": {
-    "stars": 40337,
-    "forks": 5199,
+    "stars": 40364,
+    "forks": 5207,
     "language": "JavaScript",
-    "updatedAt": "2026-10-23T08:12:21Z",
+    "updatedAt": "2026-10-24T07:38:43Z",
     "license": "MIT License"
   },
   "azmym-agent-skills": {
@@ -427,10 +427,10 @@
     "license": "MIT License"
   },
   "developersglobal-ai-agent-skills": {
-    "stars": 212,
+    "stars": 213,
     "forks": 33,
     "language": "Python",
-    "updatedAt": "2026-10-23T04:07:18Z",
+    "updatedAt": "2026-10-23T08:37:15Z",
     "license": "MIT License"
   },
   "emmraan-agent-skills": {
@@ -462,17 +462,17 @@
     "license": "MIT License"
   },
   "microsoft-agent-skills": {
-    "stars": 3141,
+    "stars": 3144,
     "forks": 354,
     "language": "TypeScript",
-    "updatedAt": "2026-10-23T08:22:54Z",
+    "updatedAt": "2026-10-23T16:58:33Z",
     "license": "MIT License"
   },
   "moizibnyousaf-ai-agent-skills": {
-    "stars": 1152,
-    "forks": 134,
+    "stars": 1153,
+    "forks": 135,
     "language": "JavaScript",
-    "updatedAt": "2026-10-20T08:53:41Z",
+    "updatedAt": "2026-10-23T09:08:09Z",
     "license": "MIT License"
   },
   "nikoxkx-agent-skills": {
@@ -486,14 +486,14 @@
     "stars": 6,
     "forks": 6,
     "language": "Python",
-    "updatedAt": "2026-10-23T00:05:11Z",
+    "updatedAt": "2026-10-24T00:06:46Z",
     "license": "Apache License 2.0"
   },
   "openai-skills": {
-    "stars": 28263,
-    "forks": 1948,
+    "stars": 28274,
+    "forks": 1952,
     "language": "Python",
-    "updatedAt": "2026-10-23T08:21:39Z",
+    "updatedAt": "2026-10-24T07:11:32Z",
     "license": null
   },
   "plexo": {
@@ -511,10 +511,10 @@
     "license": null
   },
   "rivet-skills": {
-    "stars": 41,
+    "stars": 42,
     "forks": 10,
     "language": "TypeScript",
-    "updatedAt": "2026-10-22T22:01:49Z",
+    "updatedAt": "2026-10-24T02:31:46Z",
     "license": null
   },
   "shengyy-agent-skills": {
@@ -525,10 +525,10 @@
     "license": "MIT License"
   },
   "unifapi-agent-skills": {
-    "stars": 598,
+    "stars": 599,
     "forks": 116,
     "language": "JavaScript",
-    "updatedAt": "2026-10-22T17:46:10Z",
+    "updatedAt": "2026-10-23T19:30:26Z",
     "license": "MIT License"
   },
   "whobat-ai-agent-skills": {
@@ -539,59 +539,59 @@
     "license": "MIT License"
   },
   "666ghj-mirofish": {
-    "stars": 81363,
-    "forks": 12325,
+    "stars": 81586,
+    "forks": 12352,
     "language": "Python",
-    "updatedAt": "2026-10-23T08:18:25Z",
+    "updatedAt": "2026-10-24T07:52:40Z",
     "license": "GNU Affero General Public License v3.0"
   },
   "activepieces-activepieces": {
-    "stars": 25178,
-    "forks": 4383,
+    "stars": 25196,
+    "forks": 4385,
     "language": "TypeScript",
-    "updatedAt": "2026-10-23T08:21:19Z",
+    "updatedAt": "2026-10-24T07:31:32Z",
     "license": "Other"
   },
   "ag2ai-ag2": {
-    "stars": 5011,
-    "forks": 754,
+    "stars": 5014,
+    "forks": 757,
     "language": "Python",
-    "updatedAt": "2026-10-22T21:11:38Z",
+    "updatedAt": "2026-10-24T06:38:17Z",
     "license": "Apache License 2.0"
   },
   "agent-field-agentfield": {
-    "stars": 2616,
+    "stars": 2617,
     "forks": 433,
     "language": "Go",
-    "updatedAt": "2026-10-23T03:36:38Z",
+    "updatedAt": "2026-10-24T06:37:43Z",
     "license": "Apache License 2.0"
   },
   "agentscope-ai-agentscope": {
-    "stars": 33720,
-    "forks": 3705,
+    "stars": 33797,
+    "forks": 3713,
     "language": "Python",
-    "updatedAt": "2026-10-23T08:18:03Z",
+    "updatedAt": "2026-10-24T07:29:17Z",
     "license": "Apache License 2.0"
   },
   "agentscope-ai-qwenpaw": {
-    "stars": 35988,
-    "forks": 3201,
+    "stars": 36029,
+    "forks": 3203,
     "language": "Python",
-    "updatedAt": "2026-10-23T08:18:02Z",
+    "updatedAt": "2026-10-24T07:22:07Z",
     "license": "Apache License 2.0"
   },
   "ahmadvh-octochains": {
-    "stars": 378,
+    "stars": 377,
     "forks": 157,
     "language": "Python",
-    "updatedAt": "2026-10-22T12:52:38Z",
+    "updatedAt": "2026-10-23T23:02:17Z",
     "license": "Other"
   },
   "aider-ai-aider": {
-    "stars": 49706,
-    "forks": 5100,
+    "stars": 49730,
+    "forks": 5102,
     "language": "Python",
-    "updatedAt": "2026-10-23T07:42:30Z",
+    "updatedAt": "2026-10-24T06:05:32Z",
     "license": "Apache License 2.0"
   },
   "all-hands-ai-openhands-cli": {
@@ -602,192 +602,192 @@
     "license": "MIT License"
   },
   "anthropics-claude-agent-sdk-python": {
-    "stars": 8338,
-    "forks": 1370,
+    "stars": 8341,
+    "forks": 1372,
     "language": "Python",
-    "updatedAt": "2026-10-23T08:09:24Z",
+    "updatedAt": "2026-10-24T04:59:22Z",
     "license": "MIT License"
   },
   "anthropics-claude-agent-sdk-typescript": {
-    "stars": 1830,
-    "forks": 240,
+    "stars": 1831,
+    "forks": 241,
     "language": "Shell",
-    "updatedAt": "2026-10-22T22:18:35Z",
+    "updatedAt": "2026-10-24T03:00:03Z",
     "license": null
   },
   "atomicbot-ai-atomic-agent": {
-    "stars": 3425,
-    "forks": 273,
+    "stars": 3441,
+    "forks": 275,
     "language": "TypeScript",
-    "updatedAt": "2026-10-23T06:15:46Z",
+    "updatedAt": "2026-10-24T07:20:31Z",
     "license": "MIT License"
   },
   "automatisch-automatisch": {
-    "stars": 14000,
-    "forks": 1060,
+    "stars": 13999,
+    "forks": 1059,
     "language": "JavaScript",
-    "updatedAt": "2026-10-23T06:24:08Z",
+    "updatedAt": "2026-10-23T22:55:59Z",
     "license": "Other"
   },
   "browser-use-browser-use": {
-    "stars": 118929,
-    "forks": 13208,
+    "stars": 119002,
+    "forks": 13218,
     "language": "Python",
-    "updatedAt": "2026-10-23T08:16:15Z",
+    "updatedAt": "2026-10-24T07:54:10Z",
     "license": "MIT License"
   },
   "browseros-ai-browseros": {
-    "stars": 14067,
+    "stars": 14082,
     "forks": 1509,
     "language": "TypeScript",
-    "updatedAt": "2026-10-23T08:21:31Z",
+    "updatedAt": "2026-10-24T05:10:54Z",
     "license": "GNU Affero General Public License v3.0"
   },
   "bytedance-deer-flow": {
-    "stars": 84307,
-    "forks": 11791,
+    "stars": 84349,
+    "forks": 11799,
     "language": "Python",
-    "updatedAt": "2026-10-23T08:09:01Z",
+    "updatedAt": "2026-10-24T07:33:48Z",
     "license": "MIT License"
   },
   "camel-ai-camel": {
-    "stars": 17956,
-    "forks": 2122,
+    "stars": 17962,
+    "forks": 2121,
     "language": "Python",
-    "updatedAt": "2026-10-23T08:00:10Z",
+    "updatedAt": "2026-10-24T06:54:19Z",
     "license": "Apache License 2.0"
   },
   "chroma-core-chroma": {
-    "stars": 29561,
-    "forks": 2586,
+    "stars": 29570,
+    "forks": 2597,
     "language": "Rust",
-    "updatedAt": "2026-10-23T08:04:21Z",
+    "updatedAt": "2026-10-24T03:20:18Z",
     "license": "Apache License 2.0"
   },
   "clacky-ai-openclacky": {
     "stars": 1208,
     "forks": 112,
     "language": "Ruby",
-    "updatedAt": "2026-10-23T07:53:34Z",
+    "updatedAt": "2026-10-23T09:11:51Z",
     "license": "MIT License"
   },
   "composiohq-composio": {
-    "stars": 30694,
-    "forks": 4892,
+    "stars": 30713,
+    "forks": 4895,
     "language": "TypeScript",
-    "updatedAt": "2026-10-23T06:53:37Z",
+    "updatedAt": "2026-10-24T07:41:28Z",
     "license": "MIT License"
   },
   "composiohq-trustclaw": {
-    "stars": 902,
+    "stars": 901,
     "forks": 209,
     "language": "TypeScript",
-    "updatedAt": "2026-10-22T16:20:08Z",
+    "updatedAt": "2026-10-23T23:12:12Z",
     "license": "MIT License"
   },
   "copilotkit-copilotkit": {
-    "stars": 38187,
-    "forks": 4759,
+    "stars": 38200,
+    "forks": 4768,
     "language": "TypeScript",
-    "updatedAt": "2026-10-23T08:13:48Z",
+    "updatedAt": "2026-10-24T07:39:30Z",
     "license": "MIT License"
   },
   "cosmicstack-labs-mercury-agent": {
-    "stars": 3441,
+    "stars": 3444,
     "forks": 355,
     "language": "TypeScript",
-    "updatedAt": "2026-10-23T06:42:52Z",
+    "updatedAt": "2026-10-24T07:55:21Z",
     "license": "MIT License"
   },
   "daytonaio-daytona": {
-    "stars": 71503,
-    "forks": 5637,
+    "stars": 71498,
+    "forks": 5638,
     "language": null,
-    "updatedAt": "2026-10-23T08:05:49Z",
+    "updatedAt": "2026-10-24T04:28:02Z",
     "license": null
   },
   "deepseek-ai-deepseek-harness": {
-    "stars": 258690,
-    "forks": 31216,
+    "stars": 259838,
+    "forks": 31378,
     "language": "TypeScript",
-    "updatedAt": "2026-10-23T08:21:41Z",
+    "updatedAt": "2026-10-24T07:58:13Z",
     "license": "MIT License"
   },
   "desplega-ai-agent-swarm": {
-    "stars": 930,
-    "forks": 130,
+    "stars": 932,
+    "forks": 131,
     "language": "TypeScript",
-    "updatedAt": "2026-10-23T07:31:02Z",
+    "updatedAt": "2026-10-24T07:22:57Z",
     "license": "MIT License"
   },
   "dimensionalos-dimos": {
-    "stars": 4683,
-    "forks": 834,
+    "stars": 4682,
+    "forks": 833,
     "language": "Python",
-    "updatedAt": "2026-10-23T06:33:05Z",
+    "updatedAt": "2026-10-24T06:05:58Z",
     "license": "Other"
   },
   "e2b-dev-e2b": {
-    "stars": 14514,
-    "forks": 1130,
+    "stars": 14525,
+    "forks": 1132,
     "language": "Python",
-    "updatedAt": "2026-10-23T06:39:13Z",
+    "updatedAt": "2026-10-24T07:15:53Z",
     "license": "Apache License 2.0"
   },
   "earendil-works-pi": {
-    "stars": 117311,
-    "forks": 14987,
+    "stars": 117493,
+    "forks": 15027,
     "language": "TypeScript",
-    "updatedAt": "2026-10-23T08:16:27Z",
+    "updatedAt": "2026-10-24T07:54:06Z",
     "license": "MIT License"
   },
   "facebookresearch-faiss": {
-    "stars": 41193,
-    "forks": 4567,
+    "stars": 41199,
+    "forks": 4568,
     "language": "C++",
-    "updatedAt": "2026-10-23T06:00:27Z",
+    "updatedAt": "2026-10-24T01:29:29Z",
     "license": "MIT License"
   },
   "foundationagents-metagpt": {
-    "stars": 70978,
-    "forks": 9039,
+    "stars": 71003,
+    "forks": 9041,
     "language": "Python",
-    "updatedAt": "2026-10-23T07:29:50Z",
+    "updatedAt": "2026-10-24T07:36:18Z",
     "license": "MIT License"
   },
   "gammalabtechnologies-harmonist": {
-    "stars": 2254,
+    "stars": 2255,
     "forks": 209,
     "language": "Python",
-    "updatedAt": "2026-10-22T10:33:49Z",
+    "updatedAt": "2026-10-23T17:33:52Z",
     "license": "MIT License"
   },
   "gcwing-openbitfun": {
-    "stars": 3096,
+    "stars": 3184,
     "forks": 278,
     "language": "Rust",
-    "updatedAt": "2026-10-23T08:16:51Z",
+    "updatedAt": "2026-10-24T07:55:08Z",
     "license": "MIT License"
   },
   "ggml-org-llama.cpp": {
-    "stars": 132090,
-    "forks": 24719,
+    "stars": 132185,
+    "forks": 24752,
     "language": "C++",
-    "updatedAt": "2026-10-23T08:14:26Z",
+    "updatedAt": "2026-10-24T07:56:05Z",
     "license": "MIT License"
   },
   "google-gemini-gemini-cli": {
-    "stars": 107535,
-    "forks": 14753,
+    "stars": 107576,
+    "forks": 14774,
     "language": "TypeScript",
-    "updatedAt": "2026-10-23T08:12:32Z",
+    "updatedAt": "2026-10-24T07:17:31Z",
     "license": "Apache License 2.0"
   },
   "hkuds-nanobot": {
-    "stars": 49296,
+    "stars": 49318,
     "forks": 8672,
     "language": "Python",
-    "updatedAt": "2026-10-23T08:17:12Z",
+    "updatedAt": "2026-10-24T07:38:26Z",
     "license": "MIT License"
   },
   "infiniflow-infinity": {
@@ -798,227 +798,227 @@
     "license": "Apache License 2.0"
   },
   "janhq-jan": {
-    "stars": 45050,
-    "forks": 3109,
+    "stars": 45054,
+    "forks": 3111,
     "language": "Rust",
-    "updatedAt": "2026-10-23T08:08:17Z",
+    "updatedAt": "2026-10-24T07:16:01Z",
     "license": "Other"
   },
   "jgravelle-autogroq": {
     "stars": 1508,
-    "forks": 441,
+    "forks": 440,
     "language": "Python",
     "updatedAt": "2026-10-21T00:39:04Z",
     "license": null
   },
   "kestra-io-kestra": {
-    "stars": 29952,
-    "forks": 3464,
+    "stars": 29966,
+    "forks": 3467,
     "language": "Java",
-    "updatedAt": "2026-10-23T08:20:56Z",
+    "updatedAt": "2026-10-24T07:04:22Z",
     "license": "Apache License 2.0"
   },
   "lancedb-lancedb": {
-    "stars": 11749,
-    "forks": 1127,
+    "stars": 11757,
+    "forks": 1129,
     "language": "Rust",
-    "updatedAt": "2026-10-23T07:01:18Z",
+    "updatedAt": "2026-10-24T06:47:45Z",
     "license": "Apache License 2.0"
   },
   "langchain-ai-deepagents": {
-    "stars": 30524,
+    "stars": 30541,
     "forks": 4299,
     "language": "Python",
-    "updatedAt": "2026-10-23T08:21:56Z",
+    "updatedAt": "2026-10-24T06:34:26Z",
     "license": "MIT License"
   },
   "langchain-ai-deepagentsjs": {
-    "stars": 1616,
-    "forks": 287,
+    "stars": 1618,
+    "forks": 288,
     "language": "TypeScript",
-    "updatedAt": "2026-10-22T14:01:38Z",
+    "updatedAt": "2026-10-23T23:07:21Z",
     "license": "MIT License"
   },
   "langchain-ai-langchain": {
-    "stars": 148308,
-    "forks": 24894,
+    "stars": 148349,
+    "forks": 24896,
     "language": "Python",
-    "updatedAt": "2026-10-23T08:21:19Z",
+    "updatedAt": "2026-10-24T07:39:43Z",
     "license": "MIT License"
   },
   "langchain-ai-open-swe": {
-    "stars": 11093,
+    "stars": 11097,
     "forks": 1310,
     "language": "Python",
-    "updatedAt": "2026-10-23T06:36:55Z",
+    "updatedAt": "2026-10-24T06:11:49Z",
     "license": "MIT License"
   },
   "letta-ai-letta-code": {
-    "stars": 3691,
-    "forks": 445,
+    "stars": 3699,
+    "forks": 446,
     "language": "TypeScript",
-    "updatedAt": "2026-10-23T07:51:55Z",
+    "updatedAt": "2026-10-24T07:30:49Z",
     "license": "Apache License 2.0"
   },
   "lostruins-koboldcpp": {
-    "stars": 12050,
-    "forks": 797,
+    "stars": 12053,
+    "forks": 796,
     "language": "C++",
-    "updatedAt": "2026-10-23T06:00:41Z",
+    "updatedAt": "2026-10-24T05:17:06Z",
     "license": "GNU Affero General Public License v3.0"
   },
   "lsdefine-genericagent": {
-    "stars": 14343,
+    "stars": 14341,
     "forks": 1667,
     "language": "Python",
-    "updatedAt": "2026-10-23T06:21:08Z",
+    "updatedAt": "2026-10-23T23:09:46Z",
     "license": "MIT License"
   },
   "mcp-use-mcp-use": {
-    "stars": 10801,
-    "forks": 1516,
+    "stars": 10806,
+    "forks": 1518,
     "language": "TypeScript",
-    "updatedAt": "2026-10-23T07:23:20Z",
+    "updatedAt": "2026-10-24T07:23:34Z",
     "license": "MIT License"
   },
   "mem0ai-mem0": {
-    "stars": 67681,
-    "forks": 7991,
+    "stars": 67720,
+    "forks": 8003,
     "language": "Python",
-    "updatedAt": "2026-10-23T08:06:21Z",
+    "updatedAt": "2026-10-24T07:59:27Z",
     "license": "Apache License 2.0"
   },
   "mervinpraison-praisonai": {
-    "stars": 9283,
+    "stars": 9287,
     "forks": 1484,
     "language": "Python",
-    "updatedAt": "2026-10-23T07:43:37Z",
+    "updatedAt": "2026-10-24T07:59:20Z",
     "license": "MIT License"
   },
   "microsoft-autogen": {
-    "stars": 61534,
-    "forks": 9310,
+    "stars": 61546,
+    "forks": 9311,
     "language": "Python",
-    "updatedAt": "2026-10-23T07:59:37Z",
+    "updatedAt": "2026-10-24T06:41:31Z",
     "license": "Creative Commons Attribution 4.0 International"
   },
   "microsoft-mcp-for-beginners": {
-    "stars": 17496,
-    "forks": 5662,
+    "stars": 17505,
+    "forks": 5663,
     "language": "Jupyter Notebook",
-    "updatedAt": "2026-10-23T06:42:34Z",
+    "updatedAt": "2026-10-24T06:03:07Z",
     "license": "MIT License"
   },
   "microsoft-semantic-kernel": {
-    "stars": 28692,
-    "forks": 4835,
+    "stars": 28696,
+    "forks": 4837,
     "language": "C#",
-    "updatedAt": "2026-10-23T03:11:33Z",
+    "updatedAt": "2026-10-23T23:17:08Z",
     "license": "MIT License"
   },
   "milvus-io-milvus": {
-    "stars": 46458,
-    "forks": 4309,
+    "stars": 46464,
+    "forks": 4310,
     "language": "Go",
-    "updatedAt": "2026-10-23T07:21:01Z",
+    "updatedAt": "2026-10-24T05:43:40Z",
     "license": "Apache License 2.0"
   },
   "mintplex-labs-anything-llm": {
-    "stars": 67472,
-    "forks": 7559,
+    "stars": 67500,
+    "forks": 7564,
     "language": "JavaScript",
-    "updatedAt": "2026-10-23T08:22:28Z",
+    "updatedAt": "2026-10-24T07:34:09Z",
     "license": "MIT License"
   },
   "modelcontextprotocol-inspector": {
-    "stars": 11127,
-    "forks": 1548,
+    "stars": 11138,
+    "forks": 1550,
     "language": "TypeScript",
-    "updatedAt": "2026-10-23T06:01:28Z",
+    "updatedAt": "2026-10-24T07:22:46Z",
     "license": "Other"
   },
   "modelcontextprotocol-python-sdk": {
-    "stars": 24649,
-    "forks": 4071,
+    "stars": 24656,
+    "forks": 4074,
     "language": "Python",
-    "updatedAt": "2026-10-23T07:47:25Z",
+    "updatedAt": "2026-10-24T01:31:59Z",
     "license": "MIT License"
   },
   "modelcontextprotocol-servers": {
-    "stars": 91497,
-    "forks": 11845,
+    "stars": 91530,
+    "forks": 11852,
     "language": "TypeScript",
-    "updatedAt": "2026-10-23T07:58:44Z",
+    "updatedAt": "2026-10-24T07:03:58Z",
     "license": "Other"
   },
   "modelcontextprotocol-typescript-sdk": {
     "stars": 13641,
-    "forks": 2330,
+    "forks": 2333,
     "language": "TypeScript",
-    "updatedAt": "2026-10-23T06:01:31Z",
+    "updatedAt": "2026-10-23T23:02:31Z",
     "license": "Other"
   },
   "moonshotai-kimi-code": {
-    "stars": 7968,
-    "forks": 1304,
+    "stars": 7989,
+    "forks": 1307,
     "language": "TypeScript",
-    "updatedAt": "2026-10-23T08:11:34Z",
+    "updatedAt": "2026-10-24T07:33:48Z",
     "license": "MIT License"
   },
   "mozilla-ocho-llamafile": {
-    "stars": 26462,
-    "forks": 1658,
+    "stars": 26475,
+    "forks": 1659,
     "language": "C++",
-    "updatedAt": "2026-10-23T05:16:09Z",
+    "updatedAt": "2026-10-24T07:36:52Z",
     "license": "Other"
   },
   "mudler-localai": {
-    "stars": 49866,
-    "forks": 4533,
+    "stars": 49903,
+    "forks": 4540,
     "language": "Go",
-    "updatedAt": "2026-10-23T08:22:39Z",
+    "updatedAt": "2026-10-24T07:57:59Z",
     "license": "MIT License"
   },
   "n8n-io-n8n": {
-    "stars": 208362,
-    "forks": 61217,
+    "stars": 208445,
+    "forks": 61219,
     "language": "TypeScript",
-    "updatedAt": "2026-10-23T08:23:25Z",
+    "updatedAt": "2026-10-24T07:57:55Z",
     "license": "Other"
   },
   "node-red-node-red": {
-    "stars": 23775,
-    "forks": 3919,
+    "stars": 23778,
+    "forks": 3921,
     "language": "JavaScript",
-    "updatedAt": "2026-10-23T01:34:21Z",
+    "updatedAt": "2026-10-24T07:04:37Z",
     "license": "Apache License 2.0"
   },
   "nousresearch-hermes-agent": {
-    "stars": 256344,
-    "forks": 56008,
+    "stars": 256609,
+    "forks": 56108,
     "language": "Python",
-    "updatedAt": "2026-10-23T08:23:17Z",
+    "updatedAt": "2026-10-24T07:55:17Z",
     "license": "MIT License"
   },
   "ollama-ollama": {
-    "stars": 184395,
-    "forks": 18487,
+    "stars": 184589,
+    "forks": 18536,
     "language": "Go",
-    "updatedAt": "2026-10-23T08:16:22Z",
+    "updatedAt": "2026-10-24T07:56:13Z",
     "license": "MIT License"
   },
   "omnigent-ai-omnigent": {
-    "stars": 10999,
-    "forks": 1795,
+    "stars": 11020,
+    "forks": 1800,
     "language": "Python",
-    "updatedAt": "2026-10-23T08:18:44Z",
+    "updatedAt": "2026-10-24T07:39:01Z",
     "license": "Apache License 2.0"
   },
   "oobabooga-text-generation-webui": {
-    "stars": 47721,
-    "forks": 5986,
+    "stars": 47723,
+    "forks": 5987,
     "language": "Python",
-    "updatedAt": "2026-10-23T08:10:24Z",
+    "updatedAt": "2026-10-24T06:50:40Z",
     "license": "GNU Affero General Public License v3.0"
   },
   "open-webui-pipelines": {
@@ -1029,150 +1029,150 @@
     "license": "MIT License"
   },
   "openai-openai-agents-python": {
-    "stars": 30239,
-    "forks": 4928,
+    "stars": 30250,
+    "forks": 4932,
     "language": "Python",
-    "updatedAt": "2026-10-23T05:19:08Z",
+    "updatedAt": "2026-10-24T07:28:27Z",
     "license": "MIT License"
   },
   "openai-swarm": {
-    "stars": 22070,
-    "forks": 2347,
+    "stars": 22073,
+    "forks": 2345,
     "language": "Python",
-    "updatedAt": "2026-10-23T06:23:52Z",
+    "updatedAt": "2026-10-24T03:35:20Z",
     "license": "MIT License"
   },
   "openclaw-openclaw": {
-    "stars": 392815,
-    "forks": 82567,
+    "stars": 392910,
+    "forks": 82578,
     "language": "TypeScript",
-    "updatedAt": "2026-10-23T08:18:03Z",
+    "updatedAt": "2026-10-24T07:59:11Z",
     "license": "MIT License"
   },
   "openhands-openhands": {
-    "stars": 91612,
-    "forks": 12162,
+    "stars": 91699,
+    "forks": 12166,
     "language": "TypeScript",
-    "updatedAt": "2026-10-23T08:19:11Z",
+    "updatedAt": "2026-10-24T07:57:22Z",
     "license": "MIT License"
   },
   "openhands-software-agent-sdk": {
-    "stars": 1298,
-    "forks": 694,
+    "stars": 1300,
+    "forks": 697,
     "language": "Python",
-    "updatedAt": "2026-10-23T07:15:36Z",
+    "updatedAt": "2026-10-24T05:21:45Z",
     "license": "MIT License"
   },
   "orkas-ai-orkas": {
-    "stars": 2152,
+    "stars": 2163,
     "forks": 95,
     "language": "JavaScript",
-    "updatedAt": "2026-10-23T01:14:39Z",
+    "updatedAt": "2026-10-24T07:25:47Z",
     "license": "MIT License"
   },
   "pgvector-pgvector": {
-    "stars": 23448,
-    "forks": 1360,
+    "stars": 23459,
+    "forks": 1364,
     "language": "C",
-    "updatedAt": "2026-10-23T08:20:37Z",
+    "updatedAt": "2026-10-24T06:12:09Z",
     "license": "Other"
   },
   "prefecthq-fastmcp": {
-    "stars": 28175,
-    "forks": 2501,
+    "stars": 28186,
+    "forks": 2502,
     "language": "Python",
-    "updatedAt": "2026-10-23T07:30:40Z",
+    "updatedAt": "2026-10-24T05:19:51Z",
     "license": "Apache License 2.0"
   },
   "primeintellect-ai-prime-agent": {
-    "stars": 22272,
-    "forks": 2466,
+    "stars": 22300,
+    "forks": 2471,
     "language": "Rust",
-    "updatedAt": "2026-10-23T07:01:28Z",
+    "updatedAt": "2026-10-24T07:01:07Z",
     "license": "Other"
   },
   "pythagora-io-gpt-pilot": {
-    "stars": 33647,
+    "stars": 33645,
     "forks": 3452,
     "language": "Python",
-    "updatedAt": "2026-10-23T02:25:47Z",
+    "updatedAt": "2026-10-23T23:26:31Z",
     "license": "Other"
   },
   "qdrant-qdrant": {
-    "stars": 35204,
-    "forks": 2771,
+    "stars": 35220,
+    "forks": 2772,
     "language": "Rust",
-    "updatedAt": "2026-10-23T08:17:31Z",
+    "updatedAt": "2026-10-24T04:29:46Z",
     "license": "Apache License 2.0"
   },
   "qwenlm-qwen-code": {
-    "stars": 28663,
-    "forks": 3252,
+    "stars": 28685,
+    "forks": 3253,
     "language": "TypeScript",
-    "updatedAt": "2026-10-23T08:12:49Z",
+    "updatedAt": "2026-10-24T07:19:35Z",
     "license": "Apache License 2.0"
   },
   "rasbt-mini-coding-agent": {
     "stars": 1209,
-    "forks": 220,
+    "forks": 219,
     "language": "Python",
     "updatedAt": "2026-10-21T03:24:37Z",
     "license": "Apache License 2.0"
   },
   "ruvnet-ruflo": {
-    "stars": 78585,
-    "forks": 9239,
+    "stars": 78852,
+    "forks": 9258,
     "language": "TypeScript",
-    "updatedAt": "2026-10-23T08:23:10Z",
+    "updatedAt": "2026-10-24T07:58:54Z",
     "license": "MIT License"
   },
   "significant-gravitas-autogpt": {
-    "stars": 187712,
-    "forks": 45905,
+    "stars": 187724,
+    "forks": 45896,
     "language": "Python",
-    "updatedAt": "2026-10-23T06:05:49Z",
+    "updatedAt": "2026-10-24T07:35:49Z",
     "license": "Other"
   },
   "sipeed-picoclaw": {
     "stars": 30075,
-    "forks": 4418,
+    "forks": 4417,
     "language": "Go",
-    "updatedAt": "2026-10-23T06:10:34Z",
+    "updatedAt": "2026-10-24T06:52:27Z",
     "license": "MIT License"
   },
   "sst-opencode": {
-    "stars": 220354,
-    "forks": 29463,
+    "stars": 220847,
+    "forks": 29517,
     "language": "TypeScript",
-    "updatedAt": "2026-10-23T08:24:09Z",
+    "updatedAt": "2026-10-24T07:59:47Z",
     "license": "MIT License"
   },
   "stablyai-orca": {
-    "stars": 103187,
-    "forks": 6520,
+    "stars": 104213,
+    "forks": 6581,
     "language": "TypeScript",
-    "updatedAt": "2026-10-23T08:21:39Z",
+    "updatedAt": "2026-10-24T08:00:18Z",
     "license": "MIT License"
   },
   "strands-agents-harness-sdk": {
-    "stars": 8929,
-    "forks": 1416,
+    "stars": 8935,
+    "forks": 1422,
     "language": "Python",
-    "updatedAt": "2026-10-23T06:54:53Z",
+    "updatedAt": "2026-10-23T23:06:02Z",
     "license": "Apache License 2.0"
   },
   "supercorp-ai-supergateway": {
     "stars": 2926,
     "forks": 261,
     "language": "TypeScript",
-    "updatedAt": "2026-10-22T23:08:49Z",
+    "updatedAt": "2026-10-23T23:03:47Z",
     "license": "MIT License"
   },
   "swe-agent-swe-agent": {
-    "stars": 20620,
-    "forks": 2261,
+    "stars": 20629,
+    "forks": 2263,
     "language": "Python",
-    "updatedAt": "2026-10-23T06:44:12Z",
+    "updatedAt": "2026-10-24T06:07:47Z",
     "license": "MIT License"
   },
   "swe-gym-swe-gym": {
@@ -1183,94 +1183,94 @@
     "license": "Apache License 2.0"
   },
   "tinyhumansai-openhuman": {
-    "stars": 42239,
-    "forks": 4172,
+    "stars": 42282,
+    "forks": 4175,
     "language": "Rust",
-    "updatedAt": "2026-10-23T07:09:55Z",
+    "updatedAt": "2026-10-24T07:59:32Z",
     "license": "GNU General Public License v3.0"
   },
   "topoteretes-cognee": {
-    "stars": 32688,
-    "forks": 3407,
+    "stars": 32711,
+    "forks": 3411,
     "language": "Python",
-    "updatedAt": "2026-10-23T08:22:13Z",
+    "updatedAt": "2026-10-24T07:56:20Z",
     "license": "Apache License 2.0"
   },
   "truefoundry-trueforge": {
-    "stars": 6345,
-    "forks": 534,
+    "stars": 6351,
+    "forks": 536,
     "language": "TypeScript",
-    "updatedAt": "2026-10-23T07:26:49Z",
+    "updatedAt": "2026-10-24T07:54:59Z",
     "license": "MIT License"
   },
   "vespa-engine-vespa": {
-    "stars": 7143,
-    "forks": 748,
+    "stars": 7144,
+    "forks": 749,
     "language": "Java",
-    "updatedAt": "2026-10-23T06:53:56Z",
+    "updatedAt": "2026-10-24T06:30:13Z",
     "license": "Apache License 2.0"
   },
   "vllm-project-vllm": {
-    "stars": 95198,
-    "forks": 23831,
+    "stars": 95270,
+    "forks": 23871,
     "language": "Python",
-    "updatedAt": "2026-10-23T08:23:20Z",
+    "updatedAt": "2026-10-24T07:54:57Z",
     "license": "Apache License 2.0"
   },
   "wanxingai-lightagent": {
-    "stars": 1238,
+    "stars": 1237,
     "forks": 177,
     "language": "Python",
-    "updatedAt": "2026-10-21T20:11:53Z",
+    "updatedAt": "2026-10-24T05:25:25Z",
     "license": "Apache License 2.0"
   },
   "weaviate-weaviate": {
-    "stars": 16905,
-    "forks": 1427,
+    "stars": 16908,
+    "forks": 1428,
     "language": "Go",
-    "updatedAt": "2026-10-23T03:18:28Z",
+    "updatedAt": "2026-10-23T22:59:36Z",
     "license": "Other"
   },
   "windmill-labs-windmill": {
-    "stars": 18252,
-    "forks": 1125,
+    "stars": 18257,
+    "forks": 1126,
     "language": "Rust",
-    "updatedAt": "2026-10-23T08:22:53Z",
+    "updatedAt": "2026-10-24T03:42:33Z",
     "license": "Other"
   },
   "xai-org-grok-build": {
-    "stars": 27507,
-    "forks": 5197,
+    "stars": 27522,
+    "forks": 5198,
     "language": "Rust",
-    "updatedAt": "2026-10-23T07:37:34Z",
+    "updatedAt": "2026-10-24T07:49:13Z",
     "license": "Apache License 2.0"
   },
   "xiaomimimo-mimo-code": {
-    "stars": 13702,
-    "forks": 1445,
+    "stars": 13713,
+    "forks": 1444,
     "language": "TypeScript",
-    "updatedAt": "2026-10-23T07:24:44Z",
+    "updatedAt": "2026-10-24T07:28:14Z",
     "license": "MIT License"
   },
   "yc-software-qm": {
-    "stars": 15505,
+    "stars": 15519,
     "forks": 1923,
     "language": "TypeScript",
-    "updatedAt": "2026-10-23T06:36:25Z",
+    "updatedAt": "2026-10-24T06:13:07Z",
     "license": "MIT License"
   },
   "agent-router": {
-    "stars": 2274,
-    "forks": 428,
+    "stars": 2284,
+    "forks": 429,
     "language": "Go",
-    "updatedAt": "2026-10-23T08:00:20Z",
+    "updatedAt": "2026-10-24T06:41:20Z",
     "license": "Apache License 2.0"
   },
   "agentgateway": {
-    "stars": 5513,
-    "forks": 977,
+    "stars": 5533,
+    "forks": 983,
     "language": "Rust",
-    "updatedAt": "2026-10-23T06:52:50Z",
+    "updatedAt": "2026-10-24T06:49:29Z",
     "license": "Apache License 2.0"
   },
   "atlas": {
@@ -1281,31 +1281,31 @@
     "license": "Apache License 2.0"
   },
   "atomic-agents": {
-    "stars": 6291,
-    "forks": 557,
+    "stars": 6299,
+    "forks": 558,
     "language": "Python",
-    "updatedAt": "2026-10-23T02:59:38Z",
+    "updatedAt": "2026-10-24T03:19:32Z",
     "license": "MIT License"
   },
   "axolotl": {
-    "stars": 12617,
-    "forks": 1465,
+    "stars": 12628,
+    "forks": 1466,
     "language": "Python",
-    "updatedAt": "2026-10-23T05:57:09Z",
+    "updatedAt": "2026-10-24T07:24:44Z",
     "license": "Apache License 2.0"
   },
   "bentoml": {
     "stars": 8917,
     "forks": 1050,
     "language": "Python",
-    "updatedAt": "2026-10-23T07:33:16Z",
+    "updatedAt": "2026-10-23T17:47:06Z",
     "license": "Apache License 2.0"
   },
   "bge-m3": {
     "stars": 12270,
-    "forks": 939,
+    "forks": 940,
     "language": "Python",
-    "updatedAt": "2026-10-23T03:23:41Z",
+    "updatedAt": "2026-10-24T05:10:57Z",
     "license": "MIT License"
   },
   "colbert": {
@@ -1316,38 +1316,38 @@
     "license": "MIT License"
   },
   "crawl4ai": {
-    "stars": 86075,
-    "forks": 8946,
+    "stars": 86137,
+    "forks": 8956,
     "language": "Python",
-    "updatedAt": "2026-10-23T08:06:06Z",
+    "updatedAt": "2026-10-24T07:42:13Z",
     "license": "Apache License 2.0"
   },
   "danswer": {
-    "stars": 32889,
-    "forks": 4618,
+    "stars": 32936,
+    "forks": 4627,
     "language": "Python",
-    "updatedAt": "2026-10-23T08:19:37Z",
+    "updatedAt": "2026-10-24T07:40:19Z",
     "license": "Other"
   },
   "deepeval": {
-    "stars": 19055,
-    "forks": 2120,
+    "stars": 19072,
+    "forks": 2129,
     "language": "Python",
-    "updatedAt": "2026-10-23T08:14:11Z",
+    "updatedAt": "2026-10-24T07:38:10Z",
     "license": "Apache License 2.0"
   },
   "fastmcp": {
-    "stars": 28175,
-    "forks": 2501,
+    "stars": 28186,
+    "forks": 2502,
     "language": "Python",
-    "updatedAt": "2026-10-23T07:30:40Z",
+    "updatedAt": "2026-10-24T05:19:51Z",
     "license": "Apache License 2.0"
   },
   "firecrawl": {
-    "stars": 194421,
-    "forks": 10260,
+    "stars": 194767,
+    "forks": 10275,
     "language": "TypeScript",
-    "updatedAt": "2026-10-23T08:09:11Z",
+    "updatedAt": "2026-10-24T07:52:35Z",
     "license": "GNU Affero General Public License v3.0"
   },
   "freeport": {
@@ -1358,17 +1358,17 @@
     "license": "MIT License"
   },
   "giskard": {
-    "stars": 5918,
+    "stars": 5919,
     "forks": 552,
     "language": "Python",
-    "updatedAt": "2026-10-23T01:58:48Z",
+    "updatedAt": "2026-10-24T00:38:21Z",
     "license": "Apache License 2.0"
   },
   "graphrag": {
-    "stars": 36419,
-    "forks": 3865,
+    "stars": 36429,
+    "forks": 3867,
     "language": "Python",
-    "updatedAt": "2026-10-23T07:55:28Z",
+    "updatedAt": "2026-10-24T04:21:55Z",
     "license": "MIT License"
   },
   "grok-cli-superagent": {
@@ -1393,17 +1393,17 @@
     "license": "MIT License"
   },
   "guardrails": {
-    "stars": 7556,
+    "stars": 7558,
     "forks": 729,
     "language": "Python",
-    "updatedAt": "2026-10-22T20:28:02Z",
+    "updatedAt": "2026-10-24T03:50:05Z",
     "license": "Apache License 2.0"
   },
   "helicone": {
-    "stars": 6233,
-    "forks": 688,
+    "stars": 6235,
+    "forks": 689,
     "language": "TypeScript",
-    "updatedAt": "2026-10-22T16:58:14Z",
+    "updatedAt": "2026-10-24T04:29:20Z",
     "license": "Apache License 2.0"
   },
   "inference-gateway": {
@@ -1421,24 +1421,24 @@
     "license": "MIT License"
   },
   "instructor": {
-    "stars": 14053,
-    "forks": 1335,
+    "stars": 14058,
+    "forks": 1337,
     "language": "Python",
-    "updatedAt": "2026-10-23T05:53:52Z",
+    "updatedAt": "2026-10-24T07:53:01Z",
     "license": "MIT License"
   },
   "kserve": {
-    "stars": 6145,
-    "forks": 1748,
+    "stars": 6149,
+    "forks": 1749,
     "language": "Go",
-    "updatedAt": "2026-10-23T06:10:26Z",
+    "updatedAt": "2026-10-23T23:57:26Z",
     "license": "Apache License 2.0"
   },
   "langfuse": {
-    "stars": 36241,
-    "forks": 4052,
+    "stars": 36278,
+    "forks": 4059,
     "language": "TypeScript",
-    "updatedAt": "2026-10-23T08:21:30Z",
+    "updatedAt": "2026-10-24T07:41:34Z",
     "license": "Other"
   },
   "langserve": {
@@ -1449,38 +1449,38 @@
     "license": "Other"
   },
   "lightrag": {
-    "stars": 40286,
-    "forks": 5719,
+    "stars": 40303,
+    "forks": 5720,
     "language": "Python",
-    "updatedAt": "2026-10-23T07:36:03Z",
+    "updatedAt": "2026-10-24T06:50:50Z",
     "license": "MIT License"
   },
   "litellm": {
-    "stars": 61878,
-    "forks": 12591,
+    "stars": 61941,
+    "forks": 12628,
     "language": "Python",
-    "updatedAt": "2026-10-23T08:17:05Z",
+    "updatedAt": "2026-10-24T07:47:41Z",
     "license": "Other"
   },
   "litgpt": {
     "stars": 13725,
-    "forks": 1530,
+    "forks": 1531,
     "language": "Python",
-    "updatedAt": "2026-10-23T03:04:22Z",
+    "updatedAt": "2026-10-23T22:58:06Z",
     "license": "Apache License 2.0"
   },
   "llama-cpp-python": {
-    "stars": 10654,
+    "stars": 10657,
     "forks": 1476,
     "language": "Python",
-    "updatedAt": "2026-10-23T05:56:41Z",
+    "updatedAt": "2026-10-24T07:03:00Z",
     "license": "MIT License"
   },
   "llm-d-router": {
     "stars": 431,
-    "forks": 480,
+    "forks": 481,
     "language": "Go",
-    "updatedAt": "2026-10-23T03:17:38Z",
+    "updatedAt": "2026-10-24T02:26:33Z",
     "license": "Apache License 2.0"
   },
   "llm-gateway": {
@@ -1498,10 +1498,10 @@
     "license": "Apache License 2.0"
   },
   "lmdeploy": {
-    "stars": 8114,
-    "forks": 768,
+    "stars": 8113,
+    "forks": 769,
     "language": "Python",
-    "updatedAt": "2026-10-23T07:28:12Z",
+    "updatedAt": "2026-10-24T06:40:42Z",
     "license": "Apache License 2.0"
   },
   "lunargate": {
@@ -1512,94 +1512,94 @@
     "license": "MIT License"
   },
   "mcp-agent": {
-    "stars": 8574,
+    "stars": 8571,
     "forks": 893,
     "language": "Python",
-    "updatedAt": "2026-10-23T00:04:09Z",
+    "updatedAt": "2026-10-23T23:03:43Z",
     "license": "Apache License 2.0"
   },
   "mcp-proxy": {
-    "stars": 2802,
+    "stars": 2804,
     "forks": 271,
     "language": "Python",
-    "updatedAt": "2026-10-22T16:40:45Z",
+    "updatedAt": "2026-10-23T22:49:39Z",
     "license": "MIT License"
   },
   "microsoft-mcp-gateway": {
-    "stars": 893,
+    "stars": 894,
     "forks": 93,
     "language": "C#",
-    "updatedAt": "2026-10-22T22:17:14Z",
+    "updatedAt": "2026-10-24T00:22:23Z",
     "license": "MIT License"
   },
   "mlflow": {
-    "stars": 28507,
-    "forks": 6502,
+    "stars": 28513,
+    "forks": 6513,
     "language": "Python",
-    "updatedAt": "2026-10-23T08:20:53Z",
+    "updatedAt": "2026-10-24T07:17:06Z",
     "license": "Apache License 2.0"
   },
   "mlx-lm": {
-    "stars": 7446,
-    "forks": 1146,
+    "stars": 7459,
+    "forks": 1149,
     "language": "Python",
-    "updatedAt": "2026-10-23T08:03:27Z",
+    "updatedAt": "2026-10-24T05:01:51Z",
     "license": "MIT License"
   },
   "nano-graphrag": {
-    "stars": 4006,
+    "stars": 4005,
     "forks": 428,
     "language": "Python",
-    "updatedAt": "2026-10-22T06:14:23Z",
+    "updatedAt": "2026-10-24T05:25:40Z",
     "license": "MIT License"
   },
   "nemo-guardrails": {
-    "stars": 7352,
-    "forks": 878,
+    "stars": 7357,
+    "forks": 879,
     "language": "Python",
-    "updatedAt": "2026-10-23T07:37:16Z",
+    "updatedAt": "2026-10-24T04:35:14Z",
     "license": "Other"
   },
   "openllmetry": {
-    "stars": 7500,
-    "forks": 1166,
+    "stars": 7503,
+    "forks": 1167,
     "language": "Python",
-    "updatedAt": "2026-10-22T19:39:33Z",
+    "updatedAt": "2026-10-24T05:27:23Z",
     "license": "Apache License 2.0"
   },
   "opik": {
-    "stars": 22843,
-    "forks": 1885,
+    "stars": 22863,
+    "forks": 1889,
     "language": "Python",
-    "updatedAt": "2026-10-23T08:23:14Z",
+    "updatedAt": "2026-10-24T07:29:18Z",
     "license": "Apache License 2.0"
   },
   "outlines": {
-    "stars": 15970,
+    "stars": 15973,
     "forks": 907,
     "language": "Python",
-    "updatedAt": "2026-10-23T07:06:35Z",
+    "updatedAt": "2026-10-24T04:12:17Z",
     "license": "Apache License 2.0"
   },
   "peft": {
-    "stars": 21840,
-    "forks": 2612,
+    "stars": 21842,
+    "forks": 2615,
     "language": "Python",
-    "updatedAt": "2026-10-23T07:10:23Z",
+    "updatedAt": "2026-10-24T04:44:36Z",
     "license": "Apache License 2.0"
   },
   "phoenix": {
-    "stars": 11961,
-    "forks": 1231,
+    "stars": 11978,
+    "forks": 1233,
     "language": "Python",
-    "updatedAt": "2026-10-23T06:40:01Z",
+    "updatedAt": "2026-10-24T07:08:06Z",
     "license": "Other"
   },
   "portkey-ai-gateway": {
-    "stars": 13257,
+    "stars": 13261,
     "forks": 1354,
     "language": "TypeScript",
-    "updatedAt": "2026-10-23T06:11:31Z",
+    "updatedAt": "2026-10-24T06:47:00Z",
     "license": "MIT License"
   },
   "portway": {
@@ -1610,31 +1610,31 @@
     "license": "Other"
   },
   "promptfoo": {
-    "stars": 26323,
-    "forks": 2556,
+    "stars": 26361,
+    "forks": 2565,
     "language": "TypeScript",
-    "updatedAt": "2026-10-23T08:06:43Z",
+    "updatedAt": "2026-10-24T07:55:26Z",
     "license": "MIT License"
   },
   "ragas": {
-    "stars": 16132,
-    "forks": 1771,
+    "stars": 16138,
+    "forks": 1773,
     "language": "Python",
-    "updatedAt": "2026-10-23T07:26:25Z",
+    "updatedAt": "2026-10-24T06:49:49Z",
     "license": "Apache License 2.0"
   },
   "ragflow": {
-    "stars": 92708,
-    "forks": 11076,
+    "stars": 92782,
+    "forks": 11097,
     "language": "Go",
-    "updatedAt": "2026-10-23T08:23:52Z",
+    "updatedAt": "2026-10-24T06:03:23Z",
     "license": "Apache License 2.0"
   },
   "ray": {
-    "stars": 44109,
-    "forks": 8190,
+    "stars": 44111,
+    "forks": 8191,
     "language": "Python",
-    "updatedAt": "2026-10-23T06:25:26Z",
+    "updatedAt": "2026-10-24T04:20:05Z",
     "license": "Apache License 2.0"
   },
   "routerly": {
@@ -1652,66 +1652,66 @@
     "license": "Apache License 2.0"
   },
   "semantic-router": {
-    "stars": 6249,
-    "forks": 1069,
+    "stars": 6252,
+    "forks": 1068,
     "language": "Go",
-    "updatedAt": "2026-10-23T07:56:09Z",
+    "updatedAt": "2026-10-23T23:31:06Z",
     "license": "Apache License 2.0"
   },
   "sentence-transformers": {
-    "stars": 19212,
-    "forks": 2975,
+    "stars": 19216,
+    "forks": 2976,
     "language": "Python",
-    "updatedAt": "2026-10-23T07:02:25Z",
+    "updatedAt": "2026-10-24T04:54:22Z",
     "license": "Apache License 2.0"
   },
   "sglang": {
-    "stars": 37649,
-    "forks": 9817,
+    "stars": 37689,
+    "forks": 9848,
     "language": "Python",
-    "updatedAt": "2026-10-23T08:22:58Z",
+    "updatedAt": "2026-10-24T07:59:38Z",
     "license": "Apache License 2.0"
   },
   "stagehand": {
-    "stars": 25788,
-    "forks": 1779,
+    "stars": 25794,
+    "forks": 1780,
     "language": "TypeScript",
-    "updatedAt": "2026-10-23T07:46:35Z",
+    "updatedAt": "2026-10-24T06:49:53Z",
     "license": "MIT License"
   },
   "tensorrt-llm": {
-    "stars": 14926,
-    "forks": 2856,
+    "stars": 14934,
+    "forks": 2861,
     "language": "Python",
-    "updatedAt": "2026-10-23T08:23:50Z",
+    "updatedAt": "2026-10-24T07:06:06Z",
     "license": "Other"
   },
   "tensorzero": {
-    "stars": 11710,
+    "stars": 11708,
     "forks": 969,
     "language": "Rust",
-    "updatedAt": "2026-10-21T17:58:45Z",
+    "updatedAt": "2026-10-23T23:01:43Z",
     "license": "Apache License 2.0"
   },
   "text-generation-inference": {
-    "stars": 10881,
+    "stars": 10882,
     "forks": 1288,
     "language": "Python",
-    "updatedAt": "2026-10-21T17:26:00Z",
+    "updatedAt": "2026-10-23T14:43:47Z",
     "license": "Apache License 2.0"
   },
   "triton-inference-server": {
-    "stars": 11108,
-    "forks": 1862,
+    "stars": 11109,
+    "forks": 1863,
     "language": "Python",
-    "updatedAt": "2026-10-23T06:04:07Z",
+    "updatedAt": "2026-10-24T04:20:01Z",
     "license": "BSD 3-Clause \"New\" or \"Revised\" License"
   },
   "trl": {
-    "stars": 19585,
-    "forks": 3092,
+    "stars": 19595,
+    "forks": 3095,
     "language": "Python",
-    "updatedAt": "2026-10-23T08:24:12Z",
+    "updatedAt": "2026-10-24T07:28:59Z",
     "license": "Apache License 2.0"
   },
   "tuenel": {
@@ -1722,24 +1722,24 @@
     "license": "Apache License 2.0"
   },
   "unsloth": {
-    "stars": 78456,
-    "forks": 7269,
+    "stars": 78494,
+    "forks": 7271,
     "language": "Python",
-    "updatedAt": "2026-10-23T08:14:35Z",
+    "updatedAt": "2026-10-24T07:58:00Z",
     "license": "Apache License 2.0"
   },
   "weave": {
     "stars": 1142,
     "forks": 181,
     "language": "Python",
-    "updatedAt": "2026-10-23T00:26:16Z",
+    "updatedAt": "2026-10-23T17:03:14Z",
     "license": "Apache License 2.0"
   },
   "xinference": {
-    "stars": 9624,
-    "forks": 887,
+    "stars": 9625,
+    "forks": 888,
     "language": "Python",
-    "updatedAt": "2026-10-23T06:11:16Z",
+    "updatedAt": "2026-10-24T05:34:26Z",
     "license": "Apache License 2.0"
   },
   "zep": {
@@ -1753,7 +1753,7 @@
     "stars": 73,
     "forks": 11,
     "language": "Shell",
-    "updatedAt": "2026-10-23T02:05:04Z",
+    "updatedAt": "2026-10-24T06:57:33Z",
     "license": "MIT License"
   },
   "actionbook": {
@@ -1764,17 +1764,17 @@
     "license": "Apache License 2.0"
   },
   "aeon": {
-    "stars": 782,
+    "stars": 783,
     "forks": 294,
     "language": "JavaScript",
-    "updatedAt": "2026-10-22T19:06:30Z",
+    "updatedAt": "2026-10-23T14:29:12Z",
     "license": "MIT License"
   },
   "affine": {
-    "stars": 73770,
+    "stars": 73781,
     "forks": 5380,
     "language": "TypeScript",
-    "updatedAt": "2026-10-23T07:26:14Z",
+    "updatedAt": "2026-10-24T07:51:52Z",
     "license": "Other"
   },
   "agent-sdk-go": {
@@ -1785,52 +1785,52 @@
     "license": "Apache License 2.0"
   },
   "agent-teams-ai": {
-    "stars": 2294,
-    "forks": 380,
+    "stars": 2305,
+    "forks": 383,
     "language": "TypeScript",
-    "updatedAt": "2026-10-23T08:21:20Z",
+    "updatedAt": "2026-10-24T07:03:24Z",
     "license": "GNU Affero General Public License v3.0"
   },
   "agentdock": {
-    "stars": 1774,
+    "stars": 1772,
     "forks": 132,
     "language": "MDX",
-    "updatedAt": "2026-10-22T13:45:03Z",
+    "updatedAt": "2026-10-23T23:04:44Z",
     "license": "MIT License"
   },
   "agentlas-os": {
     "stars": 1588,
     "forks": 107,
     "language": "Python",
-    "updatedAt": "2026-10-22T19:36:13Z",
+    "updatedAt": "2026-10-24T03:30:55Z",
     "license": "Apache License 2.0"
   },
   "agentset": {
-    "stars": 2112,
+    "stars": 2111,
     "forks": 188,
     "language": "TypeScript",
-    "updatedAt": "2026-10-21T19:10:09Z",
+    "updatedAt": "2026-10-24T05:19:01Z",
     "license": "MIT License"
   },
   "agentsmesh": {
-    "stars": 2361,
-    "forks": 248,
+    "stars": 2362,
+    "forks": 249,
     "language": "Go",
-    "updatedAt": "2026-10-22T03:08:06Z",
+    "updatedAt": "2026-10-23T17:04:20Z",
     "license": "Other"
   },
   "ailoy": {
     "stars": 155,
     "forks": 7,
     "language": "Rust",
-    "updatedAt": "2026-10-22T12:21:08Z",
+    "updatedAt": "2026-10-23T14:31:13Z",
     "license": "Apache License 2.0"
   },
   "appsmith": {
-    "stars": 41110,
-    "forks": 4816,
+    "stars": 41113,
+    "forks": 4817,
     "language": "TypeScript",
-    "updatedAt": "2026-10-23T06:07:44Z",
+    "updatedAt": "2026-10-24T02:57:35Z",
     "license": "Apache License 2.0"
   },
   "blockagi": {
@@ -1844,56 +1844,56 @@
     "stars": 14964,
     "forks": 2297,
     "language": "TypeScript",
-    "updatedAt": "2026-10-22T15:24:59Z",
+    "updatedAt": "2026-10-23T23:36:54Z",
     "license": "MIT License"
   },
   "busabase": {
-    "stars": 563,
-    "forks": 49,
+    "stars": 574,
+    "forks": 50,
     "language": "TypeScript",
-    "updatedAt": "2026-10-23T08:08:34Z",
+    "updatedAt": "2026-10-24T07:13:08Z",
     "license": "MIT License"
   },
   "cal-com": {
-    "stars": 49213,
-    "forks": 15411,
+    "stars": 49270,
+    "forks": 15422,
     "language": "TypeScript",
-    "updatedAt": "2026-10-23T05:51:46Z",
+    "updatedAt": "2026-10-24T07:27:05Z",
     "license": "MIT License"
   },
   "cal-diy": {
-    "stars": 49213,
-    "forks": 15411,
+    "stars": 49270,
+    "forks": 15422,
     "language": "TypeScript",
-    "updatedAt": "2026-10-23T05:51:46Z",
+    "updatedAt": "2026-10-24T07:27:05Z",
     "license": "MIT License"
   },
   "caprover": {
-    "stars": 15190,
-    "forks": 1007,
+    "stars": 15188,
+    "forks": 1008,
     "language": "TypeScript",
-    "updatedAt": "2026-10-23T04:59:10Z",
+    "updatedAt": "2026-10-24T04:36:59Z",
     "license": "Other"
   },
   "cate": {
-    "stars": 2201,
+    "stars": 2205,
     "forks": 143,
     "language": "TypeScript",
-    "updatedAt": "2026-10-23T06:11:03Z",
+    "updatedAt": "2026-10-23T22:17:21Z",
     "license": "MIT License"
   },
   "caura": {
-    "stars": 508,
-    "forks": 102,
+    "stars": 509,
+    "forks": 103,
     "language": "Python",
-    "updatedAt": "2026-10-23T08:17:07Z",
+    "updatedAt": "2026-10-24T07:01:44Z",
     "license": "Apache License 2.0"
   },
   "claude-engineer": {
-    "stars": 11216,
+    "stars": 11213,
     "forks": 1157,
     "language": "Python",
-    "updatedAt": "2026-10-23T05:54:27Z",
+    "updatedAt": "2026-10-24T07:05:37Z",
     "license": null
   },
   "codealmanac": {
@@ -1904,17 +1904,17 @@
     "license": "Apache License 2.0"
   },
   "compozy": {
-    "stars": 2812,
-    "forks": 181,
+    "stars": 2813,
+    "forks": 182,
     "language": "Go",
-    "updatedAt": "2026-10-23T06:35:22Z",
+    "updatedAt": "2026-10-24T07:43:57Z",
     "license": "MIT License"
   },
   "coolify": {
-    "stars": 63507,
-    "forks": 5715,
+    "stars": 63637,
+    "forks": 5730,
     "language": "PHP",
-    "updatedAt": "2026-10-23T08:21:54Z",
+    "updatedAt": "2026-10-24T07:54:53Z",
     "license": "Apache License 2.0"
   },
   "cordum": {
@@ -1939,45 +1939,45 @@
     "license": "Apache License 2.0"
   },
   "db-gpt": {
-    "stars": 20184,
-    "forks": 2980,
+    "stars": 20187,
+    "forks": 2983,
     "language": "Python",
-    "updatedAt": "2026-10-23T07:41:08Z",
+    "updatedAt": "2026-10-24T06:26:01Z",
     "license": "MIT License"
   },
   "directus": {
-    "stars": 38621,
-    "forks": 4981,
+    "stars": 38631,
+    "forks": 4980,
     "language": "TypeScript",
-    "updatedAt": "2026-10-23T06:20:50Z",
+    "updatedAt": "2026-10-24T06:53:22Z",
     "license": "Other"
   },
   "documenso": {
-    "stars": 15522,
-    "forks": 3390,
+    "stars": 15538,
+    "forks": 3399,
     "language": "TypeScript",
-    "updatedAt": "2026-10-23T04:17:21Z",
+    "updatedAt": "2026-10-24T07:56:55Z",
     "license": "GNU Affero General Public License v3.0"
   },
   "dokku": {
     "stars": 32202,
-    "forks": 2093,
+    "forks": 2094,
     "language": "Go",
-    "updatedAt": "2026-10-23T00:56:17Z",
+    "updatedAt": "2026-10-23T23:23:59Z",
     "license": "MIT License"
   },
   "dorothy": {
-    "stars": 352,
+    "stars": 353,
     "forks": 62,
     "language": "TypeScript",
-    "updatedAt": "2026-10-23T02:10:22Z",
+    "updatedAt": "2026-10-23T21:17:40Z",
     "license": "MIT License"
   },
   "drawdb": {
-    "stars": 40111,
-    "forks": 3333,
+    "stars": 40114,
+    "forks": 3334,
     "language": "JavaScript",
-    "updatedAt": "2026-10-23T02:00:27Z",
+    "updatedAt": "2026-10-24T01:09:16Z",
     "license": "GNU Affero General Public License v3.0"
   },
   "dust": {
@@ -1988,59 +1988,59 @@
     "license": "MIT License"
   },
   "evoagentx": {
-    "stars": 3400,
+    "stars": 3403,
     "forks": 318,
     "language": "Python",
-    "updatedAt": "2026-10-23T07:23:26Z",
+    "updatedAt": "2026-10-24T03:35:40Z",
     "license": "Other"
   },
   "fim-one": {
     "stars": 1586,
     "forks": 178,
     "language": "Python",
-    "updatedAt": "2026-10-23T06:11:06Z",
+    "updatedAt": "2026-10-23T11:52:04Z",
     "license": "Other"
   },
   "firefly-iii": {
-    "stars": 24975,
-    "forks": 2346,
+    "stars": 24978,
+    "forks": 2348,
     "language": "PHP",
-    "updatedAt": "2026-10-23T04:03:16Z",
+    "updatedAt": "2026-10-24T04:06:55Z",
     "license": "GNU Affero General Public License v3.0"
   },
   "flagsmith": {
-    "stars": 6612,
+    "stars": 6613,
     "forks": 591,
     "language": "Python",
-    "updatedAt": "2026-10-23T00:31:41Z",
+    "updatedAt": "2026-10-23T18:32:45Z",
     "license": "BSD 3-Clause \"New\" or \"Revised\" License"
   },
   "formbricks": {
-    "stars": 13138,
-    "forks": 2588,
+    "stars": 13139,
+    "forks": 2591,
     "language": "TypeScript",
-    "updatedAt": "2026-10-23T07:40:05Z",
+    "updatedAt": "2026-10-24T05:58:35Z",
     "license": "Other"
   },
   "ghost": {
-    "stars": 55594,
+    "stars": 55599,
     "forks": 12000,
     "language": "TypeScript",
-    "updatedAt": "2026-10-23T07:03:46Z",
+    "updatedAt": "2026-10-24T05:57:15Z",
     "license": "MIT License"
   },
   "giselle": {
-    "stars": 559,
+    "stars": 558,
     "forks": 123,
     "language": "TypeScript",
-    "updatedAt": "2026-10-22T14:43:11Z",
+    "updatedAt": "2026-10-23T20:30:34Z",
     "license": "Apache License 2.0"
   },
   "glances": {
-    "stars": 33829,
-    "forks": 1838,
+    "stars": 33839,
+    "forks": 1839,
     "language": "Python",
-    "updatedAt": "2026-10-23T06:49:36Z",
+    "updatedAt": "2026-10-24T07:14:44Z",
     "license": "Other"
   },
   "gobii-platform": {
@@ -2051,17 +2051,17 @@
     "license": "MIT License"
   },
   "gpt-researcher": {
-    "stars": 30255,
-    "forks": 4134,
+    "stars": 30272,
+    "forks": 4137,
     "language": "Python",
-    "updatedAt": "2026-10-23T08:20:14Z",
+    "updatedAt": "2026-10-24T07:19:20Z",
     "license": "Apache License 2.0"
   },
   "grafana": {
-    "stars": 77454,
-    "forks": 14842,
+    "stars": 77470,
+    "forks": 14845,
     "language": "TypeScript",
-    "updatedAt": "2026-10-23T08:09:11Z",
+    "updatedAt": "2026-10-24T07:26:05Z",
     "license": "GNU Affero General Public License v3.0"
   },
   "greywall": {
@@ -2072,115 +2072,115 @@
     "license": "Apache License 2.0"
   },
   "growthbook": {
-    "stars": 8526,
-    "forks": 884,
+    "stars": 8527,
+    "forks": 885,
     "language": "TypeScript",
-    "updatedAt": "2026-10-23T02:56:39Z",
+    "updatedAt": "2026-10-23T22:55:41Z",
     "license": "Other"
   },
   "h5i": {
     "stars": 805,
     "forks": 74,
     "language": "Rust",
-    "updatedAt": "2026-10-23T02:25:28Z",
+    "updatedAt": "2026-10-23T21:03:46Z",
     "license": "Apache License 2.0"
   },
   "harness": {
-    "stars": 38676,
-    "forks": 3438,
+    "stars": 38685,
+    "forks": 3440,
     "language": "Go",
-    "updatedAt": "2026-10-23T05:37:18Z",
+    "updatedAt": "2026-10-24T07:35:36Z",
     "license": "Apache License 2.0"
   },
   "hcom": {
-    "stars": 594,
+    "stars": 596,
     "forks": 94,
     "language": "Rust",
-    "updatedAt": "2026-10-23T06:15:44Z",
+    "updatedAt": "2026-10-24T07:57:07Z",
     "license": "MIT License"
   },
   "hive": {
-    "stars": 11119,
-    "forks": 5647,
+    "stars": 11118,
+    "forks": 5643,
     "language": "Python",
-    "updatedAt": "2026-10-23T03:00:06Z",
+    "updatedAt": "2026-10-24T05:37:57Z",
     "license": "Apache License 2.0"
   },
   "homepage": {
-    "stars": 33311,
+    "stars": 33326,
     "forks": 2153,
     "language": "JavaScript",
-    "updatedAt": "2026-10-23T08:16:46Z",
+    "updatedAt": "2026-10-24T06:21:58Z",
     "license": "GNU General Public License v3.0"
   },
   "invisible_playwright": {
-    "stars": 2507,
-    "forks": 269,
+    "stars": 2513,
+    "forks": 270,
     "language": "Python",
-    "updatedAt": "2026-10-23T02:13:26Z",
+    "updatedAt": "2026-10-24T03:17:54Z",
     "license": "MIT License"
   },
   "jellyfin": {
-    "stars": 58419,
-    "forks": 5706,
+    "stars": 58483,
+    "forks": 5709,
     "language": "C#",
-    "updatedAt": "2026-10-23T07:45:55Z",
+    "updatedAt": "2026-10-24T07:41:13Z",
     "license": "GNU General Public License v2.0"
   },
   "joplin": {
-    "stars": 56841,
-    "forks": 6360,
+    "stars": 56854,
+    "forks": 6364,
     "language": "TypeScript",
-    "updatedAt": "2026-10-23T07:49:57Z",
+    "updatedAt": "2026-10-24T07:26:57Z",
     "license": "Other"
   },
   "keystatic": {
-    "stars": 2474,
+    "stars": 2476,
     "forks": 173,
     "language": "TypeScript",
-    "updatedAt": "2026-10-23T07:49:26Z",
+    "updatedAt": "2026-10-23T14:52:05Z",
     "license": "MIT License"
   },
   "khoj": {
-    "stars": 37794,
-    "forks": 2524,
+    "stars": 37803,
+    "forks": 2529,
     "language": "Python",
-    "updatedAt": "2026-10-23T07:07:50Z",
+    "updatedAt": "2026-10-24T07:36:07Z",
     "license": "GNU Affero General Public License v3.0"
   },
   "kotaemon": {
-    "stars": 25827,
+    "stars": 25828,
     "forks": 2165,
     "language": "Python",
-    "updatedAt": "2026-10-23T06:18:55Z",
+    "updatedAt": "2026-10-24T04:59:16Z",
     "license": "Apache License 2.0"
   },
   "librechat": {
-    "stars": 46176,
-    "forks": 9490,
+    "stars": 46238,
+    "forks": 9506,
     "language": "TypeScript",
-    "updatedAt": "2026-10-23T08:08:50Z",
+    "updatedAt": "2026-10-24T07:32:57Z",
     "license": "MIT License"
   },
   "linkwarden": {
-    "stars": 20183,
-    "forks": 875,
+    "stars": 20196,
+    "forks": 878,
     "language": "TypeScript",
-    "updatedAt": "2026-10-23T07:48:47Z",
+    "updatedAt": "2026-10-24T07:39:41Z",
     "license": "GNU Affero General Public License v3.0"
   },
   "lobe-chat": {
-    "stars": 83435,
-    "forks": 16014,
+    "stars": 83457,
+    "forks": 16019,
     "language": "TypeScript",
-    "updatedAt": "2026-10-23T08:17:01Z",
+    "updatedAt": "2026-10-24T07:52:48Z",
     "license": "Other"
   },
   "logseq": {
-    "stars": 45339,
-    "forks": 2842,
+    "stars": 45348,
+    "forks": 2843,
     "language": "Clojure",
-    "updatedAt": "2026-10-23T08:16:46Z",
+    "updatedAt": "2026-10-24T05:50:22Z",
     "license": "GNU Affero General Public License v3.0"
   },
   "loongflow": {
@@ -2198,38 +2198,38 @@
     "license": null
   },
   "medusa": {
-    "stars": 36864,
-    "forks": 5458,
+    "stars": 36902,
+    "forks": 5461,
     "language": "TypeScript",
-    "updatedAt": "2026-10-23T08:22:49Z",
+    "updatedAt": "2026-10-24T07:45:16Z",
     "license": "Other"
   },
   "meilisearch": {
-    "stars": 59639,
-    "forks": 2754,
+    "stars": 59644,
+    "forks": 2755,
     "language": "Rust",
-    "updatedAt": "2026-10-23T07:30:10Z",
+    "updatedAt": "2026-10-24T05:12:33Z",
     "license": "Other"
   },
   "memos": {
-    "stars": 64009,
-    "forks": 4879,
+    "stars": 64031,
+    "forks": 4885,
     "language": "Go",
-    "updatedAt": "2026-10-23T08:19:46Z",
+    "updatedAt": "2026-10-24T05:30:12Z",
     "license": "MIT License"
   },
   "metabase": {
-    "stars": 49808,
-    "forks": 6927,
+    "stars": 49827,
+    "forks": 6928,
     "language": "Clojure",
-    "updatedAt": "2026-10-23T07:46:03Z",
+    "updatedAt": "2026-10-24T07:00:26Z",
     "license": "Other"
   },
   "metagpt": {
-    "stars": 70978,
-    "forks": 9039,
+    "stars": 71003,
+    "forks": 9041,
     "language": "Python",
-    "updatedAt": "2026-10-23T07:29:50Z",
+    "updatedAt": "2026-10-24T07:36:18Z",
     "license": "MIT License"
   },
   "microagents": {
@@ -2240,59 +2240,59 @@
     "license": "MIT License"
   },
   "open-code-review": {
-    "stars": 48113,
-    "forks": 3519,
+    "stars": 48168,
+    "forks": 3526,
     "language": "Go",
-    "updatedAt": "2026-10-23T08:20:54Z",
+    "updatedAt": "2026-10-24T07:46:34Z",
     "license": "Apache License 2.0"
   },
   "openbitfun": {
-    "stars": 3096,
+    "stars": 3184,
     "forks": 278,
     "language": "Rust",
-    "updatedAt": "2026-10-23T08:16:51Z",
+    "updatedAt": "2026-10-24T07:55:08Z",
     "license": "MIT License"
   },
   "opencode": {
-    "stars": 220353,
-    "forks": 29463,
+    "stars": 220847,
+    "forks": 29517,
     "language": "TypeScript",
-    "updatedAt": "2026-10-23T08:19:15Z",
+    "updatedAt": "2026-10-24T07:59:47Z",
     "license": "MIT License"
   },
   "orca-agent": {
-    "stars": 507,
+    "stars": 509,
     "forks": 4,
     "language": "Rust",
-    "updatedAt": "2026-10-22T02:39:40Z",
+    "updatedAt": "2026-10-23T21:41:00Z",
     "license": "MIT License"
   },
   "outline": {
-    "stars": 41031,
-    "forks": 3633,
+    "stars": 41046,
+    "forks": 3636,
     "language": "TypeScript",
-    "updatedAt": "2026-10-23T07:22:42Z",
+    "updatedAt": "2026-10-24T07:45:42Z",
     "license": "Other"
   },
   "paperless-ngx": {
-    "stars": 47011,
-    "forks": 3269,
+    "stars": 47040,
+    "forks": 3274,
     "language": "Python",
-    "updatedAt": "2026-10-23T08:10:23Z",
+    "updatedAt": "2026-10-24T07:59:03Z",
     "license": "GNU General Public License v3.0"
   },
   "payload": {
-    "stars": 45433,
-    "forks": 4330,
+    "stars": 45459,
+    "forks": 4336,
     "language": "TypeScript",
-    "updatedAt": "2026-10-23T07:51:50Z",
+    "updatedAt": "2026-10-24T06:28:56Z",
     "license": "MIT License"
   },
   "posthog": {
-    "stars": 40387,
-    "forks": 3540,
+    "stars": 40401,
+    "forks": 3548,
     "language": "Python",
-    "updatedAt": "2026-10-23T08:04:29Z",
+    "updatedAt": "2026-10-24T07:42:33Z",
     "license": "Other"
   },
   "pycodeagi": {
@@ -2303,10 +2303,10 @@
     "license": null
   },
   "rowy": {
-    "stars": 6843,
+    "stars": 6842,
     "forks": 556,
     "language": "TypeScript",
-    "updatedAt": "2026-10-21T17:59:07Z",
+    "updatedAt": "2026-10-24T01:57:04Z",
     "license": "Other"
   },
   "second-brain-agent": {
@@ -2317,52 +2317,52 @@
     "license": "GNU General Public License v3.0"
   },
   "silverbullet": {
-    "stars": 6369,
+    "stars": 6377,
     "forks": 517,
     "language": "TypeScript",
-    "updatedAt": "2026-10-23T02:47:33Z",
+    "updatedAt": "2026-10-24T02:37:58Z",
     "license": "MIT License"
   },
   "slicc": {
     "stars": 34,
     "forks": 15,
     "language": "TypeScript",
-    "updatedAt": "2026-10-23T03:24:55Z",
+    "updatedAt": "2026-10-24T03:50:05Z",
     "license": "Apache License 2.0"
   },
   "stirling-pdf": {
-    "stars": 94773,
-    "forks": 11400,
+    "stars": 94829,
+    "forks": 11274,
     "language": "TypeScript",
-    "updatedAt": "2026-10-23T08:12:23Z",
+    "updatedAt": "2026-10-24T07:52:03Z",
     "license": "Other"
   },
   "strapi": {
-    "stars": 73363,
-    "forks": 9896,
+    "stars": 73369,
+    "forks": 9899,
     "language": "TypeScript",
-    "updatedAt": "2026-10-23T05:45:31Z",
+    "updatedAt": "2026-10-24T07:48:47Z",
     "license": "Other"
   },
   "supabase": {
-    "stars": 113632,
-    "forks": 17020,
+    "stars": 113841,
+    "forks": 16938,
     "language": "TypeScript",
-    "updatedAt": "2026-10-23T08:21:30Z",
+    "updatedAt": "2026-10-24T07:58:47Z",
     "license": "Apache License 2.0"
   },
   "superset": {
-    "stars": 75262,
-    "forks": 18512,
+    "stars": 75283,
+    "forks": 18514,
     "language": "Python",
-    "updatedAt": "2026-10-23T07:05:12Z",
+    "updatedAt": "2026-10-24T07:41:19Z",
     "license": "Apache License 2.0"
   },
   "surrealdb": {
-    "stars": 33221,
-    "forks": 1394,
+    "stars": 33225,
+    "forks": 1395,
     "language": "Rust",
-    "updatedAt": "2026-10-23T06:45:37Z",
+    "updatedAt": "2026-10-24T06:06:21Z",
     "license": "Other"
   },
   "thinkgpt": {
@@ -2373,66 +2373,66 @@
     "license": "Apache License 2.0"
   },
   "tinacms": {
-    "stars": 13842,
-    "forks": 768,
+    "stars": 13845,
+    "forks": 769,
     "language": "TypeScript",
-    "updatedAt": "2026-10-23T04:10:00Z",
+    "updatedAt": "2026-10-23T14:10:04Z",
     "license": "Apache License 2.0"
   },
   "tldraw": {
-    "stars": 51049,
-    "forks": 3572,
+    "stars": 51061,
+    "forks": 3573,
     "language": "TypeScript",
-    "updatedAt": "2026-10-23T06:29:41Z",
+    "updatedAt": "2026-10-24T07:56:45Z",
     "license": "Other"
   },
   "tooljet": {
-    "stars": 41120,
-    "forks": 5505,
+    "stars": 41122,
+    "forks": 5506,
     "language": "HTML",
-    "updatedAt": "2026-10-23T07:00:55Z",
+    "updatedAt": "2026-10-24T07:52:41Z",
     "license": "GNU Affero General Public License v3.0"
   },
   "trilium": {
-    "stars": 38474,
-    "forks": 2598,
+    "stars": 38523,
+    "forks": 2599,
     "language": "TypeScript",
-    "updatedAt": "2026-10-23T08:07:51Z",
+    "updatedAt": "2026-10-24T07:52:50Z",
     "license": "GNU Affero General Public License v3.0"
   },
   "typesense": {
-    "stars": 27033,
+    "stars": 27035,
     "forks": 1019,
     "language": "C++",
-    "updatedAt": "2026-10-23T07:49:50Z",
+    "updatedAt": "2026-10-24T03:43:55Z",
     "license": "GNU General Public License v3.0"
   },
   "uagents": {
     "stars": 1643,
     "forks": 358,
     "language": "Python",
-    "updatedAt": "2026-10-20T08:31:54Z",
+    "updatedAt": "2026-10-23T14:52:12Z",
     "license": "Apache License 2.0"
   },
   "uptime-kuma": {
-    "stars": 92781,
-    "forks": 8592,
+    "stars": 92814,
+    "forks": 8599,
     "language": "JavaScript",
-    "updatedAt": "2026-10-23T08:22:07Z",
+    "updatedAt": "2026-10-24T07:42:57Z",
     "license": "MIT License"
   },
   "v2": {
-    "stars": 9816,
-    "forks": 950,
+    "stars": 9822,
+    "forks": 949,
     "language": "Go",
-    "updatedAt": "2026-10-23T06:36:50Z",
+    "updatedAt": "2026-10-24T05:52:28Z",
     "license": "Apache License 2.0"
   },
   "webcmd": {
-    "stars": 2743,
+    "stars": 2745,
     "forks": 1539,
     "language": "TypeScript",
-    "updatedAt": "2026-10-23T06:52:39Z",
+    "updatedAt": "2026-10-24T04:53:24Z",
     "license": "Apache License 2.0"
   },
   "aigo-framework-studio": {
@@ -2443,10 +2443,10 @@
     "license": "Apache License 2.0"
   },
   "rea": {
-    "stars": 368833,
-    "forks": 92403,
+    "stars": 374695,
+    "forks": 93709,
     "language": "TypeScript",
-    "updatedAt": "2026-10-23T08:24:00Z",
+    "updatedAt": "2026-10-24T08:00:10Z",
     "license": "MIT License"
   }
 }
