@@ -1,0 +1,19 @@
+{
+  "slug": "open-cuak",
+  "name": "Open-CUAK",
+  "description": "Open-CUAK (Open Computer Use Agent Kit) is an open-source platform for building, running and managing browser automation agents. You can host it locally or use the hosted version, and it is a free alternative to OpenAI Operator.",
+  "why": "Most computer-use agent demos stop at a single run. Open-CUAK focuses on reliability and on operating many browser agents side by side, with a self-hostable stack and documentation at https://docs.aident.ai. It is a practical starting point for teams that want open-source browser automation agents they can run themselves.",
+  "website": "https://aident.ai/",
+  "github": "https://github.com/Aident-AI/open-cuak",
+  "categories": [
+    "ai-agent-skills"
+  ],
+  "tags": [
+    "ai-agents",
+    "computer-use",
+    "browser-automation",
+    "self-hosted",
+    "open-source"
+  ],
+  "featured": false
+}
