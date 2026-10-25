@@ -176,6 +176,7 @@ type Issue = {
   function normalizeCategory(value: string) {
     const categories: Record<string, string> = {
       ai: "ai",
+      "ai agent skills & automation": "ai-agent-skills",
       "developer tools": "developer-tools",
       web: "web",
       "self-hosted": "self-hosted",
